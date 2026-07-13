@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-14",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-14T06:54:41.762713+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/",
+      "source": "MarkTechPost",
+      "published": "2026-07-14T06:37:53+08:00",
+      "title": {
+        "en": "Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity",
+        "zh": "Skyfall AI 发布 MORPHEUS：持久性企业模拟基准，使得结构化非平稳性下持续强化学习成为必要"
+      },
+      "summary": {
+        "en": "MORPHEUS from Skyfall AI is a persistent enterprise simulation platform for continual reinforcement learning. It runs worlds that never reset, using parameterisable regime shifts…",
+        "zh": "Skyfall AI 的 MORPHEUS 是一个持久的企业模拟平台，用于持续强化学习。它使用可参数化的政权转变来运行永不重置的世界……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-14T04:59:00+08:00",
+      "title": {
+        "en": "Satya Nadella has issued a shocking warning to companies using AI",
+        "zh": "萨蒂亚·纳德拉 (Satya Nadella) 对使用人工智能的公司发出了令人震惊的警告"
+      },
+      "summary": {
+        "en": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs th…",
+        "zh": "在关于人工智能潜在缺点的所有激烈争论中，有一个担忧最让硅谷的人工智能爱好者们揪心——巨型人工智能实验室……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "source": "The Verge AI",
+      "published": "2026-07-14T04:43:20+08:00",
+      "title": {
+        "en": "Siri AI is already changing how I use my iPhone",
+        "zh": "Siri AI 已经在改变我使用 iPhone 的方式"
+      },
+      "summary": {
+        "en": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it…",
+        "zh": "iOS 27 今天随着第一个公开测试版的推出而脱离了开发者世界。自六月初以来，我一直在测试新操作系统，寻找怪癖并看看它是否......"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/",
+      "source": "MarkTechPost",
+      "published": "2026-07-14T02:30:30+08:00",
+      "title": {
+        "en": "Building a VideoAgent-Style Multi-Agent System: Intent Parsing, Graph Planning, and Tool Routing for Video Editing Tasks",
+        "zh": "构建VideoAgent风格的多Agent系统：视频编辑任务的意图解析、图形规划和工具路由"
+      },
+      "summary": {
+        "en": "In this tutorial, we reconstruct the VideoAgent workflow as a runnable, API-key-free multi-agent pipeline. We build an intent parser, an agent library, a tool router, a graph plan…",
+        "zh": "在本教程中，我们将 VideoAgent 工作流程重构为可运行、无 API 密钥的多代理管道。我们构建了一个意图解析器、一个代理库、一个工具路由器、一个图形计划......"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-14T02:00:00+08:00",
+      "title": {
+        "en": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "zh": "Anthropic 最新的人工智能发现展示了什么，没有展示什么"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valu…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。人类——目前世界上最有价值的……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-13T23:06:34+08:00",
+      "title": {
+        "en": "Now, defenders are embracing the prompt injection, too",
+        "zh": "现在，防御者也开始接受即时注入"
+      },
+      "summary": {
+        "en": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+        "zh": "“上下文轰炸”会诱骗黑客代理在造成伤害之前将其关闭。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.08773",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-13T12:00:00+08:00",
+      "title": {
+        "en": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+        "zh": "通过格遍历的多层感知器的区间认证"
+      },
+      "summary": {
+        "en": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In…",
+        "zh": "arXiv:2607.08773v1 公告类型：新 摘要：在这项工作中，我们针对人工智能安全的基本问题（即对抗鲁棒性）提出了严格的理论框架。在…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI",
+      "published": "2026-07-10T15:00:00+08:00",
+      "title": {
+        "en": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "zh": "德国电信如何利用人工智能重新布线电信"
+      },
+      "summary": {
+        "en": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+        "zh": "德国电信如何通过 OpenAI 成为一家人工智能原生电信公司——改变客户服务、员工工作流程、网络运营和语音的未来。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "source": "Google DeepMind",
+      "published": "2026-07-03T22:25:43+08:00",
+      "title": {
+        "en": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+        "zh": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
