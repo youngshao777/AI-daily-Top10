@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Daily — 每日AI前沿</title>
+<meta name="description" content="每日自动聚合的AI前沿资讯精选" />
+<link rel="icon" href="data:," />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <div class="brand">
+        <span class="brand-mark">AI</span>
+        <div class="brand-text">
+          <h1>AI Daily</h1>
+          <p class="tagline">每日自动聚合 · 前沿资讯精选</p>
+        </div>
+      </div>
+      <nav class="cats" id="cats" aria-label="分类"></nav>
+    </header>
+
+    <main>
+      <div class="list-meta">
+        <div class="list-meta-left">
+          <span id="viewDate" class="view-date">—</span>
+          <span id="viewBadge" class="badge" hidden>历史存档</span>
+        </div>
+        <div class="archive-picker">
+          <label for="archiveSelect">存档</label>
+          <select id="archiveSelect" aria-label="选择历史日期"></select>
+        </div>
+      </div>
+
+      <ol class="story-list" id="storyList">
+        <li class="skeleton" aria-hidden="true"></li>
+        <li class="skeleton" aria-hidden="true"></li>
+        <li class="skeleton" aria-hidden="true"></li>
+      </ol>
+
+      <p class="empty-state" id="emptyState" hidden>暂无数据，请稍后再来。</p>
+    </main>
+
+    <footer class="site-footer">
+      <p>内容由公开 RSS 源自动聚合生成，每日定时更新，版权归原作者与站点所有 · 点击标题跳转原文</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
