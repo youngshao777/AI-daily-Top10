@@ -12,6 +12,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import feedparser
+from deep_translator import GoogleTranslator, MyMemoryTranslator
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config" / "categories.json"
@@ -20,6 +21,24 @@ ARCHIVE_DIR = DATA_DIR / "archive"
 LOCAL_TZ = ZoneInfo("Asia/Shanghai")
 
 TAG_RE = re.compile(r"<[^>]+>")
+
+
+def translate_to_zh(text):
+    """Best-effort EN->ZH translation. Falls back to the original text if every
+    backend fails, so a translation outage never breaks the pipeline."""
+    if not text:
+        return text
+    for translator in (
+        lambda t: GoogleTranslator(source="en", target="zh-CN").translate(t),
+        lambda t: MyMemoryTranslator(source="en-US", target="zh-CN").translate(t),
+    ):
+        try:
+            result = translator(text)
+            if result:
+                return result
+        except Exception as exc:  # noqa: BLE001
+            print(f"  ! translation backend failed: {exc}", file=sys.stderr)
+    return text
 
 
 def clean_text(raw, limit=180):
@@ -120,6 +139,17 @@ def select_diverse(items, top_count, max_per_source):
     return selected
 
 
+def translate_items(items):
+    print(f"  translating {len(items)} items to zh...")
+    for item in items:
+        title_en = item.pop("title")
+        summary_en = item.pop("summary")
+        item["title"] = {"en": title_en, "zh": translate_to_zh(title_en)}
+        item["summary"] = {"en": summary_en, "zh": translate_to_zh(summary_en) if summary_en else ""}
+        time.sleep(0.2)  # be polite to the free translation backends
+    return items
+
+
 def build_category(category):
     print(f"Fetching category '{category['id']}'...")
     all_items = []
@@ -134,7 +164,7 @@ def build_category(category):
     top = select_diverse(deduped, top_count, max_per_source)
     for item in top:
         item.pop("_ts", None)
-    return top
+    return translate_items(top)
 
 
 def load_json(path, default):

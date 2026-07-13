@@ -15,20 +15,23 @@
         <span class="brand-mark">AI</span>
         <div class="brand-text">
           <h1>AI Daily</h1>
-          <p class="tagline">每日自动聚合 · 前沿资讯精选</p>
+          <p class="tagline" id="tagline">每日自动聚合 · 前沿资讯精选</p>
         </div>
       </div>
-      <nav class="cats" id="cats" aria-label="分类"></nav>
+      <div class="header-controls">
+        <nav class="cats" id="cats" aria-label="分类"></nav>
+        <button class="lang-toggle" id="langToggle" type="button" aria-label="切换语言 / Switch language">中 / EN</button>
+      </div>
     </header>
 
     <main>
       <div class="list-meta">
         <div class="list-meta-left">
           <span id="viewDate" class="view-date">—</span>
-          <span id="viewBadge" class="badge" hidden>历史存档</span>
+          <span id="viewBadge" class="badge" hidden></span>
         </div>
         <div class="archive-picker">
-          <label for="archiveSelect">存档</label>
+          <label for="archiveSelect" id="archiveLabel">存档</label>
           <select id="archiveSelect" aria-label="选择历史日期"></select>
         </div>
       </div>
@@ -39,11 +42,11 @@
         <li class="skeleton" aria-hidden="true"></li>
       </ol>
 
-      <p class="empty-state" id="emptyState" hidden>暂无数据，请稍后再来。</p>
+      <p class="empty-state" id="emptyState" hidden></p>
     </main>
 
     <footer class="site-footer">
-      <p>内容由公开 RSS 源自动聚合生成，每日定时更新，版权归原作者与站点所有 · 点击标题跳转原文</p>
+      <p id="footerText">内容由公开 RSS 源自动聚合生成，每日定时更新，版权归原作者与站点所有 · 点击标题跳转原文</p>
     </footer>
   </div>
 

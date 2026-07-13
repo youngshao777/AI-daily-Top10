@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": "ai",
-      "name": "AI",
+      "name": { "zh": "AI", "en": "AI" },
       "enabled": true,
       "topCount": 10,
       "maxPerSource": 2,
@@ -21,9 +21,10 @@
     },
     {
       "id": "games",
-      "name": "游戏",
+      "name": { "zh": "游戏", "en": "Games" },
       "enabled": false,
       "topCount": 10,
+      "maxPerSource": 2,
       "feeds": [
         { "source": "IGN", "url": "https://feeds.ign.com/ign/all" },
         { "source": "Polygon", "url": "https://www.polygon.com/rss/index.xml" }
@@ -31,9 +32,10 @@
     },
     {
       "id": "science",
-      "name": "科学",
+      "name": { "zh": "科学", "en": "Science" },
       "enabled": false,
       "topCount": 10,
+      "maxPerSource": 2,
       "feeds": [
         { "source": "Nature News", "url": "https://www.nature.com/nature.rss" },
         { "source": "Science Daily", "url": "https://www.sciencedaily.com/rss/top/science.xml" }

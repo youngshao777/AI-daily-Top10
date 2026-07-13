@@ -1,78 +1,141 @@
 {
   "date": "2026-07-13",
   "category": "ai",
-  "categoryName": "AI",
-  "generatedAt": "2026-07-13T18:19:31.897035+08:00",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-13T18:27:38.141323+08:00",
   "items": [
     {
-      "title": "Waze is getting a bunch of new AI-powered features",
       "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
       "source": "The Verge AI",
-      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more.…",
-      "published": "2026-07-13T17:00:00+08:00"
+      "published": "2026-07-13T17:00:00+08:00",
+      "title": {
+        "en": "Waze is getting a bunch of new AI-powered features",
+        "zh": "Waze 获得了一系列新的人工智能功能"
+      },
+      "summary": {
+        "en": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more.…",
+        "zh": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化他们的旅行。..."
+      }
     },
     {
-      "title": "Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment",
       "link": "https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/",
       "source": "MarkTechPost",
-      "summary": "Agentic LLMs keep failing the same way because they lack specific, reusable capabilities. Stanford's TRACE diagnoses those gaps from an agent's own trajectories, synthesizes one v…",
-      "published": "2026-07-13T16:45:12+08:00"
+      "published": "2026-07-13T16:45:12+08:00",
+      "title": {
+        "en": "Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment",
+        "zh": "斯坦福大学研究人员推出 TRACE：一种以能力为目标的智能体训练系统，可将经常出现的智能体故障转变为合成 RL 环境"
+      },
+      "summary": {
+        "en": "Agentic LLMs keep failing the same way because they lack specific, reusable capabilities. Stanford's TRACE diagnoses those gaps from an agent's own trajectories, synthesizes one v…",
+        "zh": "代理法学硕士总是以同样的方式失败，因为它们缺乏特定的、可重用的功能。斯坦福大学的 TRACE 从智能体自身的轨迹中诊断出这些差距，合成一个…"
+      }
     },
     {
-      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
       "link": "https://arxiv.org/abs/2607.08773",
       "source": "arXiv cs.AI",
-      "summary": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In…",
-      "published": "2026-07-13T12:00:00+08:00"
+      "published": "2026-07-13T12:00:00+08:00",
+      "title": {
+        "en": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+        "zh": "通过格遍历的多层感知器的区间认证"
+      },
+      "summary": {
+        "en": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In…",
+        "zh": "arXiv:2607.08773v1 公告类型：新 摘要：在这项工作中，我们针对人工智能安全的基本问题（即对抗鲁棒性）提出了严格的理论框架。在…"
+      }
     },
     {
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
       "source": "The Verge AI",
-      "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in part…",
-      "published": "2026-07-13T04:10:19+08:00"
+      "published": "2026-07-13T04:10:19+08:00",
+      "title": {
+        "en": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+        "zh": "洛德表示雷朋 Meta AI 眼镜“并不性感”"
+      },
+      "summary": {
+        "en": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in part…",
+        "zh": "周四，洛德在马德里的 Real Cool 音乐节上表演，并在演出期间花了一些时间公开反对人工智能眼镜。虽然她没有部分指定任何品牌……"
+      }
     },
     {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "source": "TechCrunch AI",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "published": "2026-07-11T22:13:00+08:00"
+      "published": "2026-07-11T22:13:00+08:00",
+      "title": {
+        "en": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "zh": "随着 ChatGPT 深入家庭，OpenAI 押注家庭"
+      },
+      "summary": {
+        "en": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+        "zh": "根据招聘信息，ChatGPT 正在招聘一名专门的产品经理，为家庭、护理人员和老年人打造体验。"
+      }
     },
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "link": "https://openai.com/index/deutsche-telekom",
       "source": "OpenAI",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "published": "2026-07-10T15:00:00+08:00"
+      "published": "2026-07-10T15:00:00+08:00",
+      "title": {
+        "en": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "zh": "德国电信如何利用人工智能重新布线电信"
+      },
+      "summary": {
+        "en": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+        "zh": "德国电信如何通过 OpenAI 成为一家人工智能原生电信公司——改变客户服务、员工工作流程、网络运营和语音的未来。"
+      }
     },
     {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
       "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "source": "MIT Technology Review",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry…",
-      "published": "2026-07-10T04:22:28+08:00"
+      "published": "2026-07-10T04:22:28+08:00",
+      "title": {
+        "en": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "zh": "人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑"
+      },
+      "summary": {
+        "en": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry…",
+        "zh": "人工智能公司 Anthropic 开发了一种技术，可以让人们最清晰地了解大型语言模型在回答问题或携带……时内部到底发生了什么。"
+      }
     },
     {
-      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
       "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
       "source": "Ars Technica AI",
-      "summary": "AI cheating leads to \"a failed society,\" professor says.",
-      "published": "2026-07-09T05:42:44+08:00"
+      "published": "2026-07-09T05:42:44+08:00",
+      "title": {
+        "en": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+        "zh": "常春藤盟校教授怀疑人工智能作弊，下令进行现场决赛；成绩下降50%"
+      },
+      "summary": {
+        "en": "AI cheating leads to \"a failed society,\" professor says.",
+        "zh": "教授表示，人工智能作弊会导致“一个失败的社会”。"
+      }
     },
     {
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
       "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
       "source": "Google DeepMind",
-      "summary": "",
-      "published": "2026-07-03T22:25:43+08:00"
+      "published": "2026-07-03T22:25:43+08:00",
+      "title": {
+        "en": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+        "zh": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
     },
     {
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
-      "published": "2026-05-20T01:45:00+08:00"
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
     }
   ]
 }
