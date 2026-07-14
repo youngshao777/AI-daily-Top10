@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-15",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-15T06:55:40.471675+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/07/14/prismml-releases-bonsai-27b-1-bit-and-ternary-builds-of-qwen3-6-27b-that-run-on-laptops-and-phones/",
+      "source": "MarkTechPost",
+      "published": "2026-07-15T06:51:34+08:00",
+      "title": {
+        "en": "PrismML Releases Bonsai 27B: 1-bit and Ternary Builds of Qwen3.6-27B That Run on Laptops and Phones",
+        "zh": "PrismML 发布 Bonsai 27B：在笔记本电脑和手机上运行的 Qwen3.6-27B 的 1 位和三元版本"
+      },
+      "summary": {
+        "en": "PrismML just released Bonsai 27B. It is a low-bit representation of Qwen3.6-27B, not a new pretrain. The architecture is unchanged. Two variants ship under Apache 2.0. Ternary Bon…",
+        "zh": "PrismML 刚刚发布了 Bonsai 27B。它是 Qwen3.6-27B 的低位表示，而不是新的预训练。架构没有改变。 Apache 2.0 下有两个变体。三元邦…"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-15T06:22:24+08:00",
+      "title": {
+        "en": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+        "zh": "据报道，OpenAI 的第一款硬件设备是一款可移动的无屏扬声器"
+      },
+      "summary": {
+        "en": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?",
+        "zh": "据报道，OpenAI 的第一款硬件设备是一款无屏幕、AI 引导、可移动的智能音箱。对你来说够奇怪的吗？"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "source": "The Verge AI",
+      "published": "2026-07-15T05:26:32+08:00",
+      "title": {
+        "en": "OpenAI may announce a ChatGPT smart speaker this year",
+        "zh": "OpenAI 今年可能会推出 ChatGPT 智能音箱"
+      },
+      "summary": {
+        "en": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a…",
+        "zh": "据彭博社报道，OpenAI 的第一款设备将是一款智能扬声器，可以让你与 ChatGPT 交谈。该设备显然不会有屏幕，但会使用……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/",
+      "source": "MarkTechPost",
+      "published": "2026-07-15T04:52:41+08:00",
+      "title": {
+        "en": "Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task",
+        "zh": "Mistral Vibe for Code vs Claude Code vs Cursor vs Codex：四名智能体在一项脚手架到公关任务中得分"
+      },
+      "summary": {
+        "en": "See how Vibe, Claude Code, Cursor, and Codex compare on cost, open weights, self-hosting, and async agent surfaces. The post Mistral Vibe for Code vs Claude Code vs Cursor vs Code…",
+        "zh": "了解 Vibe、Claude Code、Cursor 和 Codex 在成本、开放权重、自托管和异步代理表面方面的比较。 Mistral Vibe for Code vs Claude Code vs Cursor vs Code 的帖子..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "OpenAI",
+      "published": "2026-07-14T18:00:00+08:00",
+      "title": {
+        "en": "How to manage AI investments in the agentic era",
+        "zh": "代理时代如何管理人工智能投资"
+      },
+      "summary": {
+        "en": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+        "zh": "了解企业如何通过衡量每美元的有用工作、提高效率和扩展高价值工作流程来管理代理时代的人工智能投资。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.09664",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-14T12:00:00+08:00",
+      "title": {
+        "en": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+        "zh": "从 ML 预测到使用 Toulmin 论证模型的知情诊断帮助"
+      },
+      "summary": {
+        "en": "arXiv:2607.09664v1 Announce Type: new Abstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin…",
+        "zh": "arXiv：2607.09664v1 公告类型：新 摘要：为了提供结构化和可解释的评估，我们将基于图像的诊断分解为遵循 Toulmin 的组件......"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-14T02:00:00+08:00",
+      "title": {
+        "en": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "zh": "Anthropic 最新的人工智能发现展示了什么，没有展示什么"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valu…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。人类——目前世界上最有价值的……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-13T23:06:34+08:00",
+      "title": {
+        "en": "Now, defenders are embracing the prompt injection, too",
+        "zh": "现在，防御者也开始接受即时注入"
+      },
+      "summary": {
+        "en": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+        "zh": "“上下文轰炸”会诱骗黑客代理在造成伤害之前将其关闭。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "source": "Google DeepMind",
+      "published": "2026-07-13T20:37:28+08:00",
+      "title": {
+        "en": "Empowering India’s next generation of innovators with ATL Saathi",
+        "zh": "通过 ATL Saathi 为印度下一代创新者提供支持"
+      },
+      "summary": {
+        "en": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+        "zh": "Google 和 AIM 推出了 ATL Saathi，这是一款由 Gemini 驱动的人工智能工具，为印度机器人实验室的教育工作者提供支持。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
