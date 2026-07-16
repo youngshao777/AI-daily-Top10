@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-17",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-17T06:55:37.266863+08:00",
+  "items": [
+    {
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat AI",
+      "published": "2026-07-17T03:16:48+08:00",
+      "title": {
+        "en": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "zh": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度"
+      },
+      "summary": {
+        "en": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of h…",
+        "zh": "在 107 家企业中，人工智能基础设施支出的加速增长远远超过了观察或引导其经济的能力。大多数组织都在熟悉的基础上运行人工智能……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat AI",
+      "published": "2026-07-17T03:02:38+08:00",
+      "title": {
+        "en": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+        "zh": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证"
+      },
+      "summary": {
+        "en": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed…",
+        "zh": "在 107 家企业中，人工智能代理能够真正访问系统和数据，但遏制它们的控制措施却滞后。超过一半的人已经确认了……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/",
+      "source": "MarkTechPost",
+      "published": "2026-07-17T02:48:04+08:00",
+      "title": {
+        "en": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection",
+        "zh": "OpenAI 详细介绍了 GPT-Red：一种内部自动红队模型，在快速注入时可将人类红队成员击败 84% 至 13%"
+      },
+      "summary": {
+        "en": "OpenAI trained GPT-Red, an internal-only attacker model, using self-play reinforcement learning against a population of defender LLMs. It beat human red-teamers 84% to 13% on a re…",
+        "zh": "OpenAI 训练了 GPT-Red，这是一种仅限内部的攻击者模型，使用自我对弈强化学习来对抗一群防御者 LLM。它在测试中以 84% 比 13% 的比分击败了人类红队队员……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-17T02:32:54+08:00",
+      "title": {
+        "en": "Google Vids now lets you star in your own AI videos",
+        "zh": "Google Vids 现在可让您在自己的 AI 视频中担任主角"
+      },
+      "summary": {
+        "en": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and edit…",
+        "zh": "谷歌正在将个性化的人工智能头像添加到视频中，让用户可以创建以自己的数字版本为主角的视频，以及用于生成和编辑的 Gemini Omni 支持的工具……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "source": "The Verge AI",
+      "published": "2026-07-17T01:58:37+08:00",
+      "title": {
+        "en": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+        "zh": "纽约州州长表示，她正在使用人工智能来分析该州的“每一条规则”"
+      },
+      "summary": {
+        "en": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview wit…",
+        "zh": "纽约州州长 Kathy Hochul 可能刚刚签署了暂停在该州新建人工智能数据中心的协议，但她并不反对自己使用该技术。在接受采访时..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "source": "OpenAI",
+      "published": "2026-07-17T00:00:00+08:00",
+      "title": {
+        "en": "Why teens deserve access to safe AI",
+        "zh": "为什么青少年应该获得安全的人工智能"
+      },
+      "summary": {
+        "en": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+        "zh": "了解 OpenAI 如何通过适合年龄的保护、学习工具、家长控制和专家合作伙伴关系，让 ChatGPT 对青少年来说更安全。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "Google DeepMind",
+      "published": "2026-07-16T17:30:42+08:00",
+      "title": {
+        "en": "Our approach to bioresilience",
+        "zh": "我们的生物弹性方法"
+      },
+      "summary": {
+        "en": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+        "zh": "Google DeepMind 和 Isomorphic Labs 正在分享我们在生物弹性和人工智能模型方面的联合方法。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.13037",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-16T12:00:00+08:00",
+      "title": {
+        "en": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+        "zh": "OriginBlame：AI 训练数据集的记录级和令牌级数据来源"
+      },
+      "summary": {
+        "en": "arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no t…",
+        "zh": "arXiv:2607.13037v1 公告类型：新摘要：当数据贡献者请求删除时，模型训练者面临一个实际差距：取消学习算法需要忘记集，但没有..."
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-16T01:09:37+08:00",
+      "title": {
+        "en": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "zh": "认识一下 GPT-Red：LLM 超级黑客 OpenAI，旨在使其模型更安全"
+      },
+      "summary": {
+        "en": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company re…",
+        "zh": "OpenAI 构建了一个名为 GPT-Red 的 LLM 超级黑客，将其用作陪练伙伴，帮助其其他模型增强对网络攻击的防御能力。上周该公司重新…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-13T23:06:34+08:00",
+      "title": {
+        "en": "Now, defenders are embracing the prompt injection, too",
+        "zh": "现在，防御者也开始接受即时注入"
+      },
+      "summary": {
+        "en": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+        "zh": "“上下文轰炸”会诱骗黑客代理在造成伤害之前将其关闭。"
+      }
+    }
+  ]
+}
