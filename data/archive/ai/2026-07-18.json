@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-18",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-18T06:48:17.862586+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/",
+      "source": "MarkTechPost",
+      "published": "2026-07-18T06:12:57+08:00",
+      "title": {
+        "en": "Build an Agentic Event Venue Operator with MongoDB Atlas, Voyage, and LangGraph",
+        "zh": "使用 MongoDB Atlas、Voyage 和 LangGraph 构建代理活动场地运营商"
+      },
+      "summary": {
+        "en": "Introduction This tutorial starts where most agent demos stop: giving the agent persistent memory, operational context, and a place to write back what happened. An event operator…",
+        "zh": "简介 本教程从大多数代理演示停止的地方开始：为代理提供持久内存、操作上下文以及写回发生的情况的位置。事件操作员..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-18T06:12:56+08:00",
+      "title": {
+        "en": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+        "zh": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位"
+      },
+      "summary": {
+        "en": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+        "zh": "Databricks 将其形象重塑为一家人工智能公司，并发表了关于开放权重人工智能模型编码成本节省的研究。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
+      "source": "MarkTechPost",
+      "published": "2026-07-18T05:35:27+08:00",
+      "title": {
+        "en": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds",
+        "zh": "Zyphra 发布 ZUNA1.1：具有 0.5 至 30 秒可变长度输入的 Apache 2.0 EEG 基础模型"
+      },
+      "summary": {
+        "en": "Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary chan…",
+        "zh": "Zyphra 于 2026 年 7 月 16 日在 Apache 2.0 许可证下发布了 ZUNA1.1。 380M 掩蔽扩散自动编码器可跨任意通道对头皮脑电图进行重建、去噪和上采样……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "source": "The Verge AI",
+      "published": "2026-07-18T03:34:30+08:00",
+      "title": {
+        "en": "TikTok is testing an AI likeness detection tool",
+        "zh": "TikTok 正在测试人工智能相似度检测工具"
+      },
+      "summary": {
+        "en": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool i…",
+        "zh": "社交媒体顾问马特·纳瓦拉 (Matt Navarra) 发现，TikTok 正在开始测试一种选择加入工具，该工具可以扫描人工智能相似之处，并让创作者向公司报告。该工具我..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI",
+      "published": "2026-07-17T18:00:00+08:00",
+      "title": {
+        "en": "A scorecard for the AI age",
+        "zh": "人工智能时代的记分卡"
+      },
+      "summary": {
+        "en": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+        "zh": "OpenAI 首席财务官 Sarah Friar 推出了实用的 AI 记分卡，通过有用的工作、每项成功任务的成本、可靠性和计算回报来衡量投资回报率。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-17T16:57:32+08:00",
+      "title": {
+        "en": "The risk of weather data sabotage is rising",
+        "zh": "天气数据遭到破坏的风险正在上升"
+      },
+      "summary": {
+        "en": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something th…",
+        "zh": "每天早上，世界各地的航空公司调度员、电网运营商和农民都会根据同一件事做出决策：天气预报。虽然这些预测是……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.14093",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-17T12:00:00+08:00",
+      "title": {
+        "en": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+        "zh": "用于搜索和救援的自主无人机群的智能三级学习架构"
+      },
+      "summary": {
+        "en": "arXiv:2607.14093v1 Announce Type: new Abstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue o…",
+        "zh": "arXiv:2607.14093v1 公告类型：新 摘要：本文提出了一种新颖的三级分层学习架构，用于自主无人机群执行搜索和救援……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat AI",
+      "published": "2026-07-17T03:16:48+08:00",
+      "title": {
+        "en": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "zh": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度"
+      },
+      "summary": {
+        "en": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of h…",
+        "zh": "在 107 家企业中，人工智能基础设施支出的加速增长远远超过了观察或引导其经济的能力。大多数组织都在熟悉的基础上运行人工智能……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "Google DeepMind",
+      "published": "2026-07-16T17:30:42+08:00",
+      "title": {
+        "en": "Our approach to bioresilience",
+        "zh": "我们的生物弹性方法"
+      },
+      "summary": {
+        "en": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+        "zh": "Google DeepMind 和 Isomorphic Labs 正在分享我们在生物弹性和人工智能模型方面的联合方法。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-13T23:06:34+08:00",
+      "title": {
+        "en": "Now, defenders are embracing the prompt injection, too",
+        "zh": "现在，防御者也开始接受即时注入"
+      },
+      "summary": {
+        "en": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+        "zh": "“上下文轰炸”会诱骗黑客代理在造成伤害之前将其关闭。"
+      }
+    }
+  ]
+}
