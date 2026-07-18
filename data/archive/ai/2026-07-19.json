@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-19",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-19T06:47:27.063787+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "The Verge AI",
+      "published": "2026-07-19T04:54:42+08:00",
+      "title": {
+        "en": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+        "zh": "Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”"
+      },
+      "summary": {
+        "en": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McS…",
+        "zh": "去年，Sam Altman 邀请作家 Dave Eggers 为大约 200 名 OpenAI 员工发表演讲。这个人写了无数的小说、剧本、新闻文章，创办了 McS……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/",
+      "source": "MarkTechPost",
+      "published": "2026-07-19T03:16:22+08:00",
+      "title": {
+        "en": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking",
+        "zh": "NVIDIA 发布 DeepStream 9.1：通过 13 项技能和多视图 3D 跟踪将 Agentic AI 引入视觉 AI"
+      },
+      "summary": {
+        "en": "NVIDIA DeepStream 9.1 introduces 13 agentic skills that let coding agents like Claude Code and Codex build multi-camera video analytics pipelines from natural-language prompts. Mu…",
+        "zh": "NVIDIA DeepStream 9.1 引入了 13 种代理技能，使 Claude Code 和 Codex 等编码代理可以根据自然语言提示构建多摄像头视频分析管道。亩…"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-19T02:51:07+08:00",
+      "title": {
+        "en": "Kimi: Threat or menace?",
+        "zh": "Kimi：威胁还是威胁？"
+      },
+      "summary": {
+        "en": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+        "zh": "中国公司探月人工智能本周发布了新版Kimi模型，引发了人们对“全面人工智能共产主义”的担忧。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "source": "The Verge AI",
+      "published": "2026-07-18T20:00:00+08:00",
+      "title": {
+        "en": "The apps, gadgets, and tools every reader needs",
+        "zh": "每个读者都需要的应用程序、小工具和工具"
+      },
+      "summary": {
+        "en": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, a…",
+        "zh": "嗨，朋友们！欢迎来到 Installer No. 136，这是您了解世界上最好、最前沿的东西的指南。 （如果你是新来的，欢迎，希望你的邻居不像我的那样烟雾缭绕，一个......"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.14093",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-18T12:00:00+08:00",
+      "title": {
+        "en": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+        "zh": "用于搜索和救援的自主无人机群的智能三级学习架构"
+      },
+      "summary": {
+        "en": "arXiv:2607.14093v1 Announce Type: new Abstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue o…",
+        "zh": "arXiv:2607.14093v1 公告类型：新 摘要：本文提出了一种新颖的三级分层学习架构，用于自主无人机群执行搜索和救援……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI",
+      "published": "2026-07-17T18:00:00+08:00",
+      "title": {
+        "en": "A scorecard for the AI age",
+        "zh": "人工智能时代的记分卡"
+      },
+      "summary": {
+        "en": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+        "zh": "OpenAI 首席财务官 Sarah Friar 推出了实用的 AI 记分卡，通过有用的工作、每项成功任务的成本、可靠性和计算回报来衡量投资回报率。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-17T16:57:32+08:00",
+      "title": {
+        "en": "The risk of weather data sabotage is rising",
+        "zh": "天气数据遭到破坏的风险正在上升"
+      },
+      "summary": {
+        "en": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something th…",
+        "zh": "每天早上，世界各地的航空公司调度员、电网运营商和农民都会根据同一件事做出决策：天气预报。虽然这些预测是……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat AI",
+      "published": "2026-07-17T03:16:48+08:00",
+      "title": {
+        "en": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "zh": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度"
+      },
+      "summary": {
+        "en": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of h…",
+        "zh": "在 107 家企业中，人工智能基础设施支出的加速增长远远超过了观察或引导其经济的能力。大多数组织都在熟悉的基础上运行人工智能……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "Google DeepMind",
+      "published": "2026-07-16T17:30:42+08:00",
+      "title": {
+        "en": "Our approach to bioresilience",
+        "zh": "我们的生物弹性方法"
+      },
+      "summary": {
+        "en": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+        "zh": "Google DeepMind 和 Isomorphic Labs 正在分享我们在生物弹性和人工智能模型方面的联合方法。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-13T23:06:34+08:00",
+      "title": {
+        "en": "Now, defenders are embracing the prompt injection, too",
+        "zh": "现在，防御者也开始接受即时注入"
+      },
+      "summary": {
+        "en": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+        "zh": "“上下文轰炸”会诱骗黑客代理在造成伤害之前将其关闭。"
+      }
+    }
+  ]
+}
