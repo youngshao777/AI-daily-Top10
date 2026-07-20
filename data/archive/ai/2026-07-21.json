@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-21",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-21T06:59:28.575702+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-21T06:21:04+08:00",
+      "title": {
+        "en": "Trump’s latest AI czar has already resigned",
+        "zh": "特朗普最新的人工智能沙皇已经辞职"
+      },
+      "summary": {
+        "en": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+        "zh": "自从大卫·萨克斯 (David Sacks) 卸任沙皇职位以来，人工智能标准与创新中心 (CAISI) 的主任一职已经成为一个旋转门。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "source": "The Verge AI",
+      "published": "2026-07-21T06:19:12+08:00",
+      "title": {
+        "en": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+        "zh": "以下是索尼起诉 Udio 人工智能音乐生成器的 30,000 首歌曲"
+      },
+      "summary": {
+        "en": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis P…",
+        "zh": "索尼音乐娱乐公司又对 Udio 提起诉讼，指控这款 AI 音乐生成器侵犯了其 30,000 多首歌曲的版权，其中包括 Elvis P..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-21T05:21:15+08:00",
+      "title": {
+        "en": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "zh": "谷歌正在开发一款新的人工智能芯片，旨在提高 Gemini 的效率"
+      },
+      "summary": {
+        "en": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+        "zh": "据报道，谷歌母公司 Alphabet 正在开发一款新芯片，旨在提高其 Gemini 模型的运行效率。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/",
+      "source": "MarkTechPost",
+      "published": "2026-07-21T05:14:19+08:00",
+      "title": {
+        "en": "Alibaba’s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted Text-to-Speech Model in Flash and Plus Tiers Across 16 Languages",
+        "zh": "阿里巴巴统一实验室发布 Qwen-Audio-3.0-TTS，一种跨 16 种语言的 Flash 和 Plus 层托管文本转语音模型"
+      },
+      "summary": {
+        "en": "Alibaba’s Tongyi Lab has released Qwen-Audio-3.0-TTS, a production-oriented text-to-speech (TTS) system. The model ships in two variants from the same lineage. Flash targets real-…",
+        "zh": "阿里巴巴统一实验室发布了面向生产的文本转语音（TTS）系统Qwen-Audio-3.0-TTS。该模型有来自同一血统的两个变体。 Flash 的目标是真实..."
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-21T02:00:00+08:00",
+      "title": {
+        "en": "China’s AI models have Trump’s AI world at war with itself",
+        "zh": "中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and for…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。周末，一些当前的和…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-20T19:20:10+08:00",
+      "title": {
+        "en": "Beyond grep: The case for a context-rich AI coding harness",
+        "zh": "超越 grep：上下文丰富的 AI 编码工具的案例"
+      },
+      "summary": {
+        "en": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+        "zh": "Augment Code 的 Vinay Perneti 谈论模型、工具和背景。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI",
+      "published": "2026-07-20T18:00:00+08:00",
+      "title": {
+        "en": "Safety and alignment in an era of long-horizon models",
+        "zh": "长视野模型时代的安全性和对准"
+      },
+      "summary": {
+        "en": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+        "zh": "OpenAI 分享了部署长期运行的人工智能模型的经验教训，强调了新的安全风险、观察到的故障以及通过迭代部署改进的保障措施。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.15280",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-20T12:00:00+08:00",
+      "title": {
+        "en": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+        "zh": "GraphDx：用于顺序诊断的成本感知知识增强多代理框架"
+      },
+      "summary": {
+        "en": "arXiv:2607.15280v1 Announce Type: new Abstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existin…",
+        "zh": "arXiv:2607.15280v1 公告类型：新 摘要：顺序诊断需要通过迭代信息收集来平衡诊断准确性和资源成本。存在…"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat AI",
+      "published": "2026-07-17T03:16:48+08:00",
+      "title": {
+        "en": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "zh": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度"
+      },
+      "summary": {
+        "en": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of h…",
+        "zh": "在 107 家企业中，人工智能基础设施支出的加速增长远远超过了观察或引导其经济的能力。大多数组织都在熟悉的基础上运行人工智能……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "Google DeepMind",
+      "published": "2026-07-16T17:30:42+08:00",
+      "title": {
+        "en": "Our approach to bioresilience",
+        "zh": "我们的生物弹性方法"
+      },
+      "summary": {
+        "en": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+        "zh": "Google DeepMind 和 Isomorphic Labs 正在分享我们在生物弹性和人工智能模型方面的联合方法。"
+      }
+    }
+  ]
+}
