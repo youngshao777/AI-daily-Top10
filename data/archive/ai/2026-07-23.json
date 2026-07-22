@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-23",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-23T07:01:26.109835+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
+      "source": "MarkTechPost",
+      "published": "2026-07-23T06:37:44+08:00",
+      "title": {
+        "en": "Cursor Releases Cursor Router: A Request-Level Classifier Delivering Frontier Coding Quality at 30–50% Lower Cost",
+        "zh": "Cursor 发布 Cursor Router：请求级分类器，以降低 30-50% 的成本提供前沿编码质量"
+      },
+      "summary": {
+        "en": "Cursor has made Cursor Router generally available for Teams and Enterprise plans. The system classifies each request on query, context, task complexity and domain, then routes it…",
+        "zh": "Cursor 使 Cursor Router 普遍可用于 Teams 和 Enterprise 计划。系统根据查询、上下文、任务复杂性和领域对每个请求进行分类，然后路由它......"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-23T06:01:52+08:00",
+      "title": {
+        "en": "Google justifies its massive AI spending with a booming cloud business",
+        "zh": "谷歌通过蓬勃发展的云业务证明其大规模人工智能支出的合理性"
+      },
+      "summary": {
+        "en": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "zh": "谷歌的云业务正在蓬勃发展，采用其人工智能和人工智能基础设施服务的公司帮助这家科技巨头公布了创纪录的利润。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
+      "source": "MarkTechPost",
+      "published": "2026-07-23T05:53:58+08:00",
+      "title": {
+        "en": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
+        "zh": "研究级 EdgeBench 分析：AI 代理基准测试、排行榜分析、缩放法则和评估指标"
+      },
+      "summary": {
+        "en": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budget…",
+        "zh": "在本教程中，我们探索 EdgeBench 作为跨不同任务类别、运行时环境和交互时间预算评估高级 AI 代理的实用基准......"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+      "source": "The Verge AI",
+      "published": "2026-07-23T00:35:34+08:00",
+      "title": {
+        "en": "Here’s what Samsung’s smart glasses actually look like",
+        "zh": "这是三星智能眼镜的实际外观"
+      },
+      "summary": {
+        "en": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-ho…",
+        "zh": "三星让我们第一次有机会亲眼目睹其即将推出的智能眼镜，并展示了两种新设计和第一个规格，其中包括令人印象深刻的 9-ho…"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "Google DeepMind",
+      "published": "2026-07-22T21:38:54+08:00",
+      "title": {
+        "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "zh": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺"
+      },
+      "summary": {
+        "en": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+        "zh": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分"
+      }
+    },
+    {
+      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI",
+      "published": "2026-07-22T21:00:00+08:00",
+      "title": {
+        "en": "Building AI infrastructure with the Effingham County community",
+        "zh": "与埃芬汉县社区一起建设人工智能基础设施"
+      },
+      "summary": {
+        "en": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+        "zh": "OpenAI 宣布在佐治亚州埃芬汉县推出 Camellia 项目，承诺提供负责任的能源、社区投资、就业机会和获取 Codex 的机会。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.18239",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-22T12:00:00+08:00",
+      "title": {
+        "en": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+        "zh": "系统管理员：测量前沿 AI 中的工具性寻电"
+      },
+      "summary": {
+        "en": "arXiv:2607.18239v1 Announce Type: new Abstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requireme…",
+        "zh": "arXiv：2607.18239v1 公告类型：新摘要：权力寻求定义为人工智能系统获取资源、逃避监督或抵制超出任务要求的终止的行为……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-21T18:37:34+08:00",
+      "title": {
+        "en": "Advancing next-gen AI with materials science innovation",
+        "zh": "通过材料科学创新推进下一代人工智能"
+      },
+      "summary": {
+        "en": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each o…",
+        "zh": "关于人工智能的讨论通常集中在算法、计算能力或对新半导体制造工厂和超大规模数据中心的巨额投资上。但在每个..."
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-20T19:20:10+08:00",
+      "title": {
+        "en": "Beyond grep: The case for a context-rich AI coding harness",
+        "zh": "超越 grep：上下文丰富的 AI 编码工具的案例"
+      },
+      "summary": {
+        "en": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+        "zh": "Augment Code 的 Vinay Perneti 谈论模型、工具和背景。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat AI",
+      "published": "2026-07-17T03:16:48+08:00",
+      "title": {
+        "en": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "zh": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度"
+      },
+      "summary": {
+        "en": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of h…",
+        "zh": "在 107 家企业中，人工智能基础设施支出的加速增长远远超过了观察或引导其经济的能力。大多数组织都在熟悉的基础上运行人工智能……"
+      }
+    }
+  ]
+}
