@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-24",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-24T06:54:53.778623+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "source": "The Verge AI",
+      "published": "2026-07-24T05:15:06+08:00",
+      "title": {
+        "en": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "zh": "Alexa Plus 正在进行人工智能更新以处理更复杂的指令"
+      },
+      "summary": {
+        "en": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Pl…",
+        "zh": "亚马逊正在推出 Alexa Plus 助手的更新，使其能够以新的方式连接到智能家居设备。通过当前预览版的更新，Alexa ..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-24T04:33:02+08:00",
+      "title": {
+        "en": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "zh": "AMD 推出 Helios AI 机架级系统与 Nvidia 展开较量"
+      },
+      "summary": {
+        "en": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "zh": "AMD 正在通过一款新的机架规模系统向其芯片制造商竞争对手发起挑战，该系统将于今年晚些时候开始向客户发货。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "source": "The Verge AI",
+      "published": "2026-07-24T03:00:00+08:00",
+      "title": {
+        "en": "Claude’s voice mode is now available for Opus and Sonnet",
+        "zh": "克劳德的语音模式现在可用于 Opus 和 Sonnet"
+      },
+      "summary": {
+        "en": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice…",
+        "zh": "到目前为止，语音模式仅适用于 Claude Haiku，Anthropic 的速度更快但功能较弱的模型。现在，该公司正在为其 Opus 和 Sonnet 模型提供语音服务……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-24T03:00:00+08:00",
+      "title": {
+        "en": "Anthropic updates Claude voice mode with more capable models",
+        "zh": "Anthropic 更新了 Claude 语音模式，推出了更多功能模型"
+      },
+      "summary": {
+        "en": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+        "zh": "克劳德的新语音模型将让您重新安排会议或起草电子邮件。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-23T20:00:00+08:00",
+      "title": {
+        "en": "How AI helps scientists design the next generation of medicines",
+        "zh": "人工智能如何帮助科学家设计下一代药物"
+      },
+      "summary": {
+        "en": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. An…",
+        "zh": "设计和开发新药是一项昂贵且容易失败的科学挑战。一种新药的开发可能需要多年时间，并且需要大量投资。一个…"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.19349",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-23T12:00:00+08:00",
+      "title": {
+        "en": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+        "zh": "FineServe：全球 LLM 服务工作负载的细粒度数据集和特征"
+      },
+      "summary": {
+        "en": "arXiv:2607.19349v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical system…",
+        "zh": "arXiv:2607.19349v1 公告类型：新 摘要：大型语言模型 (LLM) 越来越多地部署为始终在线的在线服务，使高效的 LLM 成为关键系统服务……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-07-23T08:00:00+08:00",
+      "title": {
+        "en": "Launching Health in ChatGPT",
+        "zh": "在 ChatGPT 中启动 Health"
+      },
+      "summary": {
+        "en": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+        "zh": "ChatGPT 中的健康现在可以让符合条件的美国用户安全地连接医疗记录和 Apple Health，以获得更个性化的见解并更好地了解他们的健康状况。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "Google DeepMind",
+      "published": "2026-07-22T21:38:54+08:00",
+      "title": {
+        "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "zh": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺"
+      },
+      "summary": {
+        "en": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+        "zh": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-20T19:20:10+08:00",
+      "title": {
+        "en": "Beyond grep: The case for a context-rich AI coding harness",
+        "zh": "超越 grep：上下文丰富的 AI 编码工具的案例"
+      },
+      "summary": {
+        "en": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+        "zh": "Augment Code 的 Vinay Perneti 谈论模型、工具和背景。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
