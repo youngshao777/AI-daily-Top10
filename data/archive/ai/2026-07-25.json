@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-25",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-25T06:59:23.929935+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-25T06:25:58+08:00",
+      "title": {
+        "en": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+        "zh": "由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元"
+      },
+      "summary": {
+        "en": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+        "zh": "Neolab 坚信，日常计算机任务的自动化将很快超过编码，成为人工智能最大的用例。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-25T05:25:15+08:00",
+      "title": {
+        "en": "Canadian legislator reads out apparent LLM response in floor speech",
+        "zh": "加拿大立法者在发言中宣读了法学硕士的明显回应"
+      },
+      "summary": {
+        "en": "\"Here’s a more natural, flowing version of that section...\"",
+        "zh": "“这是该部分的更自然、流畅的版本……”"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "source": "The Verge AI",
+      "published": "2026-07-25T03:06:58+08:00",
+      "title": {
+        "en": "Midjourney bought the astrology app Co-Star",
+        "zh": "Midjourney 购买了占星应用程序 Co-Star"
+      },
+      "summary": {
+        "en": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has ac…",
+        "zh": "Midjourney 已经从生成 AI 猫图像到全身超声波扫描，正在进入一个新领域：占星术。这家人工智能初创公司周四宣布，它已经..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-25T02:07:32+08:00",
+      "title": {
+        "en": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "zh": "Cognition为何收购Poke：AI个性正在成为竞争优势"
+      },
+      "summary": {
+        "en": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users…",
+        "zh": "此次收购将 Poke 的对话风格和交互模型带给 Cognition 的编码代理 Devin，反映出人们越来越相信 AI 助手如何与用户交互......"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-25T01:31:26+08:00",
+      "title": {
+        "en": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+        "zh": "团队使用 AlphaFold AI 重新设计基因编辑蛋白质，使其更安全"
+      },
+      "summary": {
+        "en": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+        "zh": "谷歌的 AlphaFold 可以帮助识别基因编辑蛋白的哪些部分会导致错误。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.20452",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-24T12:00:00+08:00",
+      "title": {
+        "en": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+        "zh": "AINTMA：用于自主测试管理的代理人工智能架构，具有生成智能、安全云通信和自适应质量分析"
+      },
+      "summary": {
+        "en": "arXiv:2607.20452v1 Announce Type: new Abstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cl…",
+        "zh": "arXiv:2607.20452v1 公告类型：新 摘要：现代软件质量保证需要能够跨分布式集群进行自适应决策的智能、自主系统……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-23T20:00:00+08:00",
+      "title": {
+        "en": "How AI helps scientists design the next generation of medicines",
+        "zh": "人工智能如何帮助科学家设计下一代药物"
+      },
+      "summary": {
+        "en": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. An…",
+        "zh": "设计和开发新药是一项昂贵且容易失败的科学挑战。一种新药的开发可能需要多年时间，并且需要大量投资。一个…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-07-23T08:00:00+08:00",
+      "title": {
+        "en": "Launching Health in ChatGPT",
+        "zh": "在 ChatGPT 中启动 Health"
+      },
+      "summary": {
+        "en": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+        "zh": "ChatGPT 中的健康现在可以让符合条件的美国用户安全地连接医疗记录和 Apple Health，以获得更个性化的见解并更好地了解他们的健康状况。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "Google DeepMind",
+      "published": "2026-07-22T21:38:54+08:00",
+      "title": {
+        "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "zh": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺"
+      },
+      "summary": {
+        "en": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+        "zh": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
