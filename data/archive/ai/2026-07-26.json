@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-26",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-26T06:54:48.031040+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+      "source": "MarkTechPost",
+      "published": "2026-07-26T02:59:54+08:00",
+      "title": {
+        "en": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+        "zh": "认识 Open Dreamer：Dreamer 4 世界模型管道的 JAX/Flax 复制品，并发布了完整的训练配方"
+      },
+      "summary": {
+        "en": "A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipp…",
+        "zh": "一小群 AI 研究人员 (Reactor) 发布了 Open Dreamer，这是用 JAX 和 Flax NNX 编写的 Dreamer 4 世界模型管道的开放实现。实际上运送了什么..."
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
+      "source": "MarkTechPost",
+      "published": "2026-07-26T02:08:12+08:00",
+      "title": {
+        "en": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
+        "zh": "使用 TileLang 设计高性能 GPU 内核：Tensor-Core GEMM、Fused Softmax、FlashAttention 和 Autotuning"
+      },
+      "summary": {
+        "en": "Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implem…",
+        "zh": "探索 TileLang，这是一种高级 Python 领域特定语言，可简化高性能 GPU 内核的设计。本教程提供了逐步实施的方法..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-26T00:00:00+08:00",
+      "title": {
+        "en": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "zh": "图书馆员正在为那些厌倦了大型科技的人们举办病毒式的“避免人工智能”研讨会"
+      },
+      "summary": {
+        "en": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+        "zh": "在全国各地的图书馆，“避免人工智能”研讨会引发了前所未有的需求。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-25T21:05:00+08:00",
+      "title": {
+        "en": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "zh": "一根倒下的电线暴露了人工智能数据中心日益严重的问题。以下是修复方法。"
+      },
+      "summary": {
+        "en": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+        "zh": "弗吉尼亚州北部的一次千钧一发事件揭示了数据中心对电网中断的反应是多么糟糕。以下是解决该问题的方法。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-25T05:25:15+08:00",
+      "title": {
+        "en": "Canadian legislator reads out apparent LLM response in floor speech",
+        "zh": "加拿大立法者在发言中宣读了法学硕士的明显回应"
+      },
+      "summary": {
+        "en": "\"Here’s a more natural, flowing version of that section...\"",
+        "zh": "“这是该部分的更自然、流畅的版本……”"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "source": "The Verge AI",
+      "published": "2026-07-25T03:06:58+08:00",
+      "title": {
+        "en": "Midjourney bought the astrology app Co-Star",
+        "zh": "Midjourney 购买了占星应用程序 Co-Star"
+      },
+      "summary": {
+        "en": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has ac…",
+        "zh": "Midjourney 已经从生成 AI 猫图像到全身超声波扫描，正在进入一个新领域：占星术。这家人工智能初创公司周四宣布，它已经..."
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-23T20:00:00+08:00",
+      "title": {
+        "en": "How AI helps scientists design the next generation of medicines",
+        "zh": "人工智能如何帮助科学家设计下一代药物"
+      },
+      "summary": {
+        "en": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. An…",
+        "zh": "设计和开发新药是一项昂贵且容易失败的科学挑战。一种新药的开发可能需要多年时间，并且需要大量投资。一个…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-07-23T08:00:00+08:00",
+      "title": {
+        "en": "Launching Health in ChatGPT",
+        "zh": "在 ChatGPT 中启动 Health"
+      },
+      "summary": {
+        "en": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+        "zh": "ChatGPT 中的健康现在可以让符合条件的美国用户安全地连接医疗记录和 Apple Health，以获得更个性化的见解并更好地了解他们的健康状况。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "Google DeepMind",
+      "published": "2026-07-22T21:38:54+08:00",
+      "title": {
+        "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "zh": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺"
+      },
+      "summary": {
+        "en": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+        "zh": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
