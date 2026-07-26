@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-27",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-27T06:57:43.848083+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-27T03:40:57+08:00",
+      "title": {
+        "en": "Making sense of the panic over Chinese AI",
+        "zh": "理解对中国人工智能的恐慌"
+      },
+      "summary": {
+        "en": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+        "zh": "在最新一期的 Equity 节目中，我们讨论了为什么 Moonshot AI 的 Kimi 似乎让硅谷和华尔街感到恐慌。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-27T00:33:13+08:00",
+      "title": {
+        "en": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "zh": "Hugging Face 首席执行官在“史无前例”的 OpenAI 黑客攻击后呼吁“彻底透明”"
+      },
+      "summary": {
+        "en": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+        "zh": "“第一次自主代理网络攻击是前所未有的事件。它应该得到前所未有的回应！”"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-25T05:25:15+08:00",
+      "title": {
+        "en": "Canadian legislator reads out apparent LLM response in floor speech",
+        "zh": "加拿大立法者在发言中宣读了法学硕士的明显回应"
+      },
+      "summary": {
+        "en": "\"Here’s a more natural, flowing version of that section...\"",
+        "zh": "“这是该部分的更自然、流畅的版本……”"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "source": "The Verge AI",
+      "published": "2026-07-25T03:06:58+08:00",
+      "title": {
+        "en": "Midjourney bought the astrology app Co-Star",
+        "zh": "Midjourney 购买了占星应用程序 Co-Star"
+      },
+      "summary": {
+        "en": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has ac…",
+        "zh": "Midjourney 已经从生成 AI 猫图像到全身超声波扫描，正在进入一个新领域：占星术。这家人工智能初创公司周四宣布，它已经..."
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-25T01:31:26+08:00",
+      "title": {
+        "en": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+        "zh": "团队使用 AlphaFold AI 重新设计基因编辑蛋白质，使其更安全"
+      },
+      "summary": {
+        "en": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+        "zh": "谷歌的 AlphaFold 可以帮助识别基因编辑蛋白的哪些部分会导致错误。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "source": "The Verge AI",
+      "published": "2026-07-25T01:29:48+08:00",
+      "title": {
+        "en": "You can’t ignore Google Zero anymore",
+        "zh": "你不能再忽视 Google Zero"
+      },
+      "summary": {
+        "en": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Googl…",
+        "zh": "网络和谷歌曾经达成一项协议：谷歌收集数据并为网页建立索引，作为交换，向网站发送大量流量。这笔交易并不完美，当然也让谷歌……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-23T20:00:00+08:00",
+      "title": {
+        "en": "How AI helps scientists design the next generation of medicines",
+        "zh": "人工智能如何帮助科学家设计下一代药物"
+      },
+      "summary": {
+        "en": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. An…",
+        "zh": "设计和开发新药是一项昂贵且容易失败的科学挑战。一种新药的开发可能需要多年时间，并且需要大量投资。一个…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-07-23T08:00:00+08:00",
+      "title": {
+        "en": "Launching Health in ChatGPT",
+        "zh": "在 ChatGPT 中启动 Health"
+      },
+      "summary": {
+        "en": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+        "zh": "ChatGPT 中的健康现在可以让符合条件的美国用户安全地连接医疗记录和 Apple Health，以获得更个性化的见解并更好地了解他们的健康状况。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "Google DeepMind",
+      "published": "2026-07-22T21:38:54+08:00",
+      "title": {
+        "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "zh": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺"
+      },
+      "summary": {
+        "en": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+        "zh": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
