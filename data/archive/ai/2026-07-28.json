@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-28",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-28T07:00:05.156048+08:00",
+  "items": [
+    {
+      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-28T05:56:14+08:00",
+      "title": {
+        "en": "Microsoft unveils AI security tools it says outperform competing platforms",
+        "zh": "微软推出人工智能安全工具，称其性能优于竞争平台"
+      },
+      "summary": {
+        "en": "Microsoft says tools cost less than competing ones and outperform them, too.",
+        "zh": "微软表示，工具的成本低于竞争对手，而且性能也优于竞争对手。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-28T05:17:11+08:00",
+      "title": {
+        "en": "Satya Nadella says companies that trust one AI for everything may not survive",
+        "zh": "萨蒂亚·纳德拉 (Satya Nadella) 表示，那些相信一种人工智能能解决所有问题的公司可能无法生存"
+      },
+      "summary": {
+        "en": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella say…",
+        "zh": "纳德拉说，没有自己的模型的公司，或者没有被称为人工智能网关的人工智能基础设施层，将其提示与模型本身分开的公司，将会遇到麻烦……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-28T04:19:42+08:00",
+      "title": {
+        "en": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+        "zh": "PSA：您的 Claude 共享聊天记录和工件可能已出现在 Google 上"
+      },
+      "summary": {
+        "en": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+        "zh": "该问题似乎源于 Claude 的“共享聊天”功能，该功能允许用户创建链接，使任何拥有指定 URL 的人都可以查看对话或项目。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-28T02:00:00+08:00",
+      "title": {
+        "en": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+        "zh": "OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周阅读 OpenAI 的账户，了解如何……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "source": "The Verge AI",
+      "published": "2026-07-28T00:51:50+08:00",
+      "title": {
+        "en": "Why China is giving away its best AI models",
+        "zh": "为什么中国要赠送最好的人工智能模型"
+      },
+      "summary": {
+        "en": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems bu…",
+        "zh": "过去一周的大部分时间，硅谷都处于红色警报状态，消化着 Moonshot AI 的 Kimi K3 的到来，这是一种中国人工智能模型，据称可以击败一些最好的系统。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-27T20:00:00+08:00",
+      "title": {
+        "en": "The path to artificial superintelligence",
+        "zh": "通往超级人工智能之路"
+      },
+      "summary": {
+        "en": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in…",
+        "zh": "想象一下由多个人工智能代理组成的医疗保健系统：一个负责管理症状评估，另一个负责调度，第三个保险和第四个药房。每个人都是……的专家"
+      }
+    },
+    {
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI",
+      "published": "2026-07-27T11:30:00+08:00",
+      "title": {
+        "en": "How AI is expanding what people do at work",
+        "zh": "人工智能如何扩展人们的工作范围"
+      },
+      "summary": {
+        "en": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+        "zh": "新的 OpenAI 研究表明，人工智能如何扩展员工的工作范围，让 ChatGPT 用户承担跨角色的任务并重塑工作边界。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-25T05:25:15+08:00",
+      "title": {
+        "en": "Canadian legislator reads out apparent LLM response in floor speech",
+        "zh": "加拿大立法者在发言中宣读了法学硕士的明显回应"
+      },
+      "summary": {
+        "en": "\"Here’s a more natural, flowing version of that section...\"",
+        "zh": "“这是该部分的更自然、流畅的版本……”"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "Google DeepMind",
+      "published": "2026-07-22T21:38:54+08:00",
+      "title": {
+        "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "zh": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺"
+      },
+      "summary": {
+        "en": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+        "zh": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
