@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-29",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-29T06:56:10.861610+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/",
+      "source": "MarkTechPost",
+      "published": "2026-07-29T06:45:56+08:00",
+      "title": {
+        "en": "Fireworks AI Releases Fireworks Nexus: A Drop-In Routing and Cost-Control Layer That Moves Routine Coding Work to Open-Weight Models",
+        "zh": "Fireworks AI 发布 Fireworks Nexus：一个嵌入式路由和成本控制层，可将常规编码工作转移到开放权重模型"
+      },
+      "summary": {
+        "en": "Fireworks AI has released Fireworks Nexus, an AI management and routing platform aimed at engineering organizations. It connects the coding tools developers already use to a manag…",
+        "zh": "Fireworks AI 发布了 Fireworks Nexus，这是一个面向工程组织的 AI 管理和路由平台。它将开发人员已经使用的编码工具连接到管理..."
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-29T05:36:39+08:00",
+      "title": {
+        "en": "We now have a better understanding how OpenAI hacked into Hugging Face",
+        "zh": "我们现在更好地了解了 OpenAI 是如何入侵 Hugging Face 的"
+      },
+      "summary": {
+        "en": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+        "zh": "从利用 JFrog Artifactory 0day 的 OpenAI 模型到发布补丁，已经过去了 10 天。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-29T05:29:34+08:00",
+      "title": {
+        "en": "Bot-detection startup Spur nabs $200M from Insight",
+        "zh": "机器人检测初创公司 Spur 从 Insight 获得 2 亿美元投资"
+      },
+      "summary": {
+        "en": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+        "zh": "Spur Intelligence 已从 Insight Partners 筹集了 2 亿美元资金，用于开发能够识别来自机器人的合法人流量的技术。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "source": "The Verge AI",
+      "published": "2026-07-29T03:46:43+08:00",
+      "title": {
+        "en": "AI leaders sign statement asking the government to do something about automated AI",
+        "zh": "人工智能领导人签署声明，要求政府对自动化人工智能采取措施"
+      },
+      "summary": {
+        "en": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government support…",
+        "zh": "OpenAI 和 Anthropic 以及 Google、Meta、Thinking Machines、Microsoft、Mistral 和其他领先 AI 实验室的员工已撰写声明，请求美国政府支持……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI",
+      "published": "2026-07-29T01:00:00+08:00",
+      "title": {
+        "en": "Scientific computing in the age of agentic AI",
+        "zh": "代理人工智能时代的科学计算"
+      },
+      "summary": {
+        "en": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+        "zh": "一份新的现场报告展示了科学家如何使用人工智能编码代理实现科学计算现代化，加速基因组学及其他领域的软件开发和发现。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-28T17:18:57+08:00",
+      "title": {
+        "en": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+        "zh": "三星的芯片工人正在跳槽到竞争对手 SK 海力士"
+      },
+      "summary": {
+        "en": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s…",
+        "zh": "三星半导体部门的工程师李在下班时打卡下班。他过去常常工作更长的时间，加倍努力以出色地完成他的项目。但最近，他..."
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/",
+      "source": "MarkTechPost",
+      "published": "2026-07-28T16:33:30+08:00",
+      "title": {
+        "en": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+        "zh": "Microsoft AI 发布 MAI-Cyber​​-1-Flash：5B 主动参数网络模型，将 MDASH 在 Cyber​​Gym 上的使用率提升至 95.95%"
+      },
+      "summary": {
+        "en": "Microsoft AI has released MAI-Cyber-1-Flash, its first model built specifically for cyber defense. It is a 137B total, 5B active sparse MoE fine-tune of MAI-Code-1-Flash with a 25…",
+        "zh": "微软 AI 发布了 MAI-Cyber​​-1-Flash，这是其第一个专为网络防御而构建的模型。它是总共 137B、5B 主动稀疏 MoE 的 MAI-Code-1-Flash 微调，具有 25…"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.22544",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-28T12:00:00+08:00",
+      "title": {
+        "en": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+        "zh": "基于概念的视觉反事实解释与扩散模型"
+      },
+      "summary": {
+        "en": "arXiv:2607.22544v1 Announce Type: new Abstract: Visual counterfactual explanations aim to answer \"what minimal change to this image would flip the model's prediction?\", and are in…",
+        "zh": "arXiv:2607.22544v1 公告类型：新摘要：视觉反事实解释旨在回答“对这张图像进行什么最小的改变会翻转模型的预测？”，并且在......"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "Google DeepMind",
+      "published": "2026-07-22T21:38:54+08:00",
+      "title": {
+        "en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "zh": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺"
+      },
+      "summary": {
+        "en": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+        "zh": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
