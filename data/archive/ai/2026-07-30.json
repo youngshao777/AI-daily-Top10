@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-30",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-30T06:57:57.216898+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T06:46:03+08:00",
+      "title": {
+        "en": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "zh": "微软从 Anthropic 获得 3.2B 美元投资，但 OpenAI 好坏参半"
+      },
+      "summary": {
+        "en": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the t…",
+        "zh": "当微软公布其 2026 财年（截至 6 月 30 日）第四季度的杀手级收益时，它夹带了一个有趣的小花絮，讲述其如何在该领域进行投资……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-30T06:23:12+08:00",
+      "title": {
+        "en": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "zh": "扎克伯格表示 Meta 的企业人工智能机会不仅仅局限于代理"
+      },
+      "summary": {
+        "en": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal softwa…",
+        "zh": "在周三的公司第​​二季度财报电话会议上，首席执行官马克·扎克伯格表示，Meta 看到了涵盖人工智能代理、API、计算和内部软件的“大型企业机会”……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "source": "The Verge AI",
+      "published": "2026-07-30T06:17:38+08:00",
+      "title": {
+        "en": "Microsoft confirms Copilot ‘super app’ coming this year",
+        "zh": "微软确认 Copilot “超级应用”将于今年推出"
+      },
+      "summary": {
+        "en": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said th…",
+        "zh": "微软正在开发一款人工智能“超级应用程序”，它结合了 Copilot 的聊天、编码和代理功能。在周三的财报电话会议上，微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 表示..."
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering-what-changes-at-each-layer/",
+      "source": "MarkTechPost",
+      "published": "2026-07-30T03:30:35+08:00",
+      "title": {
+        "en": "Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer",
+        "zh": "提示工程 vs 循环工程 vs 图工程：每一层的变化"
+      },
+      "summary": {
+        "en": "Three terms now compete for the same line in AI engineering job descriptions. Prompt engineering is the established one. Loop engineering entered the AI vocabulary in late 2025 an…",
+        "zh": "现在，三个术语在人工智能工程职位描述中竞争同一行。即时工程是既定的工程。循环工程于 2025 年底进入人工智能词汇……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "source": "Google DeepMind",
+      "published": "2026-07-30T00:02:10+08:00",
+      "title": {
+        "en": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+        "zh": "我们将在 Google Flow Music 中推出 Lyria 3.5，该版本在音乐性、歌词、人声和创意控制方面都取得了进步"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "source": "OpenAI",
+      "published": "2026-07-29T23:00:00+08:00",
+      "title": {
+        "en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "zh": "启用两种设置如何使我们在 ARC-AGI-3 基准测试中的得分增加两倍"
+      },
+      "summary": {
+        "en": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+        "zh": "两种 API 设置如何提高 ARC-AGI-3 上的 GPT-5.6 性能，通过保留推理和启用压缩来提高分数和效率。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-29T16:42:57+08:00",
+      "title": {
+        "en": "The AI Hype Index: Unsexy AI",
+        "zh": "人工智能炒作指数：不性感的人工智能"
+      },
+      "summary": {
+        "en": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury…",
+        "zh": "当一封由顶尖经济学家签署的公开信警告人工智能可能会抢走你的工作时，这已经够糟糕的了。事实上它很快就会比你做晚饭更好？侮辱伤害…"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.24758",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-29T12:00:00+08:00",
+      "title": {
+        "en": "Do Models Fake Alignment Without Clear Consequences?",
+        "zh": "模型是否会在没有明显后果的情况下假装对齐？"
+      },
+      "summary": {
+        "en": "arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations…",
+        "zh": "arXiv：2607.24758v1 公告类型：新摘要：大型语言模型能够识别评估上下文并改变其行为以反映评估者的期望......"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-29T05:36:39+08:00",
+      "title": {
+        "en": "We now have a better understanding how OpenAI hacked into Hugging Face",
+        "zh": "我们现在更好地了解了 OpenAI 是如何入侵 Hugging Face 的"
+      },
+      "summary": {
+        "en": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+        "zh": "从利用 JFrog Artifactory 0day 的 OpenAI 模型到发布补丁，已经过去了 10 天。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
