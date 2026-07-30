@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-31",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-07-31T07:04:56.767765+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T06:41:41+08:00",
+      "title": {
+        "en": "Investors love AI, as long as you’re a cloud host",
+        "zh": "投资者喜欢人工智能，只要你是云主机"
+      },
+      "summary": {
+        "en": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+        "zh": "亚马逊并没有放缓数据中心支出，但投​​资者似乎并不介意。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge AI",
+      "published": "2026-07-31T06:29:45+08:00",
+      "title": {
+        "en": "Tim Cook hints at iCloud Plus tier for AI power users",
+        "zh": "蒂姆·库克 (Tim Cook) 暗示为 AI 高级用户推出 iCloud Plus 层级"
+      },
+      "summary": {
+        "en": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelli…",
+        "zh": "苹果可能允许用户付费以提高人工智能的使用限制。在周四的财报电话会议上，苹果首席执行官蒂姆·库克表示，他相信人们会想要使用 Apple Intelli..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-31T04:26:38+08:00",
+      "title": {
+        "en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+        "zh": "法官称特朗普政府仍缺乏人为“供应链风险”标签的证据"
+      },
+      "summary": {
+        "en": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI…",
+        "zh": "一名联邦法官表示，特朗普政府没有提供足够的证据来证明给 Anthropic 贴上供应链风险的标签，这让人们对政府对其人工智能的禁令产生了怀疑……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
+      "source": "MarkTechPost",
+      "published": "2026-07-31T01:20:50+08:00",
+      "title": {
+        "en": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration",
+        "zh": "谷歌 DeepMind 推出三种物理人工智能模型，用于全身控制、灵活性和多机器人协作"
+      },
+      "summary": {
+        "en": "Google DeepMind has released Gemini Robotics 2, the intelligence layer for its next generation of robots. The release ships three models: a vision-language-action model for whole…",
+        "zh": "谷歌 DeepMind 发布了 Gemini Robotics 2，这是其下一代机器人的智能层。该版本提供了三个模型：整个视觉-语言-动作模型......"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "Google DeepMind",
+      "published": "2026-07-30T23:00:59+08:00",
+      "title": {
+        "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "zh": "Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提供动力"
+      },
+      "summary": {
+        "en": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collabor…",
+        "zh": "Gemini Robotics ER 2 帮助机器人推理、协作和解决现实世界的任务。它代表了视频理解、工具编排和多机器人协作方面的一步变化……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "source": "Ars Technica AI",
+      "published": "2026-07-30T22:53:07+08:00",
+      "title": {
+        "en": "New MCP specification addresses the main barrier to enterprise adoption",
+        "zh": "新的 MCP 规范解决了企业采用的主要障碍"
+      },
+      "summary": {
+        "en": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
+        "zh": "此外，人工智能协议的新策略可确保功能不会突然删除。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-30T18:15:19+08:00",
+      "title": {
+        "en": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+        "zh": "一个根本性的缺陷使得法学硕士极易受到攻击"
+      },
+      "summary": {
+        "en": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the I…",
+        "zh": "一组研究人员在 I…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI",
+      "published": "2026-07-30T18:00:00+08:00",
+      "title": {
+        "en": "Advancing the price-performance frontier with GPT-5.6",
+        "zh": "利用 GPT-5.6 推进性价比前沿"
+      },
+      "summary": {
+        "en": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+        "zh": "探索 Luna 和 Terra 的更低 GPT-5.6 定价，以及 OpenAI 更高效的模型如何帮助企业大规模部署 AI 工作流程。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.24758",
+      "source": "arXiv cs.AI",
+      "published": "2026-07-30T12:00:00+08:00",
+      "title": {
+        "en": "Do Models Fake Alignment Without Clear Consequences?",
+        "zh": "模型是否会在没有明显后果的情况下假装对齐？"
+      },
+      "summary": {
+        "en": "arXiv:2607.24758v2 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations…",
+        "zh": "arXiv:2607.24758v2 公告类型：新摘要：大型语言模型能够识别评估上下文并改变其行为以反映评估者的期望……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
