@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-02",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-02T06:53:36.216753+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-02T04:26:04+08:00",
+      "title": {
+        "en": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "zh": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求"
+      },
+      "summary": {
+        "en": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+        "zh": "尽管 xAI 提起诉讼，但明尼苏达州禁止允许用户“裸体”图像的应用程序的禁令仍然可以继续推进。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-02T03:45:45+08:00",
+      "title": {
+        "en": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "zh": "YouTuber Hank Green 表示他对人工智能的使用“不健康”"
+      },
+      "summary": {
+        "en": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "zh": "格林做出了引人注目的道歉，他说“我从与法学硕士的互动中获得的多巴胺水平......对我来说不健康，也不对世界有好处。”"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+      "source": "MarkTechPost",
+      "published": "2026-08-02T03:01:42+08:00",
+      "title": {
+        "en": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
+        "zh": "AMD 发布 Instella-MoE-16B-A3B：完全开放的专家混合法学硕士，具有在 Instinct GPU 上训练的 2.8B 主动参数"
+      },
+      "summary": {
+        "en": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activa…",
+        "zh": "AMD 发布了 Instella-MoE-16B-A3B，这是一个完全开放的 Mixture-of Experts 语言模型，在 Instinct MI300X 和 MI325X GPU 上从头开始训练。它总共包含 16B 个参数，但激活…"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
+      "source": "MarkTechPost",
+      "published": "2026-08-02T02:31:15+08:00",
+      "title": {
+        "en": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
+        "zh": "使用 NVIDIA Transformer 引擎、融合内核、BF16、FP8 和 GPU 基准测试加速 Transformer 训练"
+      },
+      "summary": {
+        "en": "Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scalin…",
+        "zh": "了解如何使用 NVIDIA Transformer Engine 优化 Transformer 工作负载。本教程将指导您配置融合 GPU 内核、实现 FP8 延迟缩放……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "source": "The Verge AI",
+      "published": "2026-08-02T02:20:00+08:00",
+      "title": {
+        "en": "Is this Billboard Hot 100 hit AI slop?",
+        "zh": "这是 Billboard Hot 100 的热门 AI 垃圾吗？"
+      },
+      "summary": {
+        "en": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 5…",
+        "zh": "菲尼克斯·弗莱辛 (Fenix Flexin) 最出名的身份是来自洛杉矶的说唱组合 Shoreline Mafia 的成员。但他最近凭借单曲“Rubberz”取得了成功，该歌曲已攀升至第五位……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-01T20:30:36+08:00",
+      "title": {
+        "en": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+        "zh": "随着 Reddit 股价下跌，首席执行官质疑谷歌人工智能概述的价值"
+      },
+      "summary": {
+        "en": "Reddit may still be considering ending its licensing deal with Google.",
+        "zh": "Reddit 可能仍在考虑终止与谷歌的许可协议。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI",
+      "published": "2026-08-01T08:00:00+08:00",
+      "title": {
+        "en": "Ten advances in mathematics and theoretical computer science",
+        "zh": "数学和理论计算机科学的十大进展"
+      },
+      "summary": {
+        "en": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+        "zh": "OpenAI 分享了数学和理论计算机科学中长期存在的开放问题的新成果，包括几何、密码学和复杂性方面的进展。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "Google DeepMind",
+      "published": "2026-07-30T23:00:59+08:00",
+      "title": {
+        "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "zh": "Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提供动力"
+      },
+      "summary": {
+        "en": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collabor…",
+        "zh": "Gemini Robotics ER 2 帮助机器人推理、协作和解决现实世界的任务。它代表了视频理解、工具编排和多机器人协作方面的一步变化……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review",
+      "published": "2026-07-30T18:15:19+08:00",
+      "title": {
+        "en": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+        "zh": "一个根本性的缺陷使得法学硕士极易受到攻击"
+      },
+      "summary": {
+        "en": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the I…",
+        "zh": "一组研究人员在 I…"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
