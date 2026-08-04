@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-05",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-05T07:01:35.035081+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/",
+      "source": "MarkTechPost",
+      "published": "2026-08-05T06:27:38+08:00",
+      "title": {
+        "en": "Pixel-Native RAG: A Practical Guide to Visual Document Indexing",
+        "zh": "Pixel-Native RAG ：可视化文档索引实用指南"
+      },
+      "summary": {
+        "en": "Move beyond traditional text-based parsing with PixelRAG, an end-to-end system that treats web pages and PDFs as images. This tutorial explores the complete pipeline—from renderin…",
+        "zh": "PixelRAG是一个端到端系统，将网页和PDF视为图像，超越了传统的基于文本的解析。本教程探讨了完整的管道-从渲染……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-05T05:07:26+08:00",
+      "title": {
+        "en": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "zh": "今年到目前为止，SpaceX 已购买了价值 3.29 亿美元的 Tesla Megapacks"
+      },
+      "summary": {
+        "en": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+        "zh": "这次收购说明了埃隆·马斯克旗下公司之间的相互关联程度。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "source": "The Verge AI",
+      "published": "2026-08-05T04:57:49+08:00",
+      "title": {
+        "en": "AMD’s datacenter business is booming while gaming takes a backseat",
+        "zh": "AMD 数据中心业务蓬勃发展，游戏业务退居二线"
+      },
+      "summary": {
+        "en": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q…",
+        "zh": "在AI容量需求的推动下，AMD最新财报显示其数据中心收入同比增长一倍多，达到67亿美元。这高于 Q 季度的 58 亿美元……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI",
+      "published": "2026-08-05T03:00:00+08:00",
+      "title": {
+        "en": "Third-party cyber evaluations involving OpenAI models",
+        "zh": "涉及 OpenAI 模型的第三方网络评估"
+      },
+      "summary": {
+        "en": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+        "zh": "OpenAI 解释了最近发生的第三方网络安全评估事件，并概述了加强人工智能模型测试和评估的新保障措施。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/04/cursor-open-sources-mixture-of-kittens-mok-a-deterministic-moe-training-megakernel-for-gb300-nvl72-racks/",
+      "source": "MarkTechPost",
+      "published": "2026-08-05T02:38:41+08:00",
+      "title": {
+        "en": "Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks",
+        "zh": "Cursor 开源 Mixture-of-Kittens (MoK)：用于 GB300 NVL72 机架的确定性 MoE 训练巨型内核"
+      },
+      "summary": {
+        "en": "Cursor Research has open-sourced Mixture-of-Kittens (MoK), the MoE training megakernel behind its Composer models. MoK fuses all mixture-of-experts communication and computation i…",
+        "zh": "Cursor Research 开源了 Mixture-of-Kittens (MoK)，这是其 Composer 模型背后的 MoE 训练巨型内核。 MoK 融合了所有专家混合的通信和计算……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2607.28629",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-04T12:00:00+08:00",
+      "title": {
+        "en": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+        "zh": "代理人工智能中的 OpenClaw 和 Ollama：迈向完全自主和可扩展的人工智能代理系统"
+      },
+      "summary": {
+        "en": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in…",
+        "zh": "arXiv：2607.28629v1 公告类型：新摘要：从反应式大型语言模型（LLM）到持久的、可操作的系统的快速过渡暴露了……的关键差距"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-04T03:00:50+08:00",
+      "title": {
+        "en": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+        "zh": "人工智能监督的远程考试成绩如此糟糕，以至于 58,000 名学生必须重新参加考试"
+      },
+      "summary": {
+        "en": "Top scores increased by 5x.",
+        "zh": "最高分提高了 5 倍。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-04T02:43:30+08:00",
+      "title": {
+        "en": "Trump’s AI protectionism has come for robotics",
+        "zh": "特朗普的人工智能保护主义已经出现在机器人技术上"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cring…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。 Humanoid robots usually elicit more cring…"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "Google DeepMind",
+      "published": "2026-07-30T23:00:59+08:00",
+      "title": {
+        "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "zh": "Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提供动力"
+      },
+      "summary": {
+        "en": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collabor…",
+        "zh": "Gemini Robotics ER 2 帮助机器人推理、协作和解决现实世界的任务。它代表了视频理解、工具编排和多机器人协作方面的一步变化……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细小的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
