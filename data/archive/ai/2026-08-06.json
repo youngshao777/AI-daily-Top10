@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-06",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-06T06:56:18.510534+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-06T05:21:28+08:00",
+      "title": {
+        "en": "Meta launches Muse Code, an AI agent for large code bases",
+        "zh": "Meta 推出 Muse Code，一款适用于大型代码库的 AI 代理"
+      },
+      "summary": {
+        "en": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+        "zh": "Meta 通过新的代理扩展了其人工智能编码产品，它承诺可以使用复杂的软件处理复杂的任务。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-06T04:05:00+08:00",
+      "title": {
+        "en": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+        "zh": "Klaviyo 收购 Elias Torres’ Agency，科技创始人全面重聚"
+      },
+      "summary": {
+        "en": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+        "zh": "这位连续创业者以CPO的身份加入这家电子商务公司，领导其AI代理。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-06T04:01:32+08:00",
+      "title": {
+        "en": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+        "zh": "Reddit标志着old.reddit.com即将发生不祥的“变化”"
+      },
+      "summary": {
+        "en": "Reddit says the beloved site is used for some \"bad behavior.\"",
+        "zh": "Reddit表示，这个受欢迎的网站被用于一些“不良行为”。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-06T03:51:40+08:00",
+      "title": {
+        "en": "Hank Green found the AI problem that YouTube labels can’t catch",
+        "zh": "Hank Green 发现了 YouTube 标签无法捕捉到的 AI 问题"
+      },
+      "summary": {
+        "en": "\"Slop\" isn't the only problem.",
+        "zh": "“邋遢”不是唯一的问题。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "source": "The Verge AI",
+      "published": "2026-08-06T00:57:25+08:00",
+      "title": {
+        "en": "Sure seems like Fenix Flexin used AI music generator Treblo",
+        "zh": "看起来Fenix Flexin使用了人工智能音乐生成器Treblo"
+      },
+      "summary": {
+        "en": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detec…",
+        "zh": "我们非常确定 Fenix Flexin 的“Rubberz”是使用 AI 制作的，但音乐家 Medasin 确信它是专门使用 Treblo 制作的。现公司又与新检测..."
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.02604",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-05T12:00:00+08:00",
+      "title": {
+        "en": "ISEE: Interactive Semantic Enrichment for Database Fields",
+        "zh": "ISEE：数据库字段的交互式语义丰富"
+      },
+      "summary": {
+        "en": "arXiv:2608.02604v1 Announce Type: new Abstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. H…",
+        "zh": "arXiv:2608.02604v1 公告类型：新 摘要：基于 LLM 的代理越来越多地被部署用于数据相关任务，包括数据感知、探索和检索。哈…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI",
+      "published": "2026-08-05T03:00:00+08:00",
+      "title": {
+        "en": "Third-party cyber evaluations involving OpenAI models",
+        "zh": "涉及 OpenAI 模型的第三方网络评估"
+      },
+      "summary": {
+        "en": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+        "zh": "OpenAI解释了最近的第三方网络安全评估事件，并概述了加强AI模型测试和评估的新保障措施。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-04T02:43:30+08:00",
+      "title": {
+        "en": "Trump’s AI protectionism has come for robotics",
+        "zh": "特朗普的人工智能保护主义针对机器人"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cring…",
+        "zh": "这个故事最初出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。人形机器人通常会引起更多的畏缩……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "Google DeepMind",
+      "published": "2026-07-30T23:00:59+08:00",
+      "title": {
+        "en": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "zh": "Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提供动力"
+      },
+      "summary": {
+        "en": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collabor…",
+        "zh": "Gemini Robotics ER 2 帮助机器人推理、协作和解决现实世界的任务。它代表了视频理解、工具编排和多机器人协作方面的一步变化……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细小的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
