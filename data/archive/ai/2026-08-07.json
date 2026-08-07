@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-07",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-07T09:30:36.003849+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-07T06:43:53+08:00",
+      "title": {
+        "en": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+        "zh": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间"
+      },
+      "summary": {
+        "en": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "zh": "有关 OpenAI 神秘的新型人工智能设备的更多细节使它听起来像一个昂贵的智能扬声器。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "source": "The Verge AI",
+      "published": "2026-08-07T04:55:39+08:00",
+      "title": {
+        "en": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+        "zh": "据报道，Jony Ive 的第一个 OpenAI 小工具是一个冰球大小的智能扬声器"
+      },
+      "summary": {
+        "en": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the s…",
+        "zh": "OpenAI 与前苹果设计师 Jony Ive 共同开发的 AI 设备“本质上是一款没有显示屏的智能扬声器”，由电池供电，呈甜甜圈形状，外形大致为…"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
+      "source": "MarkTechPost",
+      "published": "2026-08-07T03:35:32+08:00",
+      "title": {
+        "en": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers",
+        "zh": "Cloudflare 推出 Kitesurf：一款代理优先的 Web 浏览器，完全在 Cloudflare Workers 上的 V8 隔离中运行"
+      },
+      "summary": {
+        "en": "Cloudflare has released Kitesurf, a stateless web browser built specifically for AI agents that runs entirely in V8 isolates on Cloudflare Workers, with no Chromium underneath. Th…",
+        "zh": "Cloudflare 发布了 Kitesurf，这是一款专门为 AI 代理构建的无状态 Web 浏览器，完全在 Cloudflare Workers 上的 V8 隔离中运行，底层没有 Chromium。特…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-07T03:04:57+08:00",
+      "title": {
+        "en": "Large genome models used to design new viruses",
+        "zh": "用于设计新病毒的大型基因组模型"
+      },
+      "summary": {
+        "en": "The AI system makes genetically distant versions of a bacteria-killing virus.",
+        "zh": "人工智能系统制造出一种基因上相距较远的杀菌病毒版本。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-07T01:34:42+08:00",
+      "title": {
+        "en": "ChatGPT brings unlimited text chats to free users",
+        "zh": "ChatGPT 为免费用户带来无限的文本聊天"
+      },
+      "summary": {
+        "en": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+        "zh": "OpenAI 表示，ChatGPT 免费版和 Go 用户还获得了一个用于复杂查询的新思考按钮。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Google DeepMind",
+      "published": "2026-08-06T23:06:15+08:00",
+      "title": {
+        "en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+        "zh": "WeatherNext：人工智能模型在预测气旋方面取得突破"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-08-06T18:00:00+08:00",
+      "title": {
+        "en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+        "zh": "改进 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问"
+      },
+      "summary": {
+        "en": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+        "zh": "ChatGPT 引入了改进的 GPT-5.6 Sol，具有更好的准确性和一致性，此外还扩大了免费用户的访问范围，并与 GPT-5.6 Luna 进行无限制的日常聊天。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.04012",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-06T12:00:00+08:00",
+      "title": {
+        "en": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+        "zh": "冗余调整人工年龄评分（AAS）下人工智能系统的长期持久性理论"
+      },
+      "summary": {
+        "en": "arXiv:2608.04012v1 Announce Type: new Abstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update ra…",
+        "zh": "arXiv:2608.04012v1 公告类型：新 摘要：人们越来越期望人工智能系统能够在交互、适应和更新资源的重复循环中运行……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-04T02:43:30+08:00",
+      "title": {
+        "en": "Trump’s AI protectionism has come for robotics",
+        "zh": "特朗普的人工智能保护主义针对机器人"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cring…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。人形机器人通常会引起更多的畏惧……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
