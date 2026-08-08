@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-09",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-09T06:26:54.775599+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-09T05:24:02+08:00",
+      "title": {
+        "en": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "zh": "计划中的亚马逊数据中心可能成为美国最大的气候污染源"
+      },
+      "summary": {
+        "en": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+        "zh": "作为计划中的德克萨斯州数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/",
+      "source": "MarkTechPost",
+      "published": "2026-08-09T04:54:49+08:00",
+      "title": {
+        "en": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run",
+        "zh": "认识一下 Shepherd：一个开源 Python 底层，允许元代理分叉、重放和恢复任何代理运行"
+      },
+      "summary": {
+        "en": "Long agent runs accumulate state that no transcript records — edited files, a live dev server, installed packages, a warm prompt cache. When an agent misreads a traceback at step…",
+        "zh": "长时间代理运行累积状态，没有记录记录 - 编辑的文件、实时开发服务器、安装的软件包、温暖的提示缓存。当代理误读了步骤中的回溯时……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-09T03:41:13+08:00",
+      "title": {
+        "en": "OpenAI acquires presentation startup NextSlide",
+        "zh": "OpenAI 收购演示初创公司 NextSlide"
+      },
+      "summary": {
+        "en": "NextSlide says its team members are now working on ChatGPT.",
+        "zh": "NextSlide 表示其团队成员目前正在开发 ChatGPT。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "source": "The Verge AI",
+      "published": "2026-08-09T01:53:34+08:00",
+      "title": {
+        "en": "An Amazon data center could have the worst polluting power plant in the country",
+        "zh": "亚马逊数据中心可能拥有全国污染最严重的发电厂"
+      },
+      "summary": {
+        "en": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the…",
+        "zh": "为了为其新的西德克萨斯数据中心供电，亚马逊正在投资建设一座新发电厂，该发电厂可能是该地区最大的温室气体单一生产商之一……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+      "source": "MarkTechPost",
+      "published": "2026-08-09T01:04:39+08:00",
+      "title": {
+        "en": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
+        "zh": "Pokee AI 发布 Pokee-Isaac 28B：专为在客户边界内运行而构建的 10M 代币上下文代理模型"
+      },
+      "summary": {
+        "en": "Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M toke…",
+        "zh": "Pokee AI 发布了 Pokee-Isaac 28B，这是一个 28B 纯文本基础模型，具有 10M 令牌上下文窗口，专为在客户边界内运行而构建。它在 RULER 上的得分为 93.3%，价格为 1000 万枚……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-08T01:36:22+08:00",
+      "title": {
+        "en": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+        "zh": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”"
+      },
+      "summary": {
+        "en": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+        "zh": "Gurman 的报告称 OpenAI 证实该扬声器不是苹果的盗版产品。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI",
+      "published": "2026-08-07T23:20:00+08:00",
+      "title": {
+        "en": "Responding to the next frontier of critical cyber capabilities",
+        "zh": "应对关键网络能力的下一个前沿"
+      },
+      "summary": {
+        "en": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+        "zh": "OpenAI 正在分享对 Astra 的初步网络安全评估以及我们为加强保障和安全控制而采取的步骤。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Google DeepMind",
+      "published": "2026-08-06T23:06:15+08:00",
+      "title": {
+        "en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+        "zh": "WeatherNext：人工智能模型在预测气旋方面取得突破"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-04T02:43:30+08:00",
+      "title": {
+        "en": "Trump’s AI protectionism has come for robotics",
+        "zh": "特朗普的人工智能保护主义针对机器人"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cring…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。人形机器人通常会引起更多的畏惧……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
