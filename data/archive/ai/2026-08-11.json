@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-11",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-11T06:35:22.199329+08:00",
+  "items": [
+    {
+      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-11T06:13:03+08:00",
+      "title": {
+        "en": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+        "zh": "借助新的开放模型，Meta 再次重启其苦苦挣扎的人工智能战略"
+      },
+      "summary": {
+        "en": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+        "zh": "Meta 一直落后于竞争对手。扎克伯格认为他已经找到了前进的道路。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "source": "The Verge AI",
+      "published": "2026-08-11T06:00:00+08:00",
+      "title": {
+        "en": "Mark Zuckerberg doesn’t understand how to live",
+        "zh": "马克扎克伯格不明白如何生活"
+      },
+      "summary": {
+        "en": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline…",
+        "zh": "最近，一个和我一起攀岩的男人告诉我，他如何使用人工智能为自己制作了一张励志海报，并将其挂在卧室的墙上：一只熊在走扁带……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-11T04:53:02+08:00",
+      "title": {
+        "en": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+        "zh": "马克·扎克伯格的人工智能宣言正是人们不喜欢人工智能的原因"
+      },
+      "summary": {
+        "en": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+        "zh": "周一，马克·扎克伯格发表了一份关于个人人工智能的 6,500 字宣言，主要是关于 Meta AI 正在构建的“个人超级智能”系统的可能性。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-11T04:00:00+08:00",
+      "title": {
+        "en": "AI professors are negotiating the new realities of academic research",
+        "zh": "人工智能教授正在讨论学术研究的新现实"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周，我前往圣以南 30 英里……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI",
+      "published": "2026-08-11T01:00:00+08:00",
+      "title": {
+        "en": "What building an AI-native finance function taught me",
+        "zh": "构建人工智能原生财务功能教会了我什么"
+      },
+      "summary": {
+        "en": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+        "zh": "OpenAI 首席财务官 Sarah Friar 分享了构建 AI 原生财务功能的五个经验教训，从自动预测到更强的控制和 AI 投资回报率。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "source": "The Verge AI",
+      "published": "2026-08-10T23:19:05+08:00",
+      "title": {
+        "en": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+        "zh": "马克·扎克伯格大规模人工智能宣言的四个要点"
+      },
+      "summary": {
+        "en": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,50…",
+        "zh": "Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 对于他现在设想的人类与人工智能共存的理想化未来有很多话要说——他最新的文章涵盖了 6,50 多个……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-10T19:00:47+08:00",
+      "title": {
+        "en": "Peer review is overwhelmed—can it survive in the AI era?",
+        "zh": "同行评审不堪重负——它能在人工智能时代生存吗？"
+      },
+      "summary": {
+        "en": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+        "zh": "随着研究和人工智能辅助论文的激增，志愿审稿人很难跟上。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.06394",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-10T12:00:00+08:00",
+      "title": {
+        "en": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+        "zh": "迈向多标签图基础模型：从单向量表示学习到多语义基础学习"
+      },
+      "summary": {
+        "en": "arXiv:2608.06394v1 Announce Type: new Abstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simu…",
+        "zh": "arXiv:2608.06394v1 公告类型：新 摘要：多标签节点分类是图学习中一项重要但具有挑战性的任务，其中节点表现出多种语义......"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Google DeepMind",
+      "published": "2026-08-06T23:06:15+08:00",
+      "title": {
+        "en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+        "zh": "WeatherNext：人工智能模型在预测气旋方面取得突破"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
