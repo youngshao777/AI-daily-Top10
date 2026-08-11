@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-12",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-12T06:39:25.687547+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-12T05:39:11+08:00",
+      "title": {
+        "en": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+        "zh": "Accel 在数周内关闭了超额认购的 5.5 亿美元印度基金，距上次发行已过去 19 个月"
+      },
+      "summary": {
+        "en": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+        "zh": "这家美国风险投资公司仍有超过55%的先前$ 6.5亿印度基金可供部署。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge AI",
+      "published": "2026-08-12T03:41:42+08:00",
+      "title": {
+        "en": "ChatGPT and Gemini both just passed 1 billion users",
+        "zh": "ChatGPT 和 Gemini 用户数量均刚刚突破 10 亿"
+      },
+      "summary": {
+        "en": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's f…",
+        "zh": "这是 Google 产品第 14 次突破 10 亿用户。谷歌首席执行官桑达尔·皮查伊 (Sundar Pichai) 在 X 上发帖表示，每个月有 10 亿人在使用 Gemini，而 Gemini 是谷歌的..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-12T03:15:35+08:00",
+      "title": {
+        "en": "OpenAI launches ChatGPT desktop app for Linux",
+        "zh": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序"
+      },
+      "summary": {
+        "en": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+        "zh": "OpenAI 最终将专用的 ChatGPT 桌面应用程序引入 Linux 操作系统。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "source": "The Verge AI",
+      "published": "2026-08-12T01:50:01+08:00",
+      "title": {
+        "en": "Another OpenAI executive takes off",
+        "zh": "另一位 OpenAI 高管离职"
+      },
+      "summary": {
+        "en": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to…",
+        "zh": "OpenAI 特殊项目负责人、公司前首席运营官 Brad Lightcap 在人工智能实验室工作了八年后宣布离职。在他后来发布的一份内部备忘录中……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-08-11T18:00:00+08:00",
+      "title": {
+        "en": "Testing ads in ChatGPT",
+        "zh": "在 ChatGPT 中测试广告"
+      },
+      "summary": {
+        "en": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+        "zh": "OpenAI 开始在 ChatGPT 中测试广告，以支持免费访问，具有清晰的标签、答案独立性、强大的隐私保护和用户控制。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.07473",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-11T12:00:00+08:00",
+      "title": {
+        "en": "Towards an Argumentative Foundation for Evaluative AI",
+        "zh": "为评估性人工智能建立一个有争议的基础"
+      },
+      "summary": {
+        "en": "arXiv:2608.07473v1 Announce Type: new Abstract: Evaluative AI (EAI) has been recently proposed as a way to support human decision-making, not by producing a single recommendation,…",
+        "zh": "arXiv：2608.07473v1 公告类型：新摘要：评估人工智能（EAI）最近被提议作为支持人类决策的一种方式，而不是通过产生单一建议，......"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-11T06:13:03+08:00",
+      "title": {
+        "en": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+        "zh": "借助新的开放模型，Meta 再次重启其苦苦挣扎的人工智能战略"
+      },
+      "summary": {
+        "en": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+        "zh": "Meta 一直落后于竞争对手。扎克伯格认为他已经找到了前进的道路。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-11T04:00:00+08:00",
+      "title": {
+        "en": "AI professors are negotiating the new realities of academic research",
+        "zh": "人工智能教授正在讨论学术研究的新现实"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周，我前往圣以南 30 英里……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Google DeepMind",
+      "published": "2026-08-06T23:06:15+08:00",
+      "title": {
+        "en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+        "zh": "WeatherNext：人工智能模型在预测气旋方面取得突破"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
