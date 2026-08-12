@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-13",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-13T06:38:07.088507+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-13T06:26:37+08:00",
+      "title": {
+        "en": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+        "zh": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊"
+      },
+      "summary": {
+        "en": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+        "zh": "Anthropic 的新水印系统是一种嘲讽吗？一些人在社交媒体上抱怨事实确实如此。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-13T05:43:21+08:00",
+      "title": {
+        "en": "Terabytes of credentials leaked in massive supply-chain attack",
+        "zh": "大规模供应链攻击中泄露了数 TB 的凭证"
+      },
+      "summary": {
+        "en": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+        "zh": "这些数据是从受感染的 AI 软件包的 2,500 名用户中窃取和泄露的。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-13T04:10:40+08:00",
+      "title": {
+        "en": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+        "zh": "默认情况下，亚马逊将针对 Twitch 主播的内容进行训练，除非他们选择退出"
+      },
+      "summary": {
+        "en": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+        "zh": "Twitch 首席产品官 Mike Minton 在直播中回应用户反馈时表示：“如果这是选择加入，那么没有人会选择加入。” “这就是诚实的答案。”"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
+      "source": "MarkTechPost",
+      "published": "2026-08-13T01:37:37+08:00",
+      "title": {
+        "en": "AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation",
+        "zh": "AllenAI开放式指导Tulu 3使用SFT、DPO、RLVR、GRPO和基于验证者的评估进行培训后"
+      },
+      "summary": {
+        "en": "Build a custom LLM post-training pipeline using AllenAI’s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimizat…",
+        "zh": "使用 AllenAI 的 Open Instruct 框架构建自定义 LLM 培训后流程。这份综合指南介绍了监督微调 (SFT)、直接偏好优化……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "source": "The Verge AI",
+      "published": "2026-08-13T01:29:10+08:00",
+      "title": {
+        "en": "Twitch streamers can now opt out from training Amazon’s AI",
+        "zh": "Twitch 主播现在可以选择不参加亚马逊人工智能的训练"
+      },
+      "summary": {
+        "en": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictu…",
+        "zh": "Twitch 用户现在可以选择不允许他们的内容被用于训练亚马逊的生成人工智能模型。选择退出意味着“您的直播、视频点播、剪辑、直播聊天和图片……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-13T00:51:57+08:00",
+      "title": {
+        "en": "Scaling AI agents with trustworthy data",
+        "zh": "使用可信数据扩展人工智能代理"
+      },
+      "summary": {
+        "en": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potent…",
+        "zh": "商业和技术领导者无需相信代理人工智能的时代已经到来。组织正在迅速采用代理，很少有高管怀疑该技术的潜力……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind",
+      "published": "2026-08-12T22:01:59+08:00",
+      "title": {
+        "en": "Putting sign language AI into users’ hands",
+        "zh": "将手语人工智能交到用户手中"
+      },
+      "summary": {
+        "en": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+        "zh": "推出手语到文本 (SL2T)，这是我们的突破性模型，为聋哑和听力障碍用户提供新的手语功能。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI",
+      "published": "2026-08-12T14:00:00+08:00",
+      "title": {
+        "en": "From assistance to execution: How enterprises put AI to work",
+        "zh": "从协助到执行：企业如何让AI发挥作用"
+      },
+      "summary": {
+        "en": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+        "zh": "OpenAI 研究揭示了企业如何利用 ChatGPT 和 Codex 采用代理人工智能，以及前沿公司如何在人工智能采用方面取得领先。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.09949",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-12T12:00:00+08:00",
+      "title": {
+        "en": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+        "zh": "数字农业闭环法学硕士副驾驶"
+      },
+      "summary": {
+        "en": "arXiv:2608.09949v1 Announce Type: new Abstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to…",
+        "zh": "arXiv：2608.09949v1 公告类型：新 摘要：这项研究评估了大型语言模型（LLM）在复杂生物系统中的应用，从数据分析发展到……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
