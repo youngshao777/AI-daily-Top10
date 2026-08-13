@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-14",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-14T06:39:04.679310+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "source": "The Verge AI",
+      "published": "2026-08-14T05:42:38+08:00",
+      "title": {
+        "en": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "zh": "微软Clippy般的Mico角色不再是Copilot的面孔"
+      },
+      "summary": {
+        "en": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn…",
+        "zh": "当您使用聊天机器人的语音模式时，Microsoft Copilot 将不再显示其情绪化的黄色斑点 Mico。在支持页面中，微软表示将把 Mico 转移到 Learn…"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-14T05:13:24+08:00",
+      "title": {
+        "en": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "zh": "作者引入了新的人工智能模型和升级的工具来控制代币成本"
+      },
+      "summary": {
+        "en": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+        "zh": "作为Z.ai开源模型GLM-5.2的培训后版本， Writer表示，新系统应该以更低的价格提供部署就绪功能。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source": "The Verge AI",
+      "published": "2026-08-14T03:28:39+08:00",
+      "title": {
+        "en": "OpenAI is losing its second executive this week",
+        "zh": "OpenAI 本周将失去第二位高管"
+      },
+      "summary": {
+        "en": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming wee…",
+        "zh": "另一位 OpenAI 高管即将离职。丹尼斯·德莱瑟 (Denise Dresser) 在担任 Slack 首席执行官后于 12 月加入 OpenAI，担任首席营收官，她将在“未来几周”离职……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
+      "source": "MarkTechPost",
+      "published": "2026-08-14T01:47:41+08:00",
+      "title": {
+        "en": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+        "zh": "Google AI 刚刚发布 Gemini 3.7 Flash：编码和代理模型，每 100 万个输入代币价格为 0.75 美元"
+      },
+      "summary": {
+        "en": "Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-t…",
+        "zh": "Google 发布了 Gemini 3.7 Flash，它是 Gemini 3.6 Flash 的改进版，对其推理核心进行了算法改进。它可以跨 1M-t 处理文本、图像、音频和视频……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind",
+      "published": "2026-08-14T01:04:18+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.7 Flash",
+        "zh": "Gemini 3.7 闪存简介"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-13T21:41:10+08:00",
+      "title": {
+        "en": "Flock is tightening its rules in response to a growing surveillance backlash",
+        "zh": "Flock 正在收紧规则，以应对日益增长的监控强烈反对"
+      },
+      "summary": {
+        "en": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing b…",
+        "zh": "警用科技巨头 Flock 今天宣布，它将改变警察对其全国车牌读取器网络的访问权限，此举显然是为了平息日益增长的犯罪行为。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI",
+      "published": "2026-08-13T19:00:00+08:00",
+      "title": {
+        "en": "The builder’s guide to GPT‑5.6",
+        "zh": "GPT-5.6 构建者指南"
+      },
+      "summary": {
+        "en": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+        "zh": "了解初创公司如何使用 GPT-5.6 通过更智能的模型选择和新的 Responses API 功能来构建更快、更具成本效益的 AI 代理。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.11207",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-13T12:00:00+08:00",
+      "title": {
+        "en": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+        "zh": "多法学硕士代理系统的动态治理以实现协作对话结果"
+      },
+      "summary": {
+        "en": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function prod…",
+        "zh": "arXiv:2608.11207v1 公告类型：新 摘要：当两个具有结构性目标相反的 LLM 代理在多个回合中交互时，缺乏共享目标函数会导致……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-13T05:43:21+08:00",
+      "title": {
+        "en": "Terabytes of credentials leaked in massive supply-chain attack",
+        "zh": "大规模供应链攻击中泄露了数 TB 的凭证"
+      },
+      "summary": {
+        "en": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+        "zh": "这些数据是从受感染的 AI 软件包的 2,500 名用户中窃取和泄露的。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
