@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-15",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-15T06:20:16.430240+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "source": "The Verge AI",
+      "published": "2026-08-15T00:54:16+08:00",
+      "title": {
+        "en": "Mark Zuckerberg has an Instagzam",
+        "zh": "马克·扎克伯格有一个 Instazam"
+      },
+      "summary": {
+        "en": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram…",
+        "zh": "Instagram 的文字标记具有标志性。嗯，是标志性的。显然 Instagram 认为它看起来很旧，因此该公司本周推出了一款新产品。它看起来不像旧的 Instagram…"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "source": "The Verge AI",
+      "published": "2026-08-15T00:39:32+08:00",
+      "title": {
+        "en": "You can now turn off Google Gemini’s visible watermarks",
+        "zh": "您现在可以关闭 Google Gemini 的可见水印"
+      },
+      "summary": {
+        "en": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting i…",
+        "zh": "谷歌现在将允许您从使用人工智能工具制作的图像、视频和音乐中删除可见水印。通过更新，您可以关闭新的“媒体水印”设置..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-15T00:13:40+08:00",
+      "title": {
+        "en": "Google will now allow users to remove visible watermark from its AI generations",
+        "zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印"
+      },
+      "summary": {
+        "en": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "zh": "关闭此设置不会影响用于识别 AI 生成文件的隐形基准。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-14T22:27:14+08:00",
+      "title": {
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
+      },
+      "summary": {
+        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "zh": "在万亿美元的雄心壮志面临新的挑战后，美国集团发布了更便宜的车型。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+      "source": "MarkTechPost",
+      "published": "2026-08-14T16:03:22+08:00",
+      "title": {
+        "en": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
+        "zh": "Z.ai 发布 GLM-5.3，无需重新训练基础模型：更擅长复杂编码和长期任务"
+      },
+      "summary": {
+        "en": "Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environment…",
+        "zh": "Z.ai 于 2026 年 8 月 14 日发布了 GLM-5.3。该模型不变地重复使用了 743B GLM-5.2 基础。每一项报告的收益都来自于规模化的训练后：更长远的任务环境……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.12325",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-14T12:00:00+08:00",
+      "title": {
+        "en": "Position: Reasoning is a Learnable Rule-Based Process",
+        "zh": "立场：推理是一个可学习的基于规则的过程"
+      },
+      "summary": {
+        "en": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of s…",
+        "zh": "arXiv:2608.12325v1 公告类型：新 摘要：自主推理是当今人工智能领域最具科学性和经济性的主题之一。从历史上看，…的权限"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind",
+      "published": "2026-08-14T01:04:18+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.7 Flash",
+        "zh": "Gemini 3.7 闪存简介"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-13T21:41:10+08:00",
+      "title": {
+        "en": "Flock is tightening its rules in response to a growing surveillance backlash",
+        "zh": "Flock 正在收紧规则，以应对日益增长的监控强烈反对"
+      },
+      "summary": {
+        "en": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing b…",
+        "zh": "警用科技巨头 Flock 今天宣布，它将改变警察对其全国车牌读取器网络的访问权限，此举显然是为了平息日益增长的犯罪行为。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI",
+      "published": "2026-08-13T19:00:00+08:00",
+      "title": {
+        "en": "The builder’s guide to GPT‑5.6",
+        "zh": "GPT-5.6 构建者指南"
+      },
+      "summary": {
+        "en": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+        "zh": "了解初创公司如何使用GPT-5.6构建更快、更具成本效益的AI代理，以及更智能的模型选择和新的Responses API功能。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "谷歌25年来首次重新设计了搜索框--这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
