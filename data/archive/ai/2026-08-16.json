@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-16",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-16T06:18:33.243810+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-16T05:29:19+08:00",
+      "title": {
+        "en": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "zh": "女子声称她的继父使用 Grok 将童年照片变成露骨图像"
+      },
+      "summary": {
+        "en": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "zh": "这位女士声称人工智能工具“正在将日常生活变成儿童性虐待”。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge AI",
+      "published": "2026-08-16T04:45:00+08:00",
+      "title": {
+        "en": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+        "zh": "通过扮演聊天机器人来嘲笑人工智能的牺牲"
+      },
+      "summary": {
+        "en": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the imp…",
+        "zh": "你的 AI Slop 让我厌烦了，它的简单性非常出色。有两个选项卡：人类和 LARP 作为人工智能。一方面您输入请求。另一方面，您提交答案。但小鬼..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-16T02:58:39+08:00",
+      "title": {
+        "en": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "zh": "Anthropic 分享了有关克劳德新水印如何运作的更多细节"
+      },
+      "summary": {
+        "en": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "zh": "水印实际上如何发挥作用？可以通过编辑隐藏吗？这对代码有何影响？"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.12325",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-15T12:00:00+08:00",
+      "title": {
+        "en": "Position: Reasoning is a Learnable Rule-Based Process",
+        "zh": "立场：推理是一个可学习的基于规则的过程"
+      },
+      "summary": {
+        "en": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of s…",
+        "zh": "arXiv:2608.12325v1 公告类型：新 摘要：自主推理是当今人工智能领域最具科学性和经济性的主题之一。从历史上看，…的权限"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "source": "The Verge AI",
+      "published": "2026-08-15T00:54:16+08:00",
+      "title": {
+        "en": "Mark Zuckerberg has an Instagzam",
+        "zh": "马克·扎克伯格有一个 Instazam"
+      },
+      "summary": {
+        "en": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram…",
+        "zh": "Instagram 的文字标记具有标志性。嗯，是标志性的。显然 Instagram 认为它看起来很旧，因此该公司本周推出了一款新产品。它看起来不像旧的 Instagram…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-14T22:27:14+08:00",
+      "title": {
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
+      },
+      "summary": {
+        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "zh": "美国集团在其万亿美元雄心面临新挑战后推出了更便宜的型号。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind",
+      "published": "2026-08-14T01:04:18+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.7 Flash",
+        "zh": "Gemini 3.7 闪存简介"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-13T21:41:10+08:00",
+      "title": {
+        "en": "Flock is tightening its rules in response to a growing surveillance backlash",
+        "zh": "Flock 正在收紧规则，以应对日益增长的监控强烈反对"
+      },
+      "summary": {
+        "en": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing b…",
+        "zh": "警用科技巨头 Flock 今天宣布，它将改变警察对其全国车牌读取器网络的访问权限，此举显然是为了平息日益增长的犯罪行为。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI",
+      "published": "2026-08-13T19:00:00+08:00",
+      "title": {
+        "en": "The builder’s guide to GPT‑5.6",
+        "zh": "GPT-5.6 构建者指南"
+      },
+      "summary": {
+        "en": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+        "zh": "了解初创公司如何使用 GPT-5.6 通过更智能的模型选择和新的 Responses API 功能来构建更快、更具成本效益的 AI 代理。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
