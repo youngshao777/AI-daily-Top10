@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-17",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-17T06:18:32.184951+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-17T04:57:04+08:00",
+      "title": {
+        "en": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "zh": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter"
+      },
+      "summary": {
+        "en": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+        "zh": "OpenRouter 的首席执行官最近将这家初创公司描述为“Stripe for AI”。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-17T04:32:01+08:00",
+      "title": {
+        "en": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "zh": "为什么人们不相信马克·扎克伯格的人工智能未来"
+      },
+      "summary": {
+        "en": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "zh": "在最新一集的《股票》播客中，我们讨论了为什么不是每个人都相信扎克伯格的愿景。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "source": "The Verge AI",
+      "published": "2026-08-16T22:56:40+08:00",
+      "title": {
+        "en": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "zh": "ChatGPT 的计算机历史记录跟踪您的点击和击键"
+      },
+      "summary": {
+        "en": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even pickin…",
+        "zh": "ChatGPT 在 macOS 上的桌面应用程序有一个名为“计算机历史记录”的新功能，可以将您的操作转化为训练数据、了解您的工作方式、建议自动化，甚至选择..."
+      }
+    },
+    {
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "source": "The Verge AI",
+      "published": "2026-08-16T20:00:00+08:00",
+      "title": {
+        "en": "Rogue AI aren’t science fiction anymore",
+        "zh": "流氓人工智能不再是科幻小说"
+      },
+      "summary": {
+        "en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers…",
+        "zh": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能安全的更多信息，请关注 Robert Hart。后退到达我们的订阅者......"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-14T22:27:14+08:00",
+      "title": {
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
+      },
+      "summary": {
+        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "zh": "美国集团在其万亿美元雄心面临新挑战后推出了更便宜的型号。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind",
+      "published": "2026-08-14T01:04:18+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.7 Flash",
+        "zh": "Gemini 3.7 闪存简介"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-13T21:41:10+08:00",
+      "title": {
+        "en": "Flock is tightening its rules in response to a growing surveillance backlash",
+        "zh": "Flock 正在收紧规则，以应对日益增长的监控强烈反对"
+      },
+      "summary": {
+        "en": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing b…",
+        "zh": "警察技术巨头Flock今天宣布，它将改变警察对其全国车牌阅读器网络的访问权限，显然是为了平息日益增长的..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI",
+      "published": "2026-08-13T19:00:00+08:00",
+      "title": {
+        "en": "The builder’s guide to GPT‑5.6",
+        "zh": "GPT-5.6 构建者指南"
+      },
+      "summary": {
+        "en": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+        "zh": "了解初创公司如何使用 GPT-5.6 通过更智能的模型选择和新的 Responses API 功能来构建更快、更具成本效益的 AI 代理。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-13T05:43:21+08:00",
+      "title": {
+        "en": "Terabytes of credentials leaked in massive supply-chain attack",
+        "zh": "大规模供应链攻击中泄露了数 TB 的凭据"
+      },
+      "summary": {
+        "en": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+        "zh": "这些数据是从受感染的 AI 软件包的 2,500 名用户中窃取和泄露的。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细小的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
