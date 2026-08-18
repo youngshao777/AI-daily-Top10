@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-19",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-19T06:20:37.172212+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-19T06:14:25+08:00",
+      "title": {
+        "en": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+        "zh": "Cursor 利用 Github 的挫败感推出了竞争对手的托管平台"
+      },
+      "summary": {
+        "en": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github.",
+        "zh": "Cursor 以其人工智能代码编辑器而闻名，它正在推出一个新的代码托管平台，以与开发人员长期以来最喜欢的 Github 竞争。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+      "source": "MarkTechPost",
+      "published": "2026-08-19T05:49:04+08:00",
+      "title": {
+        "en": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+        "zh": "NVIDIA发布TensorRT Model Connect公开预览版：通过两个命令将人脸检查点与C + +原生推理相结合"
+      },
+      "summary": {
+        "en": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to end-to-end TensorRT inferenc…",
+        "zh": "NVIDIA 发布了 TensorRT Model Connect (TRTMC) 的公共预览版，这是一个 Apache-2.0 项目，它采用受支持的 Hugging Face 或本地检查点来进行端到端 TensorRT 推理……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "source": "The Verge AI",
+      "published": "2026-08-19T03:48:26+08:00",
+      "title": {
+        "en": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+        "zh": "罗宾·威廉姆斯 (Robin Williams) 恢复 Instagram 账户以对抗“人工智能滥用”"
+      },
+      "summary": {
+        "en": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a po…",
+        "zh": "据 The Wrap 早些时候报道，在罗宾·威廉姆斯的女儿公开反对使用他的人工智能肖像后，他的孩子们正在接管父亲的 Instagram 账户。在一个地方…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI",
+      "published": "2026-08-19T03:00:00+08:00",
+      "title": {
+        "en": "Strengthening democratic oversight in national security",
+        "zh": "加强国家安全民主监督"
+      },
+      "summary": {
+        "en": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+        "zh": "OpenAI 发起了一项倡议，加强对国家安全领域人工智能的民主监督，为政府机构提供工具、培训和专业知识。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-19T02:00:00+08:00",
+      "title": {
+        "en": "OpenAI institutes new safeguards after Hugging Face breach",
+        "zh": "Hugging Face 泄露后 OpenAI 制定了新的保障措施"
+      },
+      "summary": {
+        "en": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training proces…",
+        "zh": "新的保障措施包括在开发过程中对模型进行更详细的监控，以及在训练后过程中更加强调一致性和安全性……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-18T18:06:43+08:00",
+      "title": {
+        "en": "We still don’t know how people are really using AI",
+        "zh": "我们仍然不知道人们是如何真正使用人工智能的"
+      },
+      "summary": {
+        "en": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI r…",
+        "zh": "像Anthropic和OpenAI这样的人工智能公司定期发布关于人们如何使用Claude和ChatGPT等产品的报告，但他们只发布他们希望我们看到的数据， AI r..."
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.14550",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-18T12:00:00+08:00",
+      "title": {
+        "en": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+        "zh": "失败与实际工作：人工智能效率评估中复制的重要性"
+      },
+      "summary": {
+        "en": "arXiv:2608.14550v1 Announce Type: new Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and e…",
+        "zh": "arXiv:2608.14550v1 公告类型：新 摘要：由于庞大的模型规模、高能源需求和 e…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-14T22:27:14+08:00",
+      "title": {
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
+      },
+      "summary": {
+        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "zh": "美国集团在其万亿美元雄心面临新挑战后推出了更便宜的型号。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind",
+      "published": "2026-08-14T01:04:18+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.7 Flash",
+        "zh": "Gemini 3.7 闪存简介"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "published": "2026-05-20T01:45:00+08:00",
+      "title": {
+        "en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
+      },
+      "summary": {
+        "en": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a lis…",
+        "zh": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个列表……"
+      }
+    }
+  ]
+}
