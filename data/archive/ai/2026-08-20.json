@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-20",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-20T06:21:52.175292+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-20T06:10:46+08:00",
+      "title": {
+        "en": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "zh": "OpenAI 寻求通过新的客户隐私保护来超越 Anthropic"
+      },
+      "summary": {
+        "en": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "zh": "OpenAI 和 Anthropic 之间正在展开一场竞争，看谁能为企业客户数据提供最好的隐私保护。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-20T05:51:23+08:00",
+      "title": {
+        "en": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "zh": "Cognition 首席执行官否认 SpaceX 试图收购这家初创公司的报道"
+      },
+      "summary": {
+        "en": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "zh": "据报道，SpaceX 正在洽谈收购人工智能编码初创公司 Cognition。 SpaceX 已经收购了 Cursor，以期在企业人工智能领域追赶 OpenAI 和 Anthropic 等竞争对手。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI",
+      "published": "2026-08-20T03:00:00+08:00",
+      "title": {
+        "en": "Offering Zero Data Retention for frontier models",
+        "zh": "为前沿模型提供零数据保留"
+      },
+      "summary": {
+        "en": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+        "zh": "OpenAI 重申对符合条件的 API 客户实行零数据保留，并预览私人安全处理，以在不损害数据隐私的情况下实现高级 AI 安全。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source": "The Verge AI",
+      "published": "2026-08-20T03:00:00+08:00",
+      "title": {
+        "en": "Google Gemini is getting a dedicated student hub",
+        "zh": "谷歌双子座将建立一个专门的学生中心"
+      },
+      "summary": {
+        "en": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook,…",
+        "zh": "在我们为返校季做准备之际，Google 正在 Gemini 推出一个新的专用学生中心。它是一个一站式存储库，用于在学习笔记本中收集研究成果，……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "published": "2026-08-19T22:18:12+08:00",
+      "title": {
+        "en": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "zh": "VentureBeat 任命 Rob Strechay 为其首位首席分析师，扩大其企业人工智能研究力度"
+      },
+      "summary": {
+        "en": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Re…",
+        "zh": "Rob Strechay 直到最近才担任 theCUBE Research 的董事总经理兼首席分析师，现已加入 VentureBeat，担任我们的第一位首席分析师和 VentureBeat Re 的创始分析师……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.16890",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-19T12:00:00+08:00",
+      "title": {
+        "en": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+        "zh": "GxP-Agent：使用 LLM 代理进行可靠的临床试验编程的 Process-DAG 拓扑"
+      },
+      "summary": {
+        "en": "arXiv:2608.16890v1 Announce Type: new Abstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in…",
+        "zh": "arXiv:2608.16890v1 公告类型：新 摘要：临床试验编程——将研究方案转化为 CDISC 标准下的分析就绪数据集——是……的瓶颈"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+      "source": "MarkTechPost",
+      "published": "2026-08-19T05:49:04+08:00",
+      "title": {
+        "en": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+        "zh": "NVIDIA 发布 TensorRT Model Connect 公共预览版：用两个命令将人脸检查点拥抱到原生 C++ 推理"
+      },
+      "summary": {
+        "en": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to end-to-end TensorRT inferenc…",
+        "zh": "NVIDIA 发布了 TensorRT Model Connect (TRTMC) 的公共预览版，这是一个 Apache-2.0 项目，它采用受支持的 Hugging Face 或本地检查点来进行端到端 TensorRT 推理……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-18T18:06:43+08:00",
+      "title": {
+        "en": "We still don’t know how people are really using AI",
+        "zh": "我们仍然不知道人们如何真正使用人工智能"
+      },
+      "summary": {
+        "en": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI r…",
+        "zh": "Anthropic 和 OpenAI 等人工智能公司定期发布有关人们如何使用 Claude 和 ChatGPT 等产品的报告，但他们只发布他们希望我们看到的数据，人工智能…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-14T22:27:14+08:00",
+      "title": {
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
+      },
+      "summary": {
+        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "zh": "美国集团在其万亿美元雄心面临新挑战后推出了更便宜的型号。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind",
+      "published": "2026-08-14T01:04:18+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.7 Flash",
+        "zh": "Gemini 3.7 闪存简介"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
