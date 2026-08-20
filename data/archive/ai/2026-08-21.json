@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-21",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-21T06:24:45.866260+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-21T06:09:51+08:00",
+      "title": {
+        "en": "ChatGPT can now send texts for you with new Apple Messages plugin",
+        "zh": "ChatGPT 现在可以使用新的 Apple Messages 插件为您发送短信"
+      },
+      "summary": {
+        "en": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+        "zh": "有没有想过让别人帮你发短信？通过新的Apple Messages集成， ChatGPT将作为自动文本抄写器提供。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source": "The Verge AI",
+      "published": "2026-08-21T05:50:22+08:00",
+      "title": {
+        "en": "Google Discover is getting an AI chatbot-tuned feed",
+        "zh": "Google Discover 正在获得人工智能聊天机器人调整的提要"
+      },
+      "summary": {
+        "en": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to…",
+        "zh": "Google 很快将允许您通过描述您想要看到的内容来自定义您的 Discover feed。这项新功能将在“未来几天”推出到谷歌应用程序，将使用人工智能……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-21T04:53:13+08:00",
+      "title": {
+        "en": "OK, can we actually cool data centers with our pee?",
+        "zh": "好吧，我们真的可以用尿液来冷却数据中心吗？"
+      },
+      "summary": {
+        "en": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+        "zh": "Jason Kelce开玩笑说，人们应该用尿液而不是饮用水来冷却数据中心，但他的建议并不完全荒谬。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "source": "The Verge AI",
+      "published": "2026-08-20T23:45:55+08:00",
+      "title": {
+        "en": "It’s Greg Brockman’s OpenAI now",
+        "zh": "现在是Greg Brockman的OpenAI"
+      },
+      "summary": {
+        "en": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from A…",
+        "zh": "OpenAI 度过了地狱般的一年。该公司在一场轰动的陪审团审判中与前联合创始人埃隆·马斯克 (Elon Musk) 进行了数月的斗争，并遭到了来自 A…"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-20T23:42:39+08:00",
+      "title": {
+        "en": "Debates over AI consciousness are a trap",
+        "zh": "关于人工智能意识的争论是一个陷阱"
+      },
+      "summary": {
+        "en": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Promine…",
+        "zh": "“失控”的人工智能、“流氓”特工和“自主”演员--目前的言论会让你相信，人工智能特工不仅清醒而有意识，而且对他们的创造者感到愤怒。Promine……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI",
+      "published": "2026-08-20T15:00:00+08:00",
+      "title": {
+        "en": "Introducing AI Futures",
+        "zh": "介绍人工智能期货"
+      },
+      "summary": {
+        "en": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+        "zh": "隆重推出 AI Futures，这是一个新的 OpenAI 博客，探讨变革性人工智能如何重塑权力、治理、经济和个人自由。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.18078",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-20T12:00:00+08:00",
+      "title": {
+        "en": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+        "zh": "立场：人工智能推理代理之间的共谋风险证明了市场决策的认证要求是合理的"
+      },
+      "summary": {
+        "en": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavio…",
+        "zh": "arXiv:2608.18078v1 公告类型：新 摘要：这篇立场文件认为，具有思想链推理能力的人工智能代理容易表现出串通行为……"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "published": "2026-08-19T22:18:12+08:00",
+      "title": {
+        "en": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "zh": "VentureBeat 任命 Rob Strechay 为其首位首席分析师，扩大其企业人工智能研究力度"
+      },
+      "summary": {
+        "en": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Re…",
+        "zh": "Rob Strechay 直到最近才担任 theCUBE Research 的董事总经理兼首席分析师，现已加入 VentureBeat，担任我们的第一位首席分析师和 VentureBeat Re 的创始分析师……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-14T22:27:14+08:00",
+      "title": {
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
+      },
+      "summary": {
+        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "zh": "美国集团在其万亿美元雄心面临新挑战后推出了更便宜的型号。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind",
+      "published": "2026-08-14T01:04:18+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.7 Flash",
+        "zh": "Gemini 3.7 闪存简介"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
