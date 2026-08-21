@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-22",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-22T06:21:43.117885+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+      "source": "MarkTechPost",
+      "published": "2026-08-22T06:00:25+08:00",
+      "title": {
+        "en": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+        "zh": "构建代理文档智能管道：使用 AutoFigure 创建科学图形"
+      },
+      "summary": {
+        "en": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting…",
+        "zh": "本教程将探讨 AutoFigure，这是一个实用的工具包，用于直接从文本描述和研究论文生成专业的科学图表。我们走过设置……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge AI",
+      "published": "2026-08-22T05:25:50+08:00",
+      "title": {
+        "en": "Over 1 million people have clicked LinkedIn’s AI slop button",
+        "zh": "超过100万人点击了LinkedIn的人工智能SLOP按钮"
+      },
+      "summary": {
+        "en": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief pro…",
+        "zh": "LinkedIn 实际上在 7 月 30 日宣布了一个“看起来像 AI slop”按钮，该公司表示很多人已经使用过它。根据首席专家周四的帖子……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+      "source": "MarkTechPost",
+      "published": "2026-08-22T05:15:53+08:00",
+      "title": {
+        "en": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+        "zh": "Anthropic将Claude Mythos 5带入Claude Security ：企业团队无需直接模型访问即可获得前沿漏洞扫描"
+      },
+      "summary": {
+        "en": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claud…",
+        "zh": "Anthropic 已将其最具网络能力的模型转变为安全团队可以自行切换的产品。 Claude Security 扫描现在在 Claude Mythos 5 上运行，这是 Claud 的公开测试版……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-22T03:43:39+08:00",
+      "title": {
+        "en": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "zh": "英伟达刚刚表明，线束，而不是人工智能模型，现在是真正的英雄"
+      },
+      "summary": {
+        "en": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+        "zh": "英伟达的研究表明，即使人工智能模型在这项任务上表现不佳，通过微调，人工智能代理也可以表现良好，并且不会陷入困境。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "published": "2026-08-21T19:59:48+08:00",
+      "title": {
+        "en": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "zh": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究"
+      },
+      "summary": {
+        "en": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+        "zh": "Google DeepMind 与游戏工作室合作开发突破性人工智能游戏原型。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.19202",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-21T12:00:00+08:00",
+      "title": {
+        "en": "Active Inference as Context Acquisition for AI Agents",
+        "zh": "主动推理作为 AI 代理的上下文获取"
+      },
+      "summary": {
+        "en": "arXiv:2608.19202v1 Announce Type: new Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file,…",
+        "zh": "arXiv: 2608.19202v1公告类型：新摘要：交互式AI代理必须尽可能高效地获取正确的上下文。当用户省略约束、首选项、文件…"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-20T23:42:39+08:00",
+      "title": {
+        "en": "Debates over AI consciousness are a trap",
+        "zh": "关于人工智能意识的争论是一个陷阱"
+      },
+      "summary": {
+        "en": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Promine…",
+        "zh": "“失控”的人工智能、“流氓”代理和“自主”行动者——当前的言论会让你相信人工智能代理不仅是清醒的、有意识的，而且还对它们的创造者感到愤怒。普罗米恩…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI",
+      "published": "2026-08-20T15:00:00+08:00",
+      "title": {
+        "en": "Introducing AI Futures",
+        "zh": "介绍人工智能期货"
+      },
+      "summary": {
+        "en": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+        "zh": "隆重推出 AI Futures，这是一个新的 OpenAI 博客，探讨变革性人工智能如何重塑权力、治理、经济和个人自由。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "published": "2026-08-19T22:18:12+08:00",
+      "title": {
+        "en": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "zh": "VentureBeat任命Rob Strechay为其首位首席分析师，扩大其企业人工智能研究推动力"
+      },
+      "summary": {
+        "en": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Re…",
+        "zh": "Rob Strechay 直到最近才担任 theCUBE Research 的董事总经理兼首席分析师，现已加入 VentureBeat，担任我们的第一位首席分析师和 VentureBeat Re 的创始分析师……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-14T22:27:14+08:00",
+      "title": {
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
+      },
+      "summary": {
+        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "zh": "在万亿美元的雄心壮志面临新的挑战后，美国集团发布了更便宜的车型。"
+      }
+    }
+  ]
+}
