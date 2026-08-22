@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-23",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-23T06:19:17.216119+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-23T05:46:56+08:00",
+      "title": {
+        "en": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "zh": "哈佛 699 美元的创业训练营提供其讲师的人工智能头像"
+      },
+      "summary": {
+        "en": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "zh": "在 HBS Foundry 计划中，人工智能化身在练习推介和董事会会议期间提供反馈。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-23T03:00:00+08:00",
+      "title": {
+        "en": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "zh": "由DeepMind校友创立的Inherent表示，其AI “队友”在复制研究方面的表现刚刚超过了Anthropic和OpenAI"
+      },
+      "summary": {
+        "en": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "zh": "由 DeepMind 校友创建的英国人工智能实验室 Inherent 发布了 Faraday，这是一款人工智能代理，其复制科学论文的能力可能成为创新的垫脚石。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+      "source": "MarkTechPost",
+      "published": "2026-08-22T21:43:13+08:00",
+      "title": {
+        "en": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+        "zh": "解码人工智能的开源课程映射了运行代理循环的三种方式以及每种方式背后的提供商经济学"
+      },
+      "summary": {
+        "en": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only…",
+        "zh": "大多数团队将“哪个模型”视为重要决策。线束工程文献一直指向其他地方。在LangChain的Terminal-Bench实验中，仅更改……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+      "source": "MarkTechPost",
+      "published": "2026-08-22T07:20:12+08:00",
+      "title": {
+        "en": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+        "zh": "2026 年最佳 GPU Neocloud：CoreWeave、Nebius、Lambda、Crusoe 和 Groq 按已发布定价和合同功耗排名"
+      },
+      "summary": {
+        "en": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself…",
+        "zh": "五个最大的GPU新云现在运行在非常不同的模型上。CoreWeave和Nebius向美国证券交易委员会报告； Lambda和Crusoe是私有的，正在走向IPO ； Groq重建了自己……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge AI",
+      "published": "2026-08-22T05:25:50+08:00",
+      "title": {
+        "en": "Over 1 million people have clicked LinkedIn’s AI slop button",
+        "zh": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮"
+      },
+      "summary": {
+        "en": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief pro…",
+        "zh": "LinkedIn实际上在7月30日宣布了一个“看起来像AI SLOP”按钮，该公司表示，很多人已经使用过它。根据首席专业人士周四的帖子……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "published": "2026-08-21T19:59:48+08:00",
+      "title": {
+        "en": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "zh": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究"
+      },
+      "summary": {
+        "en": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+        "zh": "Google DeepMind 与游戏工作室合作开发突破性人工智能游戏原型。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-20T23:42:39+08:00",
+      "title": {
+        "en": "Debates over AI consciousness are a trap",
+        "zh": "关于人工智能意识的争论是一个陷阱"
+      },
+      "summary": {
+        "en": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Promine…",
+        "zh": "“失控”的人工智能、“流氓”代理和“自主”行动者——当前的言论会让你相信人工智能代理不仅是清醒的、有意识的，而且还对它们的创造者感到愤怒。普罗米恩…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI",
+      "published": "2026-08-20T15:00:00+08:00",
+      "title": {
+        "en": "Introducing AI Futures",
+        "zh": "介绍人工智能期货"
+      },
+      "summary": {
+        "en": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+        "zh": "隆重推出 AI Futures，这是一个新的 OpenAI 博客，探讨变革性人工智能如何重塑权力、治理、经济和个人自由。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "published": "2026-08-19T22:18:12+08:00",
+      "title": {
+        "en": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "zh": "VentureBeat 任命 Rob Strechay 为其首位首席分析师，扩大其企业人工智能研究力度"
+      },
+      "summary": {
+        "en": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Re…",
+        "zh": "Rob Strechay 直到最近才担任 theCUBE Research 的董事总经理兼首席分析师，现已加入 VentureBeat，担任我们的第一位首席分析师和 VentureBeat Re 的创始分析师……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-14T22:27:14+08:00",
+      "title": {
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
+      },
+      "summary": {
+        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "zh": "美国集团在其万亿美元雄心面临新挑战后推出了更便宜的型号。"
+      }
+    }
+  ]
+}
