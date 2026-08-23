@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-24",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-24T06:19:11.915487+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-24T04:01:36+08:00",
+      "title": {
+        "en": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "zh": "新的“隐形模式” Ox Alpha背后是谁？"
+      },
+      "summary": {
+        "en": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "zh": "一种名为Ox Alpha的神秘新人工智能模型将互联网的某些角落推向了疯狂的猜测。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-24T03:14:08+08:00",
+      "title": {
+        "en": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "zh": "Linkdaze的智能日历旨在管理家庭，而不仅仅是跟踪时间表"
+      },
+      "summary": {
+        "en": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "zh": "Linkdaze 的智能数字日历因其不将其功能置于付费专区而脱颖而出，其中包括人工智能膳食计划工具。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+      "source": "MarkTechPost",
+      "published": "2026-08-24T01:51:56+08:00",
+      "title": {
+        "en": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+        "zh": "Harvey推出Harvey Tenet ：经过烟花后培训的Kimi K3基地，用于长期法律代理人工作"
+      },
+      "summary": {
+        "en": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet…",
+        "zh": "Harvey的第一个后训练模型几乎使实验室任务完成率翻了一番，但今天只有一个基准数字在独立验证中幸存下来Harvey介绍Harvey Tenet后……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+      "source": "MarkTechPost",
+      "published": "2026-08-23T18:44:59+08:00",
+      "title": {
+        "en": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+        "zh": "了解FreeToken ：在单个工作站GPU上运行753B GLM-5.2的边缘本地MoE服务引擎"
+      },
+      "summary": {
+        "en": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Ser…",
+        "zh": "FreeToken 使用测量的带宽在 PCIe 填充和 CPU 执行之间分割 MoE 缓存未命中，在本地解锁前沿模型 满足 FreeToken 的帖子：边缘原生 MoE Ser…"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge AI",
+      "published": "2026-08-22T05:25:50+08:00",
+      "title": {
+        "en": "Over 1 million people have clicked LinkedIn’s AI slop button",
+        "zh": "超过100万人点击了LinkedIn的人工智能SLOP按钮"
+      },
+      "summary": {
+        "en": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief pro…",
+        "zh": "LinkedIn实际上在7月30日宣布了一个“看起来像AI SLOP”按钮，该公司表示，很多人已经使用过它。根据首席专业人士周四的帖子……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "published": "2026-08-21T19:59:48+08:00",
+      "title": {
+        "en": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "zh": "从雅达利到前夕在线：在15年游戏人工智能研究的基础上再接再厉"
+      },
+      "summary": {
+        "en": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+        "zh": "谷歌DeepMind与游戏工作室合作，打造突破性的人工智能游戏原型。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-20T23:42:39+08:00",
+      "title": {
+        "en": "Debates over AI consciousness are a trap",
+        "zh": "关于人工智能意识的争论是一个陷阱"
+      },
+      "summary": {
+        "en": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Promine…",
+        "zh": "“失控”的人工智能、“流氓”特工和“自主”演员--目前的言论会让你相信，人工智能特工不仅清醒而有意识，而且对他们的创造者感到愤怒。Promine……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI",
+      "published": "2026-08-20T15:00:00+08:00",
+      "title": {
+        "en": "Introducing AI Futures",
+        "zh": "AI Futures简介"
+      },
+      "summary": {
+        "en": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+        "zh": "介绍AI Futures ，这是一个新的OpenAI博客，探讨变革性AI如何重塑权力、治理、经济和个人自由。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "published": "2026-08-19T22:18:12+08:00",
+      "title": {
+        "en": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "zh": "VentureBeat任命Rob Strechay为其首位首席分析师，扩大其企业人工智能研究推动力"
+      },
+      "summary": {
+        "en": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Re…",
+        "zh": "直到最近， CUBE Research的董事总经理兼首席分析师Rob Strechay才加入VentureBeat ，担任我们的第一位首席分析师和VentureBeat Re...的创始分析师。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-14T22:27:14+08:00",
+      "title": {
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "zh": "随着中国人工智能竞争对手取得进展， OpenAI和Anthropic在价格战中取得进展"
+      },
+      "summary": {
+        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "zh": "在万亿美元的雄心壮志面临新的挑战后，美国集团发布了更便宜的车型。"
+      }
+    }
+  ]
+}
