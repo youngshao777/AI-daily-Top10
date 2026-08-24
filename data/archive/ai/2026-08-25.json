@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-25",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-25T06:23:28.212828+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/",
+      "source": "MarkTechPost",
+      "published": "2026-08-25T06:21:22+08:00",
+      "title": {
+        "en": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction",
+        "zh": "Fastino发布GLiNER2.5 ：一种从信息提取中移除SPAN枚举的边界预测架构"
+      },
+      "summary": {
+        "en": "Fastino released GLiNER2.5, replacing span enumeration with boundary prediction so entity width no longer costs compute. Three Apache 2.0 checkpoints ship at 74M, 194M, and 287M p…",
+        "zh": "Fastino发布了GLiNER2.5 ，用边界预测替换了SPAN枚举，因此实体宽度不再需要计算成本。三个Apache 2.0检查站分别位于74M、1.94 M和2.87 M…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-25T05:45:53+08:00",
+      "title": {
+        "en": "AI is hitting entry-level jobs hardest, Stanford study finds",
+        "zh": "斯坦福大学的研究发现，人工智能对入门级工作的打击最大"
+      },
+      "summary": {
+        "en": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+        "zh": "与人工智能抗性更强的职业相比，受人工智能影响领域的年轻人就业率下降了19%。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-25T05:24:17+08:00",
+      "title": {
+        "en": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+        "zh": "特朗普在轰动一时的IPO两周后购买了SpaceX股票"
+      },
+      "summary": {
+        "en": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+        "zh": "当股价处于150 $中间区间时，总统买入。SpaceX周一以135 $的IPO价格完成交易。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-24T22:20:19+08:00",
+      "title": {
+        "en": "How to encourage smarter AI use in the classroom",
+        "zh": "如何鼓励在课堂上更智能地使用人工智能"
+      },
+      "summary": {
+        "en": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatb…",
+        "zh": "本文摘自《让人工智能发挥作用》（ Making AI Work ） ，这是《麻省理工学院技术评论》（ MIT Technology Review ）的限量版时事通讯，探讨了如何跨行业如需在收件箱中接收，请在此处注册。聊天…"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
+      "source": "MarkTechPost",
+      "published": "2026-08-24T22:17:01+08:00",
+      "title": {
+        "en": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo",
+        "zh": "通才AI发布GEN-1.5 ：从一个3–12秒的演示中学习新任务的机器人基础模型"
+      },
+      "summary": {
+        "en": "Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3–12 seconds of sensorimotor data into its 30-second…",
+        "zh": "通才AI发布了GEN-1.5 ，这是一种机器人基础模型，可以从单个演示中学习新的物理任务。将3–12秒的感觉运动数据放入30秒……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "OpenAI",
+      "published": "2026-08-24T20:00:00+08:00",
+      "title": {
+        "en": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "zh": "在KIRO使用GPT ‑ 5.6提高开发人员的性价比"
+      },
+      "summary": {
+        "en": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+        "zh": "GPT ‑ 5.6现已在KIRO中提供，帮助开发人员以更高的性价比规划、构建、审查和测试软件。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.20341",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-24T12:00:00+08:00",
+      "title": {
+        "en": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+        "zh": "SDAD ： AI-Native SDLC的规范驱动代理开发"
+      },
+      "summary": {
+        "en": "arXiv:2608.20341v1 Announce Type: new Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are re…",
+        "zh": "arXiv: 2608.20341v1公告类型：新摘要：由大型语言模型支持的前沿编码代理，上下文窗口从数十万到数百万个令牌被重新…"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge AI",
+      "published": "2026-08-22T05:25:50+08:00",
+      "title": {
+        "en": "Over 1 million people have clicked LinkedIn’s AI slop button",
+        "zh": "超过100万人点击了LinkedIn的人工智能SLOP按钮"
+      },
+      "summary": {
+        "en": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief pro…",
+        "zh": "LinkedIn实际上在7月30日宣布了一个“看起来像AI SLOP”按钮，该公司表示，很多人已经使用过它。根据首席专业人士周四的帖子……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "published": "2026-08-21T19:59:48+08:00",
+      "title": {
+        "en": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "zh": "从雅达利到前夕在线：在15年游戏人工智能研究的基础上再接再厉"
+      },
+      "summary": {
+        "en": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+        "zh": "谷歌DeepMind与游戏工作室合作，打造突破性的人工智能游戏原型。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "published": "2026-08-19T22:18:12+08:00",
+      "title": {
+        "en": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "zh": "VentureBeat任命Rob Strechay为其首位首席分析师，扩大其企业人工智能研究推动力"
+      },
+      "summary": {
+        "en": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Re…",
+        "zh": "直到最近， CUBE Research的董事总经理兼首席分析师Rob Strechay才加入VentureBeat ，担任我们的第一位首席分析师和VentureBeat Re...的创始分析师。"
+      }
+    }
+  ]
+}
