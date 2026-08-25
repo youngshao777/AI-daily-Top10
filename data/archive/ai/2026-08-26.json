@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-26",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-26T06:24:35.385799+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-26T03:03:47+08:00",
+      "title": {
+        "en": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "zh": "图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 7600 万美元的新资金"
+      },
+      "summary": {
+        "en": "The company's new fundraising total now stands at $232 million.",
+        "zh": "该公司新的筹款总额现在为2.32亿美元（ $ ）。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-26T01:50:33+08:00",
+      "title": {
+        "en": "Claude Cowork finally remembers what you told the app in chat",
+        "zh": "Claude Cowork终于记得您在聊天中告诉应用程序的内容"
+      },
+      "summary": {
+        "en": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+        "zh": "Anthropic为Claude提供了跨聊天和Cowork的共享记忆，因此用户不再需要反复向人工智能简要介绍项目、偏好和其他背景。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-25T23:10:03+08:00",
+      "title": {
+        "en": "AI won’t replace radiologists, but it will dramatically change their jobs",
+        "zh": "人工智能不会取代放射科医生，但它将极大地改变他们的工作"
+      },
+      "summary": {
+        "en": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+        "zh": "一位开拓性的人工智能科学家曾预测计算机将取代人类放射科医生。他们没有。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "source": "The Verge AI",
+      "published": "2026-08-25T22:00:00+08:00",
+      "title": {
+        "en": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "zh": "OpenAI表示，其Jalapeño芯片可以比竞争对手更快地支持AI响应"
+      },
+      "summary": {
+        "en": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a…",
+        "zh": "OpenAI周二发布的一篇博客文章称，其新的人工智能芯片Jalapeño比其他人工智能系统更高效地完成任务并更快地返回响应。在..."
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-25T17:00:00+08:00",
+      "title": {
+        "en": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+        "zh": "我在上海的一个机器人“狂欢节”上度过了一天。这就是我所看到的。"
+      },
+      "summary": {
+        "en": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology in…",
+        "zh": "人形机器人正在中国度过一个时刻。流行的机器是该国将人工智能带入日常生活的战略的一部分。将技术嵌入到……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI",
+      "published": "2026-08-25T15:05:00+08:00",
+      "title": {
+        "en": "The full stack behind abundant intelligence",
+        "zh": "丰富智能背后的全栈"
+      },
+      "summary": {
+        "en": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+        "zh": "OpenAI首席财务官Sarah Friar解释了芯片、计算、模型和产品的进步如何结合起来，以更大的规模和更低的成本提供更有用的智能。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.21362",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-25T12:00:00+08:00",
+      "title": {
+        "en": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+        "zh": "KVBoost ：块级键值缓存重用与偏差引导计算实现高效大型语言模型推断"
+      },
+      "summary": {
+        "en": "arXiv:2608.21362v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for eac…",
+        "zh": "arXiv: 2608.21362v1公告类型：新摘要：基于变压器的大型语言模型（ LLM ）会产生较高的预填充延迟，因为必须重新计算键值（ KV ）张量才能实现……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-25T05:45:53+08:00",
+      "title": {
+        "en": "AI is hitting entry-level jobs hardest, Stanford study finds",
+        "zh": "斯坦福大学的研究发现，人工智能对入门级工作的打击最大"
+      },
+      "summary": {
+        "en": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+        "zh": "与人工智能抗性更强的职业相比，受人工智能影响领域的年轻人就业率下降了19%。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "published": "2026-08-21T19:59:48+08:00",
+      "title": {
+        "en": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "zh": "从雅达利到前夕在线：在15年游戏人工智能研究的基础上再接再厉"
+      },
+      "summary": {
+        "en": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+        "zh": "谷歌DeepMind与游戏工作室合作，打造突破性的人工智能游戏原型。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "published": "2026-08-19T22:18:12+08:00",
+      "title": {
+        "en": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "zh": "VentureBeat任命Rob Strechay为其首位首席分析师，扩大其企业人工智能研究推动力"
+      },
+      "summary": {
+        "en": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Re…",
+        "zh": "直到最近， CUBE Research的董事总经理兼首席分析师Rob Strechay才加入VentureBeat ，担任我们的第一位首席分析师和VentureBeat Re...的创始分析师。"
+      }
+    }
+  ]
+}
