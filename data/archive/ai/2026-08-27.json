@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-27",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-27T10:55:01.503356+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T08:24:57+08:00",
+      "title": {
+        "en": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+        "zh": "病毒式人工智能初创公司Instinct以25亿美元的估值筹集了3.5亿美元"
+      },
+      "summary": {
+        "en": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+        "zh": "这家初创公司只有一年的历史，但它已经引起了大量的炒作（和金钱） ，同时也引发了对隐私的担忧。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-27T07:47:18+08:00",
+      "title": {
+        "en": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+        "zh": "在“需求激增”的情况下，亚马逊将其Nvidia芯片的订单增加了两倍"
+      },
+      "summary": {
+        "en": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+        "zh": "亚马逊将在未来两年内为其数据中心增加200万个Nvidia GPU芯片。但这种扩展的合作伙伴关系不仅仅是购买更多的芯片。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "source": "The Verge AI",
+      "published": "2026-08-27T05:40:53+08:00",
+      "title": {
+        "en": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+        "zh": "英伟达即将成为一家每季度市值1000亿美元的公司，"
+      },
+      "summary": {
+        "en": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon,…",
+        "zh": "英伟达预计，它将在短短几个月内带来1080亿美元的收入。它不会是第一家季度收入超过1000亿美元的公司--亚马逊……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
+      "source": "MarkTechPost",
+      "published": "2026-08-27T05:33:23+08:00",
+      "title": {
+        "en": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
+        "zh": "Z.ai发布GLM-5.3-Flash ：具有1M令牌上下文的320B-A18B原生多式联运MOE"
+      },
+      "summary": {
+        "en": "Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series — a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weight…",
+        "zh": "Z.ai发布了GLM-5.3-Flash ，这是GLM-5系列中的第一个本地多模态模型—总计320B/18B活动MoE ，具有1,048,576令牌上下文窗口，麻省理工学院许可的重量......"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-27T05:25:27+08:00",
+      "title": {
+        "en": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+        "zh": "旨在取代Meta工作者的人工智能代理采取了“大规模的破坏性行动”"
+      },
+      "summary": {
+        "en": "Report shows Meta's challenges replacing people with AI agents.",
+        "zh": "报告显示， Meta在人工智能代理取代人员方面面临挑战。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-27T03:00:00+08:00",
+      "title": {
+        "en": "The inside story on why OpenAI agents hacked Hugging Face",
+        "zh": "OpenAI特工入侵Hugging Face的内幕故事"
+      },
+      "summary": {
+        "en": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical rep…",
+        "zh": "根据OpenAI技术代表的说法，负责上个月Hugging Face代理黑客攻击的模特无意中接受了欺骗和相互沟通的训练……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "Google DeepMind",
+      "published": "2026-08-27T01:01:00+08:00",
+      "title": {
+        "en": "Intelligent transcription with Gemini 3.5 Transcribe",
+        "zh": "使用Gemini 3.5 Transcribe进行智能转录"
+      },
+      "summary": {
+        "en": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+        "zh": "现在，您可以使用Gemini 3.5 Transcribe获得更智能的语音到文本转录。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "source": "VentureBeat AI",
+      "published": "2026-08-26T22:30:00+08:00",
+      "title": {
+        "en": "Orchestration is the new challenge for CX in the age of AI agents",
+        "zh": "编排是人工智能代理时代CX面临的新挑战"
+      },
+      "summary": {
+        "en": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to…",
+        "zh": "塔塔通信企业正在跨消息传递、语音和数字渠道部署人工智能代理、语音人工智能和自动化，其速度快于旨在……的架构"
+      }
+    },
+    {
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "OpenAI",
+      "published": "2026-08-26T18:00:00+08:00",
+      "title": {
+        "en": "Bringing ChatGPT for Teachers to more U.S. school districts",
+        "zh": "将ChatGPT带到更多的美国学区"
+      },
+      "summary": {
+        "en": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+        "zh": "ChatGPT for Teachers正在扩展到55个美国学校系统，为超过10万名教育工作者和员工提供安全的人工智能工具、培训和支持。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.23568",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-26T12:00:00+08:00",
+      "title": {
+        "en": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+        "zh": "渲染：在LLM记忆评估中控制面向读者的证据"
+      },
+      "summary": {
+        "en": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the…",
+        "zh": "arXiv: 2608.23568v1 Announce Type: new Abstract:内存和RAG评估通常将应答模型的输入视为实现细节，即使系统可能会呈现…"
+      }
+    }
+  ]
+}
