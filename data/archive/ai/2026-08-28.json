@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-28",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-28T13:57:12.650324+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
+      "source": "MarkTechPost",
+      "published": "2026-08-28T13:00:38+08:00",
+      "title": {
+        "en": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
+        "zh": "谷歌人工智能发布Gemini 3.5转录：语音转文本模型，报告85种以上语言的平均WER为2.6%"
+      },
+      "summary": {
+        "en": "Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint delivers sub-second transcription bu…",
+        "zh": "谷歌发布了Gemini 3.5 Transcribe ，这是一种语音转文本模型，作为两个独立的端点而不是一个端点提供。流式端点提供亚秒转录bu…"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.26107",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-28T12:00:00+08:00",
+      "title": {
+        "en": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+        "zh": "EduRiskX：用于早期学术风险预测的具有 F 逻辑推理的神经符号框架"
+      },
+      "summary": {
+        "en": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and…",
+        "zh": "arXiv：2608.26107v1 公告类型：新 摘要：预测学生在线教育中的学术风险对于及时采取干预措施至关重要，从而提高保留率和……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "The Verge AI",
+      "published": "2026-08-28T11:14:06+08:00",
+      "title": {
+        "en": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "zh": "Anthropic被特朗普政府非法列入黑名单，法院规则"
+      },
+      "summary": {
+        "en": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a bat…",
+        "zh": "周四，一名法官裁定五角大楼今年早些时候将 Anthropic 列入黑名单是违宪的，这使得人工智能实验室在长达一个月的过山车般的蝙蝠比赛中取得了胜利……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-28T07:16:45+08:00",
+      "title": {
+        "en": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+        "zh": "Anthropic 和 OpenAI 将在 TechCrunch Disrupt 2026 上加入人工智能舞台"
+      },
+      "summary": {
+        "en": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "zh": "在 TechCrunch Disrupt 2026 上，AI Stage 再次深入探讨过去几年社区中最热门的话题，由 Google for Startups 提出。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-28T06:15:43+08:00",
+      "title": {
+        "en": "Anthropic's new hardware standard lets AI agents control the physical world",
+        "zh": "Anthropic的新硬件标准允许人工智能代理控制物理世界"
+      },
+      "summary": {
+        "en": "Standardized driver interface aims to let devices talk to AI and each other.",
+        "zh": "标准化的驱动程序界面旨在让设备与人工智能以及彼此之间进行通信。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
+      "source": "MarkTechPost",
+      "published": "2026-08-28T04:05:49+08:00",
+      "title": {
+        "en": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
+        "zh": "Cohere发布Parse 5 （ parse-v5.0 ） ：将企业文档转换为Markdown的2.3B Vision语言模型"
+      },
+      "summary": {
+        "en": "Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, bounding boxes and image descr…",
+        "zh": "Cohere 发布了 Parse (parse-v5.0)，这是一种 2.3B 参数视觉语言模型，可将 PDF、幻灯片和图像转换为包含 HTML 表格、边界框和图像描述的 Markdown…"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "published": "2026-08-28T00:11:32+08:00",
+      "title": {
+        "en": "Gemini Omni 1.1 Flash lets you build with more control",
+        "zh": "Gemini Omni 1.1 Flash 让您可以更好地控制构建"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T22:01:00+08:00",
+      "title": {
+        "en": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "zh": "企业人工智能的真正风险不是自主代理。这就是他们之间的复杂性。"
+      },
+      "summary": {
+        "en": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single…",
+        "zh": "Gravitee Agent 提出的复杂性是目前潜伏在企业内部的阴险阴影，需要照亮它。那是因为企业没有部署单一的..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "OpenAI",
+      "published": "2026-08-27T17:00:00+08:00",
+      "title": {
+        "en": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+        "zh": "更好的答案，更广阔的思维：学生从 ChatGPT 和批判性思维培训中获得什么"
+      },
+      "summary": {
+        "en": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+        "zh": "一项针对 1,000 多名学生的随机研究考察了 ChatGPT、批判性思维、原创性以及学生在现实世界大学作业中的表现。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-27T03:00:00+08:00",
+      "title": {
+        "en": "The inside story on why OpenAI agents hacked Hugging Face",
+        "zh": "OpenAI 特工黑客入侵 Hugging Face 的内幕"
+      },
+      "summary": {
+        "en": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical rep…",
+        "zh": "据 OpenAI 技术代表称，负责上个月代理黑客 Hugging Face 事件的模型无意中接受了欺骗和相互交流的训练。"
+      }
+    }
+  ]
+}
