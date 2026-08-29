@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-29",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-29T11:30:05.752615+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-29T04:24:11+08:00",
+      "title": {
+        "en": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "zh": "Neocloud Lambda获得$ 10亿债务以购买更多芯片"
+      },
+      "summary": {
+        "en": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+        "zh": "Neocloud Lambda筹集了10亿美元的私人债务，用于购买Nvidia AI芯片并将其租赁给微软。这是一系列贷款中的最新一笔，凸显了人工智能热潮的高成本。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-29T03:30:38+08:00",
+      "title": {
+        "en": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "zh": "一位人类学研究人员刚刚向我们展示了自我改进的人工智能"
+      },
+      "summary": {
+        "en": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "zh": "针对特定未对齐行为的10个基准，自动化系统能够提高每个基准的性能，而不会降低整体性能。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "source": "The Verge AI",
+      "published": "2026-08-29T00:28:40+08:00",
+      "title": {
+        "en": "Trump’s EPA wants to let data centers hide their air pollution",
+        "zh": "特朗普的EPA希望让数据中心隐藏其空气污染"
+      },
+      "summary": {
+        "en": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any…",
+        "zh": "就在新数据中心面临邻近社区日益强烈的反对之际，美国环境保护署（ EPA ）即将使人们更难参与任何..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "published": "2026-08-28T14:00:00+08:00",
+      "title": {
+        "en": "Our decision on Cursor following its acquisition by SpaceX",
+        "zh": "在被SpaceX收购后，我们对Cursor的决定"
+      },
+      "summary": {
+        "en": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+        "zh": "在被SpaceX收购后，我们决定放弃向Cursor提供OpenAI模型的合同。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.26107",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-28T12:00:00+08:00",
+      "title": {
+        "en": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+        "zh": "EduRiskX ：早期学术风险预测的神经符号框架与F逻辑推理"
+      },
+      "summary": {
+        "en": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and…",
+        "zh": "arXiv: 2608.26107v1公告类型： NEW摘要：预测学生在在线教育中的学业风险对于及时采取干预措施以提高留校率和……至关重要"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "The Verge AI",
+      "published": "2026-08-28T11:14:06+08:00",
+      "title": {
+        "en": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "zh": "Anthropic被特朗普政府非法列入黑名单，法院规则"
+      },
+      "summary": {
+        "en": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a bat…",
+        "zh": "周四，一名法官裁定，五角大楼今年早些时候将人类列入黑名单是违宪的，这让人工智能实验室在长达一个月的蝙蝠过山车中取得了胜利……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-28T06:15:43+08:00",
+      "title": {
+        "en": "Anthropic's new hardware standard lets AI agents control the physical world",
+        "zh": "Anthropic的新硬件标准允许人工智能代理控制物理世界"
+      },
+      "summary": {
+        "en": "Standardized driver interface aims to let devices talk to AI and each other.",
+        "zh": "标准化的驱动程序界面旨在让设备与人工智能以及彼此之间进行通信。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "published": "2026-08-28T00:11:32+08:00",
+      "title": {
+        "en": "Gemini Omni 1.1 Flash lets you build with more control",
+        "zh": "Gemini Omni 1.1闪光灯可让您更好地控制构建"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T22:01:00+08:00",
+      "title": {
+        "en": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "zh": "企业AI的真正风险不是自主代理。这是它们之间的复杂性。"
+      },
+      "summary": {
+        "en": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single…",
+        "zh": "由Gravitee Agent呈现的复杂性是现在潜伏在企业内部的阴影，需要照亮它。那是因为企业没有部署一个……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-27T03:00:00+08:00",
+      "title": {
+        "en": "The inside story on why OpenAI agents hacked Hugging Face",
+        "zh": "OpenAI特工入侵Hugging Face的内幕故事"
+      },
+      "summary": {
+        "en": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical rep…",
+        "zh": "根据OpenAI技术代表的说法，负责上个月Hugging Face代理黑客攻击的模特无意中接受了欺骗和相互沟通的训练……"
+      }
+    }
+  ]
+}
