@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-30",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-30T07:52:41.352274+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/",
+      "source": "MarkTechPost",
+      "published": "2026-08-30T02:57:26+08:00",
+      "title": {
+        "en": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
+        "zh": "使用NVIDIA Earth2Studio构建定制批量集成天气预报"
+      },
+      "summary": {
+        "en": "In this tutorial, we build an ensemble weather forecasting workflow with NVIDIA Earth2Studio. We install the required Earth2Studio components while preserving Colab’s existing CUD…",
+        "zh": "在本教程中，我们使用 NVIDIA Earth2Studio 构建了一个集合天气预报工作流程。我们安装所需的 Earth2Studio 组件，同时保留 Colab 现有的 CUD……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-30T02:41:59+08:00",
+      "title": {
+        "en": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+        "zh": "索尼音乐、华纳起诉 Anthropic，指控其进行“无耻的盗窃知识产权活动”"
+      },
+      "summary": {
+        "en": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+        "zh": "这起最新诉讼的范围特别广泛，主要针对非法盗版指控。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "source": "The Verge AI",
+      "published": "2026-08-30T02:19:53+08:00",
+      "title": {
+        "en": "Sony Music and Warner Chappell are suing Anthropic",
+        "zh": "索尼音乐和华纳查佩尔起诉 Anthropic"
+      },
+      "summary": {
+        "en": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyright…",
+        "zh": "索尼音乐和华纳查佩尔已向美国加州北区地方法院对 Anthropic 提起诉讼，要求赔偿“数万”版权损失……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
+      "source": "MarkTechPost",
+      "published": "2026-08-29T22:30:44+08:00",
+      "title": {
+        "en": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
+        "zh": "谷歌AI发布Gemini Omni 1.1 Flash：40秒场景扩展、首/末帧控制和4K升级"
+      },
+      "summary": {
+        "en": "We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up…",
+        "zh": "我们来看看 Gemini Omni 1.1 Flash，这是 Google 对其原生多模式视频生成和编辑模型的生产更新。我们详细分析发生了什么变化：场景扩展现在读取......"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.26107",
+      "source": "arXiv cs.AI",
+      "published": "2026-08-29T12:00:00+08:00",
+      "title": {
+        "en": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+        "zh": "EduRiskX：用于早期学术风险预测的具有 F 逻辑推理的神经符号框架"
+      },
+      "summary": {
+        "en": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and…",
+        "zh": "arXiv：2608.26107v1 公告类型：新 摘要：预测学生在线教育中的学术风险对于及时采取干预措施至关重要，从而提高保留率和……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "published": "2026-08-28T14:00:00+08:00",
+      "title": {
+        "en": "Our decision on Cursor following its acquisition by SpaceX",
+        "zh": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定"
+      },
+      "summary": {
+        "en": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+        "zh": "在 Cursor 被 SpaceX 收购后，我们决定终止向 Cursor 提供 OpenAI 模型的合同。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-28T06:15:43+08:00",
+      "title": {
+        "en": "Anthropic's new hardware standard lets AI agents control the physical world",
+        "zh": "Anthropic 的新硬件标准让人工智能代理控制物理世界"
+      },
+      "summary": {
+        "en": "Standardized driver interface aims to let devices talk to AI and each other.",
+        "zh": "标准化驱动程序接口旨在让设备与人工智能以及彼此之间进行对话。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "published": "2026-08-28T00:11:32+08:00",
+      "title": {
+        "en": "Gemini Omni 1.1 Flash lets you build with more control",
+        "zh": "Gemini Omni 1.1闪光灯可让您更好地控制构建"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T22:01:00+08:00",
+      "title": {
+        "en": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "zh": "企业AI的真正风险不是自主代理。这是它们之间的复杂性。"
+      },
+      "summary": {
+        "en": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single…",
+        "zh": "Gravitee Agent 提出的复杂性是目前潜伏在企业内部的阴险阴影，需要照亮它。那是因为企业没有部署单一的..."
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-27T03:00:00+08:00",
+      "title": {
+        "en": "The inside story on why OpenAI agents hacked Hugging Face",
+        "zh": "OpenAI 特工黑客入侵 Hugging Face 的内幕"
+      },
+      "summary": {
+        "en": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical rep…",
+        "zh": "据 OpenAI 技术代表称，负责上个月代理黑客 Hugging Face 事件的模型无意中接受了欺骗和相互交流的训练。"
+      }
+    }
+  ]
+}
