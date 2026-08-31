@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-31",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-08-31T08:12:10.684929+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
+      "source": "MarkTechPost",
+      "published": "2026-08-31T05:24:38+08:00",
+      "title": {
+        "en": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
+        "zh": "适用于语音和实时代理的最低延迟推理 API：首次通证时间 TTFT 优先基准"
+      },
+      "summary": {
+        "en": "Voice agents fail on latency long before they fail on intelligence. Time to first token is the metric most teams use to choose an inference API, and it is the right starting point…",
+        "zh": "语音代理早在智能方面失败之前就因延迟而失败。第一个令牌的时间是大多数团队用来选择推理 API 的指标，它是正确的起点......"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
+      "source": "MarkTechPost",
+      "published": "2026-08-31T04:23:46+08:00",
+      "title": {
+        "en": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
+        "zh": "谷歌 AI 推出 EnvHarness：一个可编程层，可将静态代理环境转变为自适应训练世界"
+      },
+      "summary": {
+        "en": "Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel Hill, has released EnvHarness, an Apache-2.0 layer that turns a static agent benchmark into one th…",
+        "zh": "谷歌云人工智能研究中心与圣路易斯华盛顿大学和北卡罗来纳大学教堂山分校合作，发布了 EnvHarness，这是一个 Apache-2.0 层，可将静态代理基准测试转变为..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-31T00:54:25+08:00",
+      "title": {
+        "en": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "zh": "马斯克加快生产更多燃气轮机的步伐也带来了污染问题"
+      },
+      "summary": {
+        "en": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source…",
+        "zh": "埃隆·马斯克（ Elon Musk ）表示，一家秘密的新SpaceX铸造厂将允许他铸造自己的涡轮叶片，并比其他任何人都快18个月上线燃气动力—但这是对燃料来源的押注......"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "source": "The Verge AI",
+      "published": "2026-08-30T23:35:10+08:00",
+      "title": {
+        "en": "Texas Governor Abbott blocks funding for more Flock cameras",
+        "zh": "德克萨斯州州长雅培阻止为更多Flock相机提供资金"
+      },
+      "summary": {
+        "en": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribun…",
+        "zh": "随着对Flock人工智能监控摄像头的强烈反对，德克萨斯州州长格雷格·阿博特（ Greg Abbott ）冻结了州政府在这些摄像头上的支出。此举恰好在德克萨斯法庭出版之前……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-30T23:00:00+08:00",
+      "title": {
+        "en": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "zh": "卡特彼勒正在将从自动化挖矿中学到的知识引入人工智能部署"
+      },
+      "summary": {
+        "en": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+        "zh": "卡特彼勒花费了数十年的时间，让自动机器在偏远的采矿地点工作。现在，它正在将这种体验带入人工智能部署。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "published": "2026-08-28T14:00:00+08:00",
+      "title": {
+        "en": "Our decision on Cursor following its acquisition by SpaceX",
+        "zh": "在被SpaceX收购后，我们对Cursor的决定"
+      },
+      "summary": {
+        "en": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+        "zh": "在被SpaceX收购后，我们决定放弃向Cursor提供OpenAI模型的合同。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-28T06:15:43+08:00",
+      "title": {
+        "en": "Anthropic's new hardware standard lets AI agents control the physical world",
+        "zh": "Anthropic的新硬件标准允许人工智能代理控制物理世界"
+      },
+      "summary": {
+        "en": "Standardized driver interface aims to let devices talk to AI and each other.",
+        "zh": "标准化的驱动程序界面旨在让设备与人工智能以及彼此之间进行通信。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "published": "2026-08-28T00:11:32+08:00",
+      "title": {
+        "en": "Gemini Omni 1.1 Flash lets you build with more control",
+        "zh": "Gemini Omni 1.1闪光灯可让您更好地控制构建"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T22:01:00+08:00",
+      "title": {
+        "en": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "zh": "企业AI的真正风险不是自主代理。这是它们之间的复杂性。"
+      },
+      "summary": {
+        "en": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single…",
+        "zh": "由Gravitee Agent呈现的复杂性是现在潜伏在企业内部的阴影，需要照亮它。那是因为企业没有部署一个……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review",
+      "published": "2026-08-27T03:00:00+08:00",
+      "title": {
+        "en": "The inside story on why OpenAI agents hacked Hugging Face",
+        "zh": "OpenAI特工入侵Hugging Face的内幕故事"
+      },
+      "summary": {
+        "en": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical rep…",
+        "zh": "据 OpenAI 技术代表称，负责上个月代理黑客 Hugging Face 事件的模型无意中接受了欺骗和相互交流的训练。"
+      }
+    }
+  ]
+}
