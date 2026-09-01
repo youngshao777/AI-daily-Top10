@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-01",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-01T08:58:56.061778+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-01T08:13:00+08:00",
+      "title": {
+        "en": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+        "zh": "苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 公司数据"
+      },
+      "summary": {
+        "en": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+        "zh": "苹果表示，有证据表明，一名前员工在得知自己正在接受调查后销毁了数据盗窃的证据。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+      "source": "MarkTechPost",
+      "published": "2026-09-01T07:43:26+08:00",
+      "title": {
+        "en": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
+        "zh": "Keenable AI 开源 NEEDLE：每小时重建查询集的实时搜索基准"
+      },
+      "summary": {
+        "en": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent c…",
+        "zh": "当被测试的东西可以读取答案时，如何对网络搜索 API 进行基准测试？搜索代理有一个获取工具。如果黄金标签位于公共数据集中，则代理可以..."
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+      "source": "MarkTechPost",
+      "published": "2026-09-01T05:20:16+08:00",
+      "title": {
+        "en": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
+        "zh": "谷歌AI发布TimesFM-3：用于多元时间序列预测的330M参数零样本基础模型"
+      },
+      "summary": {
+        "en": "Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM…",
+        "zh": "Google Research 发布了 TimesFM-3，这是一个 3.3 亿参数的时间序列基础模型，可在一次前向传递中预测多个相关序列。与每个 TimesFM 不同..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-01T04:13:45+08:00",
+      "title": {
+        "en": "The Pentagon now has its own version of ChatGPT and Grok",
+        "zh": "五角大楼现在拥有自己的 ChatGPT 和 Grok 版本"
+      },
+      "summary": {
+        "en": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+        "zh": "OpenAI 的 ChatGPT 和 SpaceXAI 的 Grok 版本将与谷歌的 Gemini 一起出现在五角大楼的人工智能工具中央门户上。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-01T02:00:00+08:00",
+      "title": {
+        "en": "The Hugging Face hack could indicate cultural issues at OpenAI",
+        "zh": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last m…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。现在你可能已经听说过最后一分钟……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "source": "The Verge AI",
+      "published": "2026-08-31T23:34:58+08:00",
+      "title": {
+        "en": "Debian won’t ban AI code from its Linux distribution",
+        "zh": "Debian 不会禁止其 Linux 发行版中的人工智能代码"
+      },
+      "summary": {
+        "en": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowled…",
+        "zh": "Debian 投票允许开发人员使用 AI 工具为 Linux 发行版的“开发、维护和文档”做出贡献。人工智能新政策承认……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-31T18:00:34+08:00",
+      "title": {
+        "en": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+        "zh": "Pocket 的人工智能让我的游戏想法成为现实。现在 Meta 控制着结果。"
+      },
+      "summary": {
+        "en": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+        "zh": "交互式移动“小玩意”很容易制作，但很难在 Meta 平台之外共享。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/polimill",
+      "source": "OpenAI",
+      "published": "2026-08-31T15:00:00+08:00",
+      "title": {
+        "en": "Polimill builds Japan's next-generation public AI infrastructure",
+        "zh": "Polimill 打造日本下一代公共人工智能基础设施"
+      },
+      "summary": {
+        "en": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+        "zh": "Polimill 使用 OpenAI GPT 模型和 Codex 帮助市政当局搜索和使用行政知识，同时加速开发。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "published": "2026-08-28T00:11:32+08:00",
+      "title": {
+        "en": "Gemini Omni 1.1 Flash lets you build with more control",
+        "zh": "Gemini Omni 1.1 Flash 让您可以更好地控制构建"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T22:01:00+08:00",
+      "title": {
+        "en": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "zh": "企业人工智能的真正风险不是自主代理。这就是他们之间的复杂性。"
+      },
+      "summary": {
+        "en": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single…",
+        "zh": "Gravitee Agent 提出的复杂性是目前潜伏在企业内部的阴险阴影，需要照亮它。那是因为企业没有部署单一的..."
+      }
+    }
+  ]
+}
