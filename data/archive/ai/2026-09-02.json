@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-02",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-02T07:47:53.441175+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "source": "The Verge AI",
+      "published": "2026-09-02T06:50:29+08:00",
+      "title": {
+        "en": "Google needs Hollywood more than the studios need AI",
+        "zh": "谷歌对好莱坞的需求超过电影公司对人工智能的需求"
+      },
+      "summary": {
+        "en": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted…",
+        "zh": "据报道，谷歌一直在与好莱坞一些最大的工作室接触，希望达成许可协议，使其能够在受版权保护的基础上训练其人工智能模型……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-02T06:08:24+08:00",
+      "title": {
+        "en": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "zh": "据报道，AfterQuery 成为 Y Combinator 有史以来最快的独角兽，目前估值为 $3.2B"
+      },
+      "summary": {
+        "en": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million val…",
+        "zh": "据报道，人工智能模型训练初创公司 AfterQuery 已筹集了一轮估值为 32 亿美元的资金，而就在五个月前，该公司宣布以 3 亿美元的估值完成 3000 万美元的 A 轮融资。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "source": "The Verge AI",
+      "published": "2026-09-02T06:01:36+08:00",
+      "title": {
+        "en": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+        "zh": "Anthropic 推出 Claude Fable 5.1，并表示代理工作的成本最高可降低 45%"
+      },
+      "summary": {
+        "en": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude…",
+        "zh": "Anthropic 表示，其最新的人工智能模型 Fable 5.1 和 Mythos 5.1 解决了客户对价格、数据保留和过度热心保护措施的批评。该公司声称克劳德……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
+      "source": "MarkTechPost",
+      "published": "2026-09-02T04:30:21+08:00",
+      "title": {
+        "en": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
+        "zh": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1：终端科学性能降低 52.6%，缓存读取成本降低 75%"
+      },
+      "summary": {
+        "en": "Anthropic has released Claude Fable 5.1 and Claude Mythos 5.1, the same model behind two different safeguard layers. Fable 5.1 is generally available on the Claude API, AWS, Googl…",
+        "zh": "Anthropic 发布了 Claude Fable 5.1 和 Claude Mythos 5.1，两个不同保护层背后的同一模型。 《神鬼寓言 5.1》在 Claude API、AWS、Googl 上普遍可用......"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind",
+      "published": "2026-09-02T01:08:51+08:00",
+      "title": {
+        "en": "Introducing agentic video understanding with Gemini",
+        "zh": "引入 Gemini 的代理视频理解"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI",
+      "published": "2026-09-02T01:00:00+08:00",
+      "title": {
+        "en": "How AI-native companies turn workflows into operating capability",
+        "zh": "AI原生企业如何将工作流程转化为运营能力"
+      },
+      "summary": {
+        "en": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+        "zh": "Basis、Clay 和 Exa Labs 使用 AI 代理来改进入职、帐户管理和开发人员集成。看看企业领导者可以申请什么。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2608.28590",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-01T12:00:00+08:00",
+      "title": {
+        "en": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+        "zh": "DS-Lighting：使代理线束显式用于数据科学自动化"
+      },
+      "summary": {
+        "en": "arXiv:2608.28590v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depend…",
+        "zh": "arXiv：2608.28590v1 公告类型：新摘要：大型语言模型（LLM）代理已显示出自动化数据科学工作流程的希望，但它们的端到端性能取决于……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-01T02:00:00+08:00",
+      "title": {
+        "en": "The Hugging Face hack could indicate cultural issues at OpenAI",
+        "zh": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last m…",
+        "zh": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。现在你可能已经听说过最后一分钟……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-31T18:00:34+08:00",
+      "title": {
+        "en": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+        "zh": "Pocket 的人工智能让我的游戏想法成为现实。现在 Meta 控制着结果。"
+      },
+      "summary": {
+        "en": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+        "zh": "交互式移动“小玩意”很容易制作，但很难在 Meta 平台之外共享。"
+      }
+    },
+    {
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "published": "2026-08-27T22:01:00+08:00",
+      "title": {
+        "en": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "zh": "企业人工智能的真正风险不是自主代理。这就是他们之间的复杂性。"
+      },
+      "summary": {
+        "en": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single…",
+        "zh": "Gravitee Agent 提出的复杂性是目前潜伏在企业内部的阴险阴影，需要照亮它。那是因为企业没有部署单一的..."
+      }
+    }
+  ]
+}
