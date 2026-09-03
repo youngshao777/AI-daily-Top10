@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-04",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-04T07:46:45.281794+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
+      "source": "MarkTechPost",
+      "published": "2026-09-04T05:16:11+08:00",
+      "title": {
+        "en": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
+        "zh": "OpenAI 发布 GPT-6 Astra：一个受“关键”网络阈值限制的 105 万上下文计算机使用模型"
+      },
+      "summary": {
+        "en": "OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compac…",
+        "zh": "OpenAI于2026年9月3日发布了GPT-6 Astra，将其定位为电脑用旗舰而非聊天机型。它在 OSWorld V2-Offline 上报告为 72.6%，取代了 Codex compac……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
+      "source": "MarkTechPost",
+      "published": "2026-09-04T03:46:59+08:00",
+      "title": {
+        "en": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
+        "zh": "Anthropic 发布了 Claude Commerce Agents：针对零售、旅游、电信和娱乐领域的购物和商业代理的 Apache-2.0 蓝图"
+      },
+      "summary": {
+        "en": "Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has no…",
+        "zh": "大多数构建购物助理或代理的团队都会重建相同的脚手架：代理循环、目录上的工具层、审批门和评估套件。人择没有……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-04T03:36:29+08:00",
+      "title": {
+        "en": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+        "zh": "据报道，Accel 正在洽谈领投 Thinking Machines 的 10 亿美元融资，估值为 400 亿美元"
+      },
+      "summary": {
+        "en": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+        "zh": "这家备受瞩目的初创公司的年收入超过 1 亿美元。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-04T02:37:57+08:00",
+      "title": {
+        "en": "Abliteration.ai is making a business out of removing AI guardrails",
+        "zh": "Abliteration.ai 正在通过拆除人工智能护栏来做生意"
+      },
+      "summary": {
+        "en": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+        "zh": "Abliteration.AI 正在使没有护栏的强大人工智能模型更容易访问，并认为为防御者提供与不良行为者相同的工具最终可以改善网络安全。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source": "The Verge AI",
+      "published": "2026-09-04T02:00:00+08:00",
+      "title": {
+        "en": "OpenAI’s next big AI model has ‘entered the AGI era’",
+        "zh": "OpenAI的下一个大AI模型已经“进入AGI时代”"
+      },
+      "summary": {
+        "en": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, scien…",
+        "zh": "OpenAI 的下一个大型模型就在这里：GPT-6 Astra。该公司称其为网络安全、专业工作、软件工程、科学等领域的“能力的代际飞跃”。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
+      "published": "2026-09-03T23:02:08+08:00",
+      "title": {
+        "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "zh": "隆重推出 WeatherNext 3，我们最先进、最准确的全球天气人工智能模型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI",
+      "published": "2026-09-03T21:15:00+08:00",
+      "title": {
+        "en": "Daybreak for Frontline Defenders: $1B to protect essential services",
+        "zh": "前线捍卫者的黎明：10 亿美元保护基本服务"
+      },
+      "summary": {
+        "en": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+        "zh": "OpenAI 为前线捍卫者推出了 Daybreak。 10 亿美元的承诺将扩大对前沿网络人工智能、培训和基本服务的支持。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.01611",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-03T12:00:00+08:00",
+      "title": {
+        "en": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+        "zh": "EvalDetectBench：衡量前沿语言模型评估意识的基准"
+      },
+      "summary": {
+        "en": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If mo…",
+        "zh": "arXiv:2609.01611v1 公告类型：新 摘要：前沿大型语言模型通常可以在评估时进行识别，这种能力称为评估感知。如果莫…"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-02T22:00:00+08:00",
+      "title": {
+        "en": "Facilitating AI integration with simplicity at scale",
+        "zh": "大规模简化 AI 集成"
+      },
+      "summary": {
+        "en": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, an…",
+        "zh": "随着公司规模的扩大，支持运营的技术可能会成为一种负债，就像它成为一种资产一样快。断开连接的系统、特定于站点的工具、电子表格、..."
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-31T18:00:34+08:00",
+      "title": {
+        "en": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+        "zh": "Pocket 的人工智能让我的游戏想法成为现实。现在 Meta 控制着结果。"
+      },
+      "summary": {
+        "en": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+        "zh": "交互式移动“小发明”很容易制作，但很难在 Meta 平台之外共享。"
+      }
+    }
+  ]
+}
