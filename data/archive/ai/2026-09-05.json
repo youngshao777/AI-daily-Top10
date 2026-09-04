@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-05",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-05T07:43:19.236689+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-05T07:36:14+08:00",
+      "title": {
+        "en": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "zh": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元"
+      },
+      "summary": {
+        "en": "The round is being raised just months after the robot data startup exited from stealth.",
+        "zh": "本轮融资是在这家机器人数据初创公司退出秘密几个月后进行的。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-05T07:15:11+08:00",
+      "title": {
+        "en": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "zh": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们"
+      },
+      "summary": {
+        "en": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their o…",
+        "zh": "OpenAI 最新的代理群事件增加了独立调查的紧迫性，因为研究人员和立法者质疑人工智能实验室是否应该控制其工作范围……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-05T02:39:19+08:00",
+      "title": {
+        "en": "Architecting memory and storage in the AI era",
+        "zh": "构建人工智能时代的内存和存储"
+      },
+      "summary": {
+        "en": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assis…",
+        "zh": "AI推理时代已经到来。想象一下，一个医疗保健系统实时分析数百万个数据点，以加速挽救生命的医学研究，或者智能辅助……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "source": "The Verge AI",
+      "published": "2026-09-05T01:51:35+08:00",
+      "title": {
+        "en": "Roland is getting into generative AI music with Melody Flip",
+        "zh": "Roland 正在通过 Melody Flip 进入生成人工智能音乐领域"
+      },
+      "summary": {
+        "en": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital a…",
+        "zh": "这并不完全是 Suno 的“按下按钮；获取歌曲”，但 Roland 的新 Melody Flip 工具标志着该公司进军生成人工智能音乐领域。可作为您的数字设备的插件..."
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-04T17:25:19+08:00",
+      "title": {
+        "en": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+        "zh": "来自乌克兰无人机的数据正在推动新的狂野西部市场"
+      },
+      "summary": {
+        "en": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a…",
+        "zh": "乌克兰战场上散落着无人机的残骸，无人机现已成为现代战争的关键武器。但在所有这些残骸的背后，有一个……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.02981",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-04T12:00:00+08:00",
+      "title": {
+        "en": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+        "zh": "人工智能驱动的实用英语新教材的构建与实现"
+      },
+      "summary": {
+        "en": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems t…",
+        "zh": "arXiv:2609.02981v1 公告类型：新 摘要：人工智能正在改变应用英语材料的形式，从固定的论文序列到自适应学习系统..."
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
+      "source": "MarkTechPost",
+      "published": "2026-09-04T09:21:49+08:00",
+      "title": {
+        "en": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+        "zh": "Google DeepMind 的 WeatherNext 3 个气象站观测列车可提供 5 公里范围内的全球预报，每小时更新一次"
+      },
+      "summary": {
+        "en": "WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps. The post Google DeepMind’s WeatherNext 3 Trai…",
+        "zh": "WeatherNext 3 采集实时对地静止卫星马赛克，每小时刷新一次，并通过搜索、Gemini、地图输出 5 公里预报。 Google DeepMind 的 WeatherNext 3 Trai 帖子……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
+      "published": "2026-09-03T23:02:08+08:00",
+      "title": {
+        "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "zh": "隆重推出 WeatherNext 3，我们最先进、最准确的全球天气人工智能模型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI",
+      "published": "2026-09-03T21:15:00+08:00",
+      "title": {
+        "en": "Daybreak for Frontline Defenders: $1B to protect essential services",
+        "zh": "前线捍卫者的黎明：10 亿美元保护基本服务"
+      },
+      "summary": {
+        "en": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+        "zh": "OpenAI 为前线捍卫者推出了 Daybreak。 10 亿美元的承诺将扩大对前沿网络人工智能、培训和基本服务的支持。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-31T18:00:34+08:00",
+      "title": {
+        "en": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+        "zh": "Pocket 的人工智能让我的游戏想法成为现实。现在 Meta 控制着结果。"
+      },
+      "summary": {
+        "en": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+        "zh": "交互式移动“小发明”很容易制作，但很难在 Meta 平台之外共享。"
+      }
+    }
+  ]
+}
