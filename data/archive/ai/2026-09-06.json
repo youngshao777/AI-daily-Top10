@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-06",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-06T07:33:42.232715+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-06T06:49:55+08:00",
+      "title": {
+        "en": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "zh": "《西雅图时报》和《新闻日报》是起诉OpenAI和微软的最新出版物"
+      },
+      "summary": {
+        "en": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "zh": "另外两家新闻机构正在起诉OpenAI和微软，指控他们涉嫌利用新闻培训人工智能。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
+      "source": "MarkTechPost",
+      "published": "2026-09-06T03:40:11+08:00",
+      "title": {
+        "en": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
+        "zh": "GitHub推出HydraFusion项目：在Copilot CLI中为每个编码任务构建工作流的运行时多模型编排"
+      },
+      "summary": {
+        "en": "We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution p…",
+        "zh": "我们来看看GitHub的研究预览项目HydraFusion ，它将工作流程选择视为优化问题，而不是模型选择器。我们分解了三个执行步骤……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-06T03:35:24+08:00",
+      "title": {
+        "en": "Hikers rescued after using Google Gemini for planning",
+        "zh": "徒步旅行者在使用Google Gemini进行规划后获救"
+      },
+      "summary": {
+        "en": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "zh": "治安官办公室表示， “双子座建议徒步旅行者携带的食物和水远远少于他们的团队所需。”"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
+      "source": "MarkTechPost",
+      "published": "2026-09-06T03:12:02+08:00",
+      "title": {
+        "en": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
+        "zh": "Nous Research将一键式本地模型设置添加到Hermes Desktop"
+      },
+      "summary": {
+        "en": "Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-qualit…",
+        "zh": "Nous Research已将本地模型设置折叠为Hermes Desktop中的单击。该应用程序读取您的硬件，根据您的GPU检查目录，选择最高质量的……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge AI",
+      "published": "2026-09-05T19:15:55+08:00",
+      "title": {
+        "en": "OpenAI admits to German wiki ‘incident’",
+        "zh": "OpenAI承认德国维基“事件”"
+      },
+      "summary": {
+        "en": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from rep…",
+        "zh": "OpenAI表示，它需要彻底改革AI模型攻击真实世界目标的方式和时间。确认是在公司管理代表的影响时发出的……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-05T02:39:19+08:00",
+      "title": {
+        "en": "Architecting memory and storage in the AI era",
+        "zh": "人工智能时代的内存和存储架构"
+      },
+      "summary": {
+        "en": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assis…",
+        "zh": "人工智能推理的时代已经到来。想象一下，一个医疗系统实时分析数百万个数据点，以加速挽救生命的医学研究，或者一个智能辅助系统……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "source": "The Verge AI",
+      "published": "2026-09-05T01:51:35+08:00",
+      "title": {
+        "en": "Roland is getting into generative AI music with Melody Flip",
+        "zh": "Roland 正在通过 Melody Flip 进入生成人工智能音乐领域"
+      },
+      "summary": {
+        "en": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital a…",
+        "zh": "这不是Suno的“按键;获取歌曲” ，但Roland的新Melody Flip工具标志着该公司进军生成式人工智能音乐。可作为您的数字设备的插件……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
+      "published": "2026-09-03T23:02:08+08:00",
+      "title": {
+        "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "zh": "隆重推出WeatherNext 3 ，这是我们最先进、最精确的全球天气人工智能模型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI",
+      "published": "2026-09-03T21:15:00+08:00",
+      "title": {
+        "en": "Daybreak for Frontline Defenders: $1B to protect essential services",
+        "zh": "前线捍卫者的黎明：10 亿美元保护基本服务"
+      },
+      "summary": {
+        "en": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+        "zh": "OpenAI 为前线捍卫者推出了 Daybreak。 10 亿美元的承诺将扩大对前沿网络人工智能、培训和基本服务的支持。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-31T18:00:34+08:00",
+      "title": {
+        "en": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+        "zh": "Pocket 的人工智能让我的游戏想法成为现实。现在 Meta 控制着结果。"
+      },
+      "summary": {
+        "en": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+        "zh": "交互式移动“小发明”很容易制作，但很难在 Meta 平台之外共享。"
+      }
+    }
+  ]
+}
