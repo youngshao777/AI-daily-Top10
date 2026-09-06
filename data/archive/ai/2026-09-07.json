@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-07",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-07T07:28:47.725211+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+      "source": "MarkTechPost",
+      "published": "2026-09-07T05:06:41+08:00",
+      "title": {
+        "en": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+        "zh": "H公司发布NeoMME：下降视觉塔和因果解码器的260M和800M单塔多模态编码器系列"
+      },
+      "summary": {
+        "en": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patc…",
+        "zh": "我们来看看 NeoMME，H 公司的 260M 和 800M 双向编码器系列。与 ColPali 风格的检索器不同，它处理多语言文本标记和原始 32×32 图像补丁……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-07T04:47:37+08:00",
+      "title": {
+        "en": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "zh": "出版商和代理商对人择和解提出索赔，作者予以反击"
+      },
+      "summary": {
+        "en": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "zh": "作者表示，出版商似乎要求支付超过其应得份额的和解金。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+      "source": "MarkTechPost",
+      "published": "2026-09-07T04:25:17+08:00",
+      "title": {
+        "en": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+        "zh": "Meta FAIR 推出人工智能研究偏好模型 (RPM)：在花费 GPU 时间之前对 ML 实验进行排名"
+      },
+      "summary": {
+        "en": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15…",
+        "zh": "人工智能研究人员可以提出的实验数量远远超出他们的承受能力。 Meta FAIR、牛津大学和伦敦大学学院推出人工智能研究偏好模型——冻结排名 15 的法学硕士评委……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-07T00:45:00+08:00",
+      "title": {
+        "en": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+        "zh": "Travis Kalanick 的 Atoms 可能会进军机器人出租车业务"
+      },
+      "summary": {
+        "en": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+        "zh": "这位 Uber 创始人表示，Atoms 将让他完成“未竟的事业”。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI",
+      "published": "2026-09-06T17:00:00+08:00",
+      "title": {
+        "en": "An Alien Mind",
+        "zh": "外星人的心灵"
+      },
+      "summary": {
+        "en": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+        "zh": "Jakub Pachocki 反思了日益强大的人工智能以及保持其一致性的挑战。他呼吁加强保障措施和国际协调。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI",
+      "published": "2026-09-06T16:00:00+08:00",
+      "title": {
+        "en": "Research acceleration: The view inside OpenAI",
+        "zh": "研究加速：OpenAI 内部的观点"
+      },
+      "summary": {
+        "en": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+        "zh": "在 OpenAI 内部，编码代理正在重塑人工智能研究。探索有关代理使用、实验速度、任务复杂性和研究加速的早期数据。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge AI",
+      "published": "2026-09-05T19:15:55+08:00",
+      "title": {
+        "en": "OpenAI admits to German wiki ‘incident’",
+        "zh": "OpenAI 承认德国维基“事件”"
+      },
+      "summary": {
+        "en": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from rep…",
+        "zh": "OpenAI 表示，它需要彻底修改报告人工智能模型攻击现实世界目标的实例的方式和时间。这一承认是在该公司处理代表的影响之际做出的。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-05T02:39:19+08:00",
+      "title": {
+        "en": "Architecting memory and storage in the AI era",
+        "zh": "构建人工智能时代的内存和存储"
+      },
+      "summary": {
+        "en": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assis…",
+        "zh": "AI推理时代已经到来。想象一下，一个医疗保健系统实时分析数百万个数据点，以加速挽救生命的医学研究，或者智能辅助……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
+      "published": "2026-09-03T23:02:08+08:00",
+      "title": {
+        "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "zh": "隆重推出 WeatherNext 3，我们最先进、最准确的全球天气人工智能模型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-31T18:00:34+08:00",
+      "title": {
+        "en": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+        "zh": "Pocket 的人工智能让我的游戏想法成为现实。现在 Meta 控制着结果。"
+      },
+      "summary": {
+        "en": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+        "zh": "交互式移动“小发明”很容易制作，但很难在 Meta 平台之外共享。"
+      }
+    }
+  ]
+}
