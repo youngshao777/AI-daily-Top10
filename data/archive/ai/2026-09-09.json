@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-09",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-09T07:49:53.007080+08:00",
+  "items": [
+    {
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-09T05:11:46+08:00",
+      "title": {
+        "en": "Why this month's Microsoft patch release is a doozy",
+        "zh": "为什么本月的微软补丁发布很精彩"
+      },
+      "summary": {
+        "en": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+        "zh": "在人工智能辅助攻击预计将到来之前，安全专家们正在发布补丁。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T05:10:27+08:00",
+      "title": {
+        "en": "Hackers are stealing Claude tokens from subscribers",
+        "zh": "黑客正在从订阅者那里窃取克劳德代币"
+      },
+      "summary": {
+        "en": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+        "zh": "上个月，一位 Claude 用户注意到他的帐户正在消耗代币，即使他没有工作。此后，Anthropic 向用户发出了关于黑客的警告。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-09T05:04:06+08:00",
+      "title": {
+        "en": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+        "zh": "Cognition 估值达到 48B 美元，表明投资者相信人工智能编码远非赢家通吃的市场"
+      },
+      "summary": {
+        "en": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+        "zh": "Cognition 的估值倍数高于 Cursor 出售给 SpaceX 之前的估值倍数。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "source": "The Verge AI",
+      "published": "2026-09-09T04:53:52+08:00",
+      "title": {
+        "en": "Drama swirls around OpenAI’s legendary mathematical milestone",
+        "zh": "戏剧围绕 OpenAI 的传奇数学里程碑展开"
+      },
+      "summary": {
+        "en": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tues…",
+        "zh": "据《纽约时报》和《连线》早些时候报道，OpenAI 表示，它找到了一个大约 90 年来一直悬而未决的重大数学问题的解决方案。在周二的博客文章中……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "source": "The Verge AI",
+      "published": "2026-09-09T04:16:09+08:00",
+      "title": {
+        "en": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+        "zh": "ChatGPT Sketch 将你糟糕的绘图变成详细的 AI 图像"
+      },
+      "summary": {
+        "en": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch,…",
+        "zh": "OpenAI 于周二发布了 ChatGPT Images 2.5，并添加了一种新的方式来告诉 ChatGPT 你想要它制作什么图像：通过绘制涂鸦。借助一项名为 Sketch 的新功能，..."
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
+      "source": "MarkTechPost",
+      "published": "2026-09-09T03:51:54+08:00",
+      "title": {
+        "en": "NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels",
+        "zh": "NVIDIA 宣布推出 CUDA Rust 以及 cuda-Oxide (SIMT) 和 cutile-rs (Tile)，用于编译时安全的 GPU 内核"
+      },
+      "summary": {
+        "en": "NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA programming models: cuda-oxide compi…",
+        "zh": "NVIDIA 宣布推出 CUDA Rust，旨在推动 Rust 成为 GPU 内核的一流语言。两个开源 NVlabs 项目涵盖了两种 CUDA 编程模型：cuda-Oxide Compi…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI",
+      "published": "2026-09-09T01:00:00+08:00",
+      "title": {
+        "en": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "zh": "GPT-5.6 Sol 如何帮助运行量子计算实验"
+      },
+      "summary": {
+        "en": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+        "zh": "了解 MIT 研究人员如何使用 GPT-5.6 Sol 和 Codex 自主运行量子计算实验、分析结果和校准量子位。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "published": "2026-09-08T22:00:15+08:00",
+      "title": {
+        "en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "zh": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图"
+      },
+      "summary": {
+        "en": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+        "zh": "AlphaGenome Atlas 绘制了人类基因组中 90 亿个单字母 DNA 变体的分子效应。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-08T18:34:00+08:00",
+      "title": {
+        "en": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "zh": "这位人工智能企业家正在开发能够提前计划意外情况的代理"
+      },
+      "summary": {
+        "en": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I…",
+        "zh": "丹尼贾·哈夫纳 (Danijar Hafner) 位于旧金山 SoMa 区的办公室几乎空无一人。他的全新初创公司仍处于秘密模式，甚至门上都没有名字。那天我…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-31T18:00:34+08:00",
+      "title": {
+        "en": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+        "zh": "Pocket 的人工智能让我的游戏想法成为现实。现在 Meta 控制着结果。"
+      },
+      "summary": {
+        "en": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+        "zh": "交互式移动“小发明”很容易制作，但很难在 Meta 平台之外共享。"
+      }
+    }
+  ]
+}
