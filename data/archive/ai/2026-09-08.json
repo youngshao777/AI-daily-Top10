@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-08",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-08T07:59:35.896687+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-08T03:24:00+08:00",
+      "title": {
+        "en": "Opaque recurrence, and other AI terms that you should probably know",
+        "zh": "不透明循环以及您可能应该知道的其他人工智能术语"
+      },
+      "summary": {
+        "en": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "zh": "人工智能的兴起带来了大量新术语和俚语。这是一个词汇表，其中包含您可能遇到的一些最重要单词和短语的定义。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/",
+      "source": "MarkTechPost",
+      "published": "2026-09-08T03:18:07+08:00",
+      "title": {
+        "en": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
+        "zh": "OpenBMB 发布 MiniCPM5-2B：2.52B 密集模型，在 34 个基准测试中平均为 53.9，专为在设备上运行而设计"
+      },
+      "summary": {
+        "en": "OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its…",
+        "zh": "OpenBMB 发布了 MiniCPM5-2B，这是一种密集因果语言模型，具有 2,516,756,480 个参数和原生 131,072 个令牌上下文。它在 34 个基准测试中的平均得分为 53.9……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/",
+      "source": "MarkTechPost",
+      "published": "2026-09-08T02:38:47+08:00",
+      "title": {
+        "en": "Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories",
+        "zh": "Axis Robotics 发布 AXIS：基于浏览器的数据引擎，具有 207 个机器人操作任务和 50,129 个轨迹"
+      },
+      "summary": {
+        "en": "Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware. AXIS moves demonstration collection into a web browse…",
+        "zh": "机器人数据集的增长速度远远慢于在其上训练的模型，主要是因为收集数据仍然锁定在实验室硬件上。 AXIS 将演示集合移至网络浏览器中……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.04239",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-07T12:00:00+08:00",
+      "title": {
+        "en": "EXAONE Forecast for Finance",
+        "zh": "EXAONE Forecast for Finance"
+      },
+      "summary": {
+        "en": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) t…",
+        "zh": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) t…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI",
+      "published": "2026-09-07T08:00:00+08:00",
+      "title": {
+        "en": "Supporting independent journalism in Ukraine",
+        "zh": "支持乌克兰的独立新闻业"
+      },
+      "summary": {
+        "en": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+        "zh": "OpenAI、AIRPPU 和 WAN-IFRA 推出人工智能计划，帮助乌克兰新闻机构加强创新、弹性和独立新闻。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge AI",
+      "published": "2026-09-07T07:36:04+08:00",
+      "title": {
+        "en": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "zh": "西雅图时报和新闻日报起诉 OpenAI 和微软侵权"
+      },
+      "summary": {
+        "en": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as tra…",
+        "zh": "《西雅图时报》和《新闻日报》是最新将 OpenAI 告上法庭的原告，指控其侵犯版权。这两家媒体表示，该公司利用他们的新闻报道……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-07T04:47:37+08:00",
+      "title": {
+        "en": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "zh": "出版商和代理商对人择和解提出索赔，作者予以反击"
+      },
+      "summary": {
+        "en": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "zh": "作者表示，出版商似乎要求支付超过其应得份额的和解金。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-05T02:39:19+08:00",
+      "title": {
+        "en": "Architecting memory and storage in the AI era",
+        "zh": "构建人工智能时代的内存和存储"
+      },
+      "summary": {
+        "en": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assis…",
+        "zh": "AI推理时代已经到来。想象一下，一个医疗保健系统实时分析数百万个数据点，以加速挽救生命的医学研究，或者智能辅助……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
+      "published": "2026-09-03T23:02:08+08:00",
+      "title": {
+        "en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "zh": "隆重推出 WeatherNext 3，我们最先进、最准确的全球天气人工智能模型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica AI",
+      "published": "2026-08-31T18:00:34+08:00",
+      "title": {
+        "en": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+        "zh": "Pocket 的人工智能让我的游戏想法成为现实。现在 Meta 控制着结果。"
+      },
+      "summary": {
+        "en": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+        "zh": "交互式移动“小玩意”很容易制作，但很难在 Meta 平台之外共享。"
+      }
+    }
+  ]
+}
