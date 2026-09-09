@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-10",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-10T07:49:26.363018+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
+      "source": "MarkTechPost",
+      "published": "2026-09-10T06:58:29+08:00",
+      "title": {
+        "en": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
+        "zh": "谷歌开源Mantis：一个模块化技能工具包，可让编码代理查找、重现和修补漏洞"
+      },
+      "summary": {
+        "en": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false pos…",
+        "zh": "谷歌开源了 Mantis，这是一个与堆栈无关的工具包，用于人工智能编码代理的安全审查技能。它运行完整的漏洞生命周期：扫描代码、过滤错误位置……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-10T06:25:22+08:00",
+      "title": {
+        "en": "OpenAI adds a prominent AI doomer to its board of directors",
+        "zh": "OpenAI 董事会增加了一位杰出的 AI 毁灭者"
+      },
+      "summary": {
+        "en": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+        "zh": "Paul Christiano 是一位有影响力的人工智能研究员，专注于一致性，他将加入 OpenAI 基金会，成为其董事会成员。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-10T05:43:34+08:00",
+      "title": {
+        "en": "Massachusetts hits data centers with new clean power rules",
+        "zh": "马萨诸塞州通过新的清洁能源规则打击数据中心"
+      },
+      "summary": {
+        "en": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+        "zh": "马萨诸塞州已成为几个月来第三个对数据中心开发实施新限制的州。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "source": "The Verge AI",
+      "published": "2026-09-10T05:42:19+08:00",
+      "title": {
+        "en": "Suno releases its first AI music model made with record industry help",
+        "zh": "Suno 发布首个在唱片业帮助下制作的 AI 音乐模型"
+      },
+      "summary": {
+        "en": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of d…",
+        "zh": "Suno的新v6人工智能音乐模型是其第一个在唱片行业的支持下制作的模型。 Suno 的 Jack Brody 告诉 The Verge，v6 是“从头开始训练的，有一套新的……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "source": "The Verge AI",
+      "published": "2026-09-10T05:16:34+08:00",
+      "title": {
+        "en": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+        "zh": "OpenAI 巧妙的数学突破让学术界不寒而栗"
+      },
+      "summary": {
+        "en": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable ach…",
+        "zh": "OpenAI 周二宣布它已经解决了数学界的传奇千禧奖问题之一，这本该是一个胜利的时刻。结果是不可否认的……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI",
+      "published": "2026-09-10T01:00:00+08:00",
+      "title": {
+        "en": "Paul Christiano joins OpenAI Foundation Board",
+        "zh": "Paul Christiano 加入 OpenAI 基金会董事会"
+      },
+      "summary": {
+        "en": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+        "zh": "Paul Christiano 加入 OpenAI 基金会董事会及其安全委员会，带来人工智能协调、安全和标准方面的经验。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-10T00:59:40+08:00",
+      "title": {
+        "en": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+        "zh": "人类研究人员退出时发出警告：自我改进的人工智能可能“杀死我们所有人”"
+      },
+      "summary": {
+        "en": "\"We really do earnestly believe AI could kill all humans!\"",
+        "zh": "“我们真的坚信人工智能可以杀死所有人类！”"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/",
+      "source": "MarkTechPost",
+      "published": "2026-09-09T15:29:13+08:00",
+      "title": {
+        "en": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
+        "zh": "Gradium推出语音设计：编写提示，秒获得全新合成语音"
+      },
+      "summary": {
+        "en": "Voice agent teams keep hitting the same wall. The catalog holds 400 voices and the brief asks for the one that is not in it: a Quebecoise receptionist for a Montreal dealership, a…",
+        "zh": "语音代理团队总是碰壁。该目录包含 400 个声音，简介中询问了其中没有的一个：蒙特利尔经销商的魁北克接待员、……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-09T11:10:08+08:00",
+      "title": {
+        "en": "What OpenAI’s latest controversy tells us about the future of math",
+        "zh": "OpenAI 的最新争议告诉我们数学的未来"
+      },
+      "summary": {
+        "en": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some…",
+        "zh": "OpenAI 最新的数学里程碑很快就陷入了争议。今天，该公司宣布其代理商已经解决了千年奖问题之一，其中一些......"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "published": "2026-09-08T22:00:15+08:00",
+      "title": {
+        "en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "zh": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图"
+      },
+      "summary": {
+        "en": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+        "zh": "AlphaGenome Atlas 绘制了人类基因组中 90 亿个单字母 DNA 变体的分子效应。"
+      }
+    }
+  ]
+}
