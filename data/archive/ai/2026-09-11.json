@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-11",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-11T07:43:04.148422+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-11T05:51:59+08:00",
+      "title": {
+        "en": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "zh": "Jensen Huang解释了为什么Nvidia明年将增长惊人的70%"
+      },
+      "summary": {
+        "en": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+        "zh": "黄仁勋表示，英伟达涉足每一个领域，并预计未来又将迎来丰收的一年。但他坚称，其交易不是循环性的。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-11T05:35:00+08:00",
+      "title": {
+        "en": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "zh": "Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的"
+      },
+      "summary": {
+        "en": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+        "zh": "Mark Wahlberg加入Disrupt的Bruce K. Lee ，讨论投资、创业、医疗保健、健康和建筑业务。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source": "The Verge AI",
+      "published": "2026-09-11T05:25:21+08:00",
+      "title": {
+        "en": "Slack can now vibe-code interactive charts and reports inside chats",
+        "zh": "Slack现在可以在聊天中对交互式图表和报告进行vibe编码"
+      },
+      "summary": {
+        "en": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Su…",
+        "zh": "Slack 推出的一项新功能将允许您直接在聊天中构建交互式报告、民意调查、仪表板、演示文稿、微型网站和其他工具。与 Slackforce 苏..."
+      }
+    },
+    {
+      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "source": "The Verge AI",
+      "published": "2026-09-11T03:44:20+08:00",
+      "title": {
+        "en": "Schools are catching on to Big Tech’s playbook",
+        "zh": "学校正在关注大型科技公司的剧本"
+      },
+      "summary": {
+        "en": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously pro…",
+        "zh": "这是科技领域的热门新事物，也是所有工作的地方。没有学会使用它的学生落后了。为了帮助他们及时赶上，其创作者慷慨地支持……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI",
+      "published": "2026-09-11T00:00:00+08:00",
+      "title": {
+        "en": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "zh": "研究人员如何使用 Codex 和 ChatGPT 寻找新的抗菌分子"
+      },
+      "summary": {
+        "en": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+        "zh": "César de la Fuente的实验室使用Codex和ChatGPT搜索活体和已灭绝的基因组，寻找对抗耐药性感染的候选抗菌药物。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI",
+      "published": "2026-09-10T23:00:00+08:00",
+      "title": {
+        "en": "Now everyone can put data to work",
+        "zh": "现在，每个人都可以使用数据"
+      },
+      "summary": {
+        "en": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+        "zh": "在ChatGPT Work中与数据代理见面。使用自然语言将公司数据连接起来，发现见解，并使用人工智能构建交互式仪表板。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-10T19:00:00+08:00",
+      "title": {
+        "en": "Powering AI is an architecture problem",
+        "zh": "为人工智能提供动力是一个架构问题"
+      },
+      "summary": {
+        "en": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds…",
+        "zh": "2026 年 7 月 22 日，弗吉尼亚州阿什本（全球最大数据中心集群的中心）发生输电线路故障，几秒钟内导致超过 3 吉瓦的负载脱离电网……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.05437",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-10T12:00:00+08:00",
+      "title": {
+        "en": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+        "zh": "超越对错：评估大型语言模型中的二阶社会推理"
+      },
+      "summary": {
+        "en": "arXiv:2609.05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or…",
+        "zh": "arXiv: 2609.05437v1公告类型：新摘要：以前的人工智能对齐工作主要集中在一阶社会规范上--教授社会可接受的模型或……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-10T00:59:40+08:00",
+      "title": {
+        "en": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+        "zh": "人类学研究人员辞职并发出警告：自我改进的人工智能可能会“杀死我们所有人”"
+      },
+      "summary": {
+        "en": "\"We really do earnestly believe AI could kill all humans!\"",
+        "zh": "“我们真的很相信人工智能可以杀死所有人类！”"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "published": "2026-09-08T22:00:15+08:00",
+      "title": {
+        "en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "zh": "AlphaGenome Atlas ：人类基因组中每种可能的DNA字母变化的预测图谱"
+      },
+      "summary": {
+        "en": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+        "zh": "AlphaGenome Atlas绘制了人类基因组中90亿个单字母DNA变异的分子效应。"
+      }
+    }
+  ]
+}
