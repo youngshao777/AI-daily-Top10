@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-12",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-12T07:52:43.767660+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-12T06:58:17+08:00",
+      "title": {
+        "en": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "zh": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元"
+      },
+      "summary": {
+        "en": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "zh": "这家成立两年的初创公司的本轮融资是在 Mecka 宣布 A 轮融资几个月后进行的。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+      "source": "MarkTechPost",
+      "published": "2026-09-12T06:01:08+08:00",
+      "title": {
+        "en": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+        "zh": "法学硕士可以设计自己的代理工具吗？ ByteDance Seed 的 HarnessDev 表示 64 项更改中只有 34 项具有普遍性"
+      },
+      "summary": {
+        "en": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. St…",
+        "zh": "ByteDance Seed、SUTD、Georgia Tech、M-A-P 和 TokenWave.AI 推出了 HarnessDev，这是一个基准测试，用于对模型构建的可运行工具进行评分，而不是对模型返回的答案进行评分。英石…"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+      "source": "MarkTechPost",
+      "published": "2026-09-12T05:05:55+08:00",
+      "title": {
+        "en": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+        "zh": "Anthropic 向 Claude 代码添加插件评估：6 个分级机类型、无插件基线和 CI 技能门"
+      },
+      "summary": {
+        "en": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compa…",
+        "zh": "Anthropic 发布了 Claude Code 的新插件评估工作流程。 claude 插件 eval 命令根据实际提示运行插件，对 Claude 制作的内容进行评分，并比较..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-12T04:59:47+08:00",
+      "title": {
+        "en": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "zh": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型"
+      },
+      "summary": {
+        "en": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options…",
+        "zh": "Tan 希望规模较小的美国开放权重人工智能实验室能够使用与美国前沿人工智能实验室相同的训练技术，为美国提供一套更强大的开放权重选项……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "source": "The Verge AI",
+      "published": "2026-09-12T04:44:02+08:00",
+      "title": {
+        "en": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+        "zh": "律师因谋杀案中人工智能幻觉证人被罚款 5000 美元"
+      },
+      "summary": {
+        "en": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a re…",
+        "zh": "据一份调查报告称，新墨西哥州最高法院正在惩罚一名律师，因为他在对其委托人谋杀定罪的上诉中加入了人工智能伪造的证人和伪造的警方证词。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-12T04:05:06+08:00",
+      "title": {
+        "en": "Roundtables: AI’s apocalypse crisis",
+        "zh": "圆桌会议：人工智能的末日危机"
+      },
+      "summary": {
+        "en": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Jo…",
+        "zh": "世界领先人工智能实验室的员工表示，先进的人工智能确实有可能毁灭人类。他们是对的吗？或者这更像是危言耸听和炒作？乔…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI",
+      "published": "2026-09-11T18:00:00+08:00",
+      "title": {
+        "en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "zh": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户"
+      },
+      "summary": {
+        "en": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+        "zh": "了解 OpenAI 如何将 Habitat 从 Python 库发展成为一个全球分布式存储平台，为 10 亿 ChatGPT 用户和每秒 2200 万个请求提供服务。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.09203",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-11T12:00:00+08:00",
+      "title": {
+        "en": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+        "zh": "OpenDiscoveryTrace：用于评估 AI 科学家工作流程的流程跟踪"
+      },
+      "summary": {
+        "en": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard…",
+        "zh": "arXiv：2609.09203v1 公告类型：新摘要：自主人工智能科学家的现有基准仅评估最终输出——生成的代码、假设或论文——但丢弃......"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-10T00:59:40+08:00",
+      "title": {
+        "en": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+        "zh": "人类研究人员退出时发出警告：自我改进的人工智能可能“杀死我们所有人”"
+      },
+      "summary": {
+        "en": "\"We really do earnestly believe AI could kill all humans!\"",
+        "zh": "“我们真的坚信人工智能可以杀死所有人类！”"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "published": "2026-09-08T22:00:15+08:00",
+      "title": {
+        "en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "zh": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图"
+      },
+      "summary": {
+        "en": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+        "zh": "AlphaGenome Atlas 绘制了人类基因组中 90 亿个单字母 DNA 变体的分子效应。"
+      }
+    }
+  ]
+}
