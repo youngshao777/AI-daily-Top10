@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-13",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-13T07:44:31.518408+08:00",
+  "items": [
+    {
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-14T08:00:00+08:00",
+      "title": {
+        "en": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "zh": "Perplexity信任GPT-6 Astra的端到端系统"
+      },
+      "summary": {
+        "en": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+        "zh": "Perplexity使用Astra编写通信、更改软件和监控生产系统，并且与早期型号相比，签入的频率要低得多。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-13T04:19:16+08:00",
+      "title": {
+        "en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”"
+      },
+      "summary": {
+        "en": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "zh": "首席执行官萨姆·奥尔特曼（ Sam Altman ）表示，虽然OpenAI已秘密申请IPO ，但该公司今年不会上市。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-13T03:34:44+08:00",
+      "title": {
+        "en": "Anthropic CEO outlines plan to slow AI development",
+        "zh": "Anthropic首席执行官概述了减缓人工智能发展的计划"
+      },
+      "summary": {
+        "en": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+        "zh": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都同意现在是“开拓前沿”的时候了。那实际上会是什么样子？"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source": "The Verge AI",
+      "published": "2026-09-13T00:23:40+08:00",
+      "title": {
+        "en": "Anthropic CEO says it’s time to pump the brakes on AI",
+        "zh": "Anthropic首席执行官表示，是时候对人工智能进行刹车了"
+      },
+      "summary": {
+        "en": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to…",
+        "zh": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 表示，现在是放慢人工智能开发速度的时候了，并将让 METR 等第三方评估机构访问其模型，以帮助确保其“遵守......"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "source": "The Verge AI",
+      "published": "2026-09-12T22:41:27+08:00",
+      "title": {
+        "en": "Trump is giving data centers a pass to pollute",
+        "zh": "特朗普给数据中心污染通行证"
+      },
+      "summary": {
+        "en": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former…",
+        "zh": "唐纳德·特朗普总统以加快人工智能数据中心建设的名义削弱环境法规，这增加了美国人的健康风险，一位前…"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.10584",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-12T12:00:00+08:00",
+      "title": {
+        "en": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+        "zh": "概率焦点搜索：通过下界推进加速有界次优搜索"
+      },
+      "summary": {
+        "en": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heur…",
+        "zh": "arXiv: 2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search寻求最优因子$ w $内的解决方案，同时减少搜索工作量。焦点搜索（ FS ）使用heur…"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-12T04:05:06+08:00",
+      "title": {
+        "en": "Roundtables: Could AI really kill us all?",
+        "zh": "圆桌会议：人工智能真的会杀死我们所有人吗？"
+      },
+      "summary": {
+        "en": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Jo…",
+        "zh": "世界领先人工智能实验室的员工表示，先进的人工智能确实有可能毁灭人类。他们是对的吗？或者这更像是危言耸听和炒作？乔…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-12T00:00:00+08:00",
+      "title": {
+        "en": "Cognition helps Devin test its own work with GPT‑6 Astra",
+        "zh": "Cognition 帮助 Devin 使用 GPT-6 Astra 测试自己的工作"
+      },
+      "summary": {
+        "en": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+        "zh": "GPT ‑ 6 Astra提高了Devin测试软件并证明其有效性的能力，其目标是帮助工程师减少代码审核并增加出货量。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-10T00:59:40+08:00",
+      "title": {
+        "en": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+        "zh": "人类学研究人员辞职并发出警告：自我改进的人工智能可能会“杀死我们所有人”"
+      },
+      "summary": {
+        "en": "\"We really do earnestly believe AI could kill all humans!\"",
+        "zh": "“我们真的很相信人工智能可以杀死所有人类！”"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "published": "2026-09-08T22:00:15+08:00",
+      "title": {
+        "en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "zh": "AlphaGenome Atlas ：人类基因组中每种可能的DNA字母变化的预测图谱"
+      },
+      "summary": {
+        "en": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+        "zh": "AlphaGenome Atlas绘制了人类基因组中90亿个单字母DNA变异的分子效应。"
+      }
+    }
+  ]
+}
