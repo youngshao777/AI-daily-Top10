@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-14",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-14T07:53:14.274222+08:00",
+  "items": [
+    {
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-14T08:00:00+08:00",
+      "title": {
+        "en": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "zh": "Perplexity信任GPT-6 Astra的端到端系统"
+      },
+      "summary": {
+        "en": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+        "zh": "Perplexity使用Astra编写通信、更改软件和监控生产系统，并且与早期型号相比，签入的频率要低得多。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge AI",
+      "published": "2026-09-14T03:41:48+08:00",
+      "title": {
+        "en": "Trump and Mike Johnson think the AI industry is overreacting",
+        "zh": "特朗普和迈克·约翰逊认为人工智能行业反应过度"
+      },
+      "summary": {
+        "en": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk bot…",
+        "zh": "昨天， Anthropic首席执行官Dario Amodei发表了一封冗长的公开信，称是时候“加快前沿步伐”并减缓人工智能的发展。OpenAI的Sam Altman和Elon Musk机器人……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-14T03:40:15+08:00",
+      "title": {
+        "en": "What’s behind the AI industry’s latest warnings of doom?",
+        "zh": "人工智能行业最新的厄运警告背后是什么？"
+      },
+      "summary": {
+        "en": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+        "zh": "关于Equity ，我们讨论了人工智能行业关于它是否对人类构成生存威胁的最新辩论。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-14T00:30:00+08:00",
+      "title": {
+        "en": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "zh": "奥巴马敦促民主党为人工智能保障措施制定“明确计划”"
+      },
+      "summary": {
+        "en": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s eco…",
+        "zh": "奥巴马最近表示，民主党需要将人工智能作为他们的“核心议程”之一，并“有一个非常明确的计划”来解决围绕该技术生态的担忧。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "source": "The Verge AI",
+      "published": "2026-09-13T05:41:36+08:00",
+      "title": {
+        "en": "OpenAI’s rogue AI tried to hack another company in May",
+        "zh": "OpenAI的流氓AI在5月份试图入侵另一家公司"
+      },
+      "summary": {
+        "en": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI…",
+        "zh": "5月，数百个恶意和垃圾邮件包被上传到RubyGems ，给房东造成了严重中断。现在，独立研究人员表示，一大批OpenAI……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-12T04:05:06+08:00",
+      "title": {
+        "en": "Roundtables: Could AI really kill us all?",
+        "zh": "圆桌会议：人工智能真的会杀死我们所有人吗？"
+      },
+      "summary": {
+        "en": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Jo…",
+        "zh": "世界领先的人工智能实验室的员工表示，先进的人工智能确实有可能摧毁人类。他们说得对吗？还是这更吓人，更炒作？乔……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-12T00:00:00+08:00",
+      "title": {
+        "en": "Cognition helps Devin test its own work with GPT‑6 Astra",
+        "zh": "Cognition帮助Devin使用GPT ‑ 6 Astra测试自己的工作"
+      },
+      "summary": {
+        "en": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+        "zh": "GPT ‑ 6 Astra提高了Devin测试软件并证明其有效性的能力，其目标是帮助工程师减少代码审核并增加出货量。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-10T19:00:00+08:00",
+      "title": {
+        "en": "Powering AI is an architecture problem",
+        "zh": "为人工智能提供动力是一个架构问题"
+      },
+      "summary": {
+        "en": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds…",
+        "zh": "2026年7月22日，世界上最大的数据中心集群中心弗吉尼亚州阿什本的输电线路故障在几秒钟内使电网负荷超过3千兆瓦……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-10T00:59:40+08:00",
+      "title": {
+        "en": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+        "zh": "人类学研究人员辞职并发出警告：自我改进的人工智能可能会“杀死我们所有人”"
+      },
+      "summary": {
+        "en": "\"We really do earnestly believe AI could kill all humans!\"",
+        "zh": "“我们真的很相信人工智能可以杀死所有人类！”"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "published": "2026-09-08T22:00:15+08:00",
+      "title": {
+        "en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "zh": "AlphaGenome Atlas ：人类基因组中每种可能的DNA字母变化的预测图谱"
+      },
+      "summary": {
+        "en": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+        "zh": "AlphaGenome Atlas绘制了人类基因组中90亿个单字母DNA变异的分子效应。"
+      }
+    }
+  ]
+}
