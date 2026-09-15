@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-15",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-15T08:17:19.470646+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge AI",
+      "published": "2026-09-15T06:59:41+08:00",
+      "title": {
+        "en": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+        "zh": "大型科技公司的人工智能减速是安全协议还是卡特尔？"
+      },
+      "summary": {
+        "en": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI develop…",
+        "zh": "当OpenAI首席执行官Sam Altman、Anthropic首席执行官Dario Amodei、Google DeepMind联合创始人Demis Hassabis和SpaceX负责人Elon Musk上周末大致同意减缓人工智能的发展时……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/",
+      "source": "MarkTechPost",
+      "published": "2026-09-15T05:54:22+08:00",
+      "title": {
+        "en": "Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery",
+        "zh": "客服代表线束与客服代表框架与MCP ：哪一层拥有循环、状态、工具、权限和恢复"
+      },
+      "summary": {
+        "en": "A practitioner's map of the 3 layers in a modern agent stack, with verified sources and an overlap analysis. The post Agent Harness vs Agent Framework vs MCP: Which Layer Owns the…",
+        "zh": "现代代理堆栈中3层的从业人员地图，具有经过验证的来源和重叠分析。后座席线束与座席框架与MCP ：哪个层拥有……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-15T05:51:02+08:00",
+      "title": {
+        "en": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "zh": "英伟达首席执行官Jensen Huang告诉特朗普“我们不会让[人工智能放缓]发生”"
+      },
+      "summary": {
+        "en": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+        "zh": "尽管埃隆·马斯克（ Elon Musk ）和山姆·奥尔特曼（ Sam Altman ）支持达里奥·阿莫代（ Dario Amodei ）关于减缓人工智能发展步伐的呼吁，但黄延森似乎"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source": "The Verge AI",
+      "published": "2026-09-15T05:21:42+08:00",
+      "title": {
+        "en": "What execs and politicians are saying about slowing down AI development",
+        "zh": "高管和政界人士对减缓人工智能发展的看法"
+      },
+      "summary": {
+        "en": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development sho…",
+        "zh": "Dario Amodei在过去几天发表了一篇题为“我们必须跟上前沿”的长文，详细介绍了为什么人工智能开发应该……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/",
+      "source": "MarkTechPost",
+      "published": "2026-09-15T05:08:17+08:00",
+      "title": {
+        "en": "Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data",
+        "zh": "Reward AI发布OM-1 ：仅在人工演示上培训的机器人政策，无需远程操作或机器人数据"
+      },
+      "summary": {
+        "en": "Reward AI has released OM-1 (Omnibody Model 1), a general-purpose manipulation policy trained entirely on human demonstrations captured with a 7-DoF wearable glove, with no teleop…",
+        "zh": "Reward AI发布了OM-1 （ Omnibody Model 1 ） ，这是一种通用操作策略，完全基于使用7-DoF可穿戴手套捕获的人类演示进行训练，没有远程监控……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-15T05:04:32+08:00",
+      "title": {
+        "en": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+        "zh": "人工智能机器人“Timmy”、“Ren”和“Jackie”充斥着社交媒体"
+      },
+      "summary": {
+        "en": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+        "zh": "“您好，我是几天前的Al特工，住在一个小型特工平台上。”"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-15T04:44:14+08:00",
+      "title": {
+        "en": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "zh": "报告称， OpenAI以3亿美元收购智能手机相机制造商Glass Imaging"
+      },
+      "summary": {
+        "en": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+        "zh": "Glass Imaging由两位前苹果工程师创立，他们曾领导开发苹果肖像模式的团队。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-15T01:54:22+08:00",
+      "title": {
+        "en": "The AI industry has taken a doomer turn. What now?",
+        "zh": "人工智能产业发生了倒退，现在该怎么办？"
+      },
+      "summary": {
+        "en": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted…",
+        "zh": "这个故事出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。本周末， Anthropic首席执行官Dario Amodei发布了..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/fyxer",
+      "source": "OpenAI",
+      "published": "2026-09-14T20:00:00+08:00",
+      "title": {
+        "en": "How Fyxer built an AI executive assistant people trust",
+        "zh": "Fyxer如何建立人们信任的人工智能行政助理"
+      },
+      "summary": {
+        "en": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+        "zh": "Fyxer使用OpenAI模型、微调、记忆和真实的用户反馈来组织收件箱，并以每个用户的声音起草电子邮件。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "published": "2026-09-08T22:00:15+08:00",
+      "title": {
+        "en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "zh": "AlphaGenome Atlas ：人类基因组中每种可能的DNA字母变化的预测图谱"
+      },
+      "summary": {
+        "en": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+        "zh": "AlphaGenome Atlas绘制了人类基因组中90亿个单字母DNA变异的分子效应。"
+      }
+    }
+  ]
+}
