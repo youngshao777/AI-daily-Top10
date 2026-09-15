@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-16",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-16T07:57:41.535968+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "source": "The Verge AI",
+      "published": "2026-09-16T07:34:25+08:00",
+      "title": {
+        "en": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
+        "zh": "选民大多不喜欢人工智能和数据中心，但双方似乎都没有优势"
+      },
+      "summary": {
+        "en": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are inc…",
+        "zh": "《纽约时报》和锡耶纳大学周二发布的民意调查数据证实了我们已经看到的情况，以及政客们正在做出的反应--人工智能和数据中心正在……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-16T05:47:38+08:00",
+      "title": {
+        "en": "The AI data center boom is colliding with cities scarred by big industry",
+        "zh": "人工智能数据中心的繁荣正在与被大型产业蹂躏的城市相撞"
+      },
+      "summary": {
+        "en": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oi…",
+        "zh": "全国对数据中心建设的强烈抗议已经蔓延到费城，官员们建议在一个已经受到现已解散的OI影响的社区进行建设。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
+      "source": "MarkTechPost",
+      "published": "2026-09-16T05:37:11+08:00",
+      "title": {
+        "en": "Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend",
+        "zh": "在NVIDIA的cuDNN图形API中：使用cuDNN前端进行融合、自动调整和计划重用"
+      },
+      "summary": {
+        "en": "Learn how to leverage NVIDIA’s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations, FP8-style epilogues, scaled dot-product attention, dynami…",
+        "zh": "了解如何利用NVIDIA的cuDNN前端图形API构建自定义内核融合、自动调整引擎配置、FP8风格的结语、缩放点-产品关注、动态……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-16T04:12:53+08:00",
+      "title": {
+        "en": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "zh": "Meta现在允许人工智能代理处理WhatsApp Business设置的无聊部分"
+      },
+      "summary": {
+        "en": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+        "zh": "新的WhatsApp Business MCP服务器允许开发人员使用Claude、Cursor、Codex和ChatGPT等AI编码代理来处理设置、消息传递模板、测试和故障排除。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-16T01:47:51+08:00",
+      "title": {
+        "en": "Roundtables: Could AI really kill us all?",
+        "zh": "圆桌会议：人工智能真的会杀死我们所有人吗？"
+      },
+      "summary": {
+        "en": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is…",
+        "zh": "收听下面的会议或观看世界领先的人工智能实验室的员工表示，先进的人工智能确实有可能摧毁人类。他们是对的吗？还是……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "published": "2026-09-16T01:05:57+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "zh": "隆重推出Gemini 3.8 Live和3.8 Live Extended Thinking"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "source": "The Verge AI",
+      "published": "2026-09-15T23:00:00+08:00",
+      "title": {
+        "en": "Meta’s new One subscriptions put a price on social media and AI",
+        "zh": "Meta的新One订阅为社交媒体和人工智能定价"
+      },
+      "summary": {
+        "en": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the…",
+        "zh": "在推出新的一切AI助手Muse后不久， Meta推出了订阅捆绑包，将其独立的应用程序订阅与额外的人工智能使用相结合。一些……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.13356",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-15T12:00:00+08:00",
+      "title": {
+        "en": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+        "zh": "ZGCM-1 ：用于数学和代理搜索的完全开放且极其高效的基础模型"
+      },
+      "summary": {
+        "en": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorit…",
+        "zh": "arXiv: 2609.13356v1公告类型：新摘要：在这项工作中，我们展示了ZGCM-1 ，一个完全开放的7B密集基础模型，使用极端数据、系统和算法从头开始训练……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-15T05:04:32+08:00",
+      "title": {
+        "en": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+        "zh": "人工智能机器人“Timmy”、“Ren”和“Jackie”充斥着社交媒体"
+      },
+      "summary": {
+        "en": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+        "zh": "“您好，我是几天前的Al特工，住在一个小型特工平台上。”"
+      }
+    },
+    {
+      "link": "https://openai.com/index/fyxer",
+      "source": "OpenAI",
+      "published": "2026-09-14T20:00:00+08:00",
+      "title": {
+        "en": "How Fyxer built an AI executive assistant people trust",
+        "zh": "Fyxer如何建立人们信任的人工智能行政助理"
+      },
+      "summary": {
+        "en": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+        "zh": "Fyxer使用OpenAI模型、微调、记忆和真实的用户反馈来组织收件箱，并以每个用户的声音起草电子邮件。"
+      }
+    }
+  ]
+}
