@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-17",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-17T08:05:09.105556+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "source": "The Verge AI",
+      "published": "2026-09-17T07:40:00+08:00",
+      "title": {
+        "en": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "zh": "Snap正在推出一款新的Specs AI工具，即将在iOS和Mac上推出"
+      },
+      "summary": {
+        "en": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel informatio…",
+        "zh": "Snap推出了“Specs Intelligence” ，这是一种新的人工智能助手，可以连接其他数字帐户，帮助您完成工作任务并跟踪旅行信息……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
+      "source": "MarkTechPost",
+      "published": "2026-09-17T05:59:26+08:00",
+      "title": {
+        "en": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data",
+        "zh": "斯坦福大学研究人员发布Paper2Agent ：将研究论文转化为可重现结果并基于新数据运行的AI代理"
+      },
+      "summary": {
+        "en": "Paper2Agent, published in Nature, converts papers into validated MCP tools, scoring 91.2% on 300 questions across 74 papers. The post Stanford Researchers Release Paper2Agent: Tur…",
+        "zh": "发表在《自然》杂志上的Paper2Agent将论文转化为经过验证的MCP工具，在74篇论文的300个问题上得分为91.2%。斯坦福大学研究人员发布了Paper2Agent ： Tur…"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/",
+      "source": "MarkTechPost",
+      "published": "2026-09-17T05:19:32+08:00",
+      "title": {
+        "en": "Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens",
+        "zh": "Knowledgator发布GLiFormer ：一个575M参数编码器，在不生成令牌的情况下，在嵌套JSON提取上达到91.10 F1"
+      },
+      "summary": {
+        "en": "GLiFormer Large scores 91.10 F1 on nested JSON, near GPT-5.6-luna's 91.96, while grounding every value in source spans. The post Knowledgator Releases GLiFormer: A 575M-Parameter…",
+        "zh": "GLiFormer Large在嵌套JSON上的得分为91.10 F1 ，接近GPT-5.6-luna的91.96 ，同时接地源跨度中的每个值。POST Knowledgator发布GLiFormer ： 575M参数…"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-17T05:07:24+08:00",
+      "title": {
+        "en": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "zh": "Anthropic和OpenAI希望嵌入安全评估人员。他们真的会独立吗？"
+      },
+      "summary": {
+        "en": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transpa…",
+        "zh": "Anthropic和OpenAI希望在其人工智能实验室中嵌入独立的安全评估人员。研究人员欢迎前所未有的访问，但警告有意义的监督需要透明……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "source": "The Verge AI",
+      "published": "2026-09-17T04:59:13+08:00",
+      "title": {
+        "en": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+        "zh": "这部2.5小时的人工智能电影《奥德赛》太长了2.5小时"
+      },
+      "summary": {
+        "en": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the st…",
+        "zh": "克里斯托弗·诺兰（ Christopher Nolan ）对《奥德赛》（ The Odyssey ）的引人入胜的看法在票房上占据主导地位，并激发了电影观众对经典文学的新兴趣。但对圣……的新复述"
+      }
+    },
+    {
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI",
+      "published": "2026-09-17T01:00:00+08:00",
+      "title": {
+        "en": "Our framework for reporting model misalignment",
+        "zh": "我们的模型错位报告框架"
+      },
+      "summary": {
+        "en": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+        "zh": "OpenAI共享一个用于跟踪、调查和披露模型错位的框架，以及六份关于意外或相关模型行为的报告。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-16T20:47:34+08:00",
+      "title": {
+        "en": "Building the materials foundation for AI",
+        "zh": "为人工智能奠定材料基础"
+      },
+      "summary": {
+        "en": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms r…",
+        "zh": "人工智能热潮正在成为一项材料挑战。随着人工智能将计算推向新的领域，基础设施背后的材料正变得与算法一样重要。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.16129",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-16T12:00:00+08:00",
+      "title": {
+        "en": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+        "zh": "使用Fisher信息距离的神经架构优化修剪"
+      },
+      "summary": {
+        "en": "arXiv:2609.16129v1 Announce Type: new Abstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a parame…",
+        "zh": "arXiv: 2609.16129v1 Announce Type: new Abstract:引入了一种新的参数修剪方案，该方案源于模型空间中的微分几何距离。正在修剪参数…"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "published": "2026-09-16T01:05:57+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "zh": "隆重推出Gemini 3.8 Live和3.8 Live Extended Thinking"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-15T05:04:32+08:00",
+      "title": {
+        "en": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+        "zh": "人工智能机器人“Timmy”、“Ren”和“Jackie”充斥着社交媒体"
+      },
+      "summary": {
+        "en": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+        "zh": "“您好，我是几天前的Al特工，住在一个小型特工平台上。”"
+      }
+    }
+  ]
+}
