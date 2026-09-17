@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-18",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-18T07:54:18.980455+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-18T07:25:52+08:00",
+      "title": {
+        "en": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+        "zh": "Crusoe筹集了39亿美元用于建设大型数据中心和小型模块化“人工智能工厂”"
+      },
+      "summary": {
+        "en": "The round values the data center giant at $30.9 billion.",
+        "zh": "这轮融资对数据中心巨头的估值为309亿美元（ $ 309亿）。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-18T07:21:17+08:00",
+      "title": {
+        "en": "Google DeepMind launches institute to widen the AGI debate",
+        "zh": "谷歌DeepMind推出机构以扩大AGI辩论"
+      },
+      "summary": {
+        "en": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+        "zh": "谷歌DeepMind刚刚成立了一个研究所，在公共场合解决AGI的大问题"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
+      "source": "MarkTechPost",
+      "published": "2026-09-18T05:21:08+08:00",
+      "title": {
+        "en": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
+        "zh": "微软开源TauGrid ：用于GPU AI工作负载的Kubernetes原生堆栈"
+      },
+      "summary": {
+        "en": "Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observabilit…",
+        "zh": "2026年8月28日，微软AKS工程团队开源TauGrid ，打包tau CLI、Kueue队列、KubeRay编排、GPU节点健康监测和观察……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
+      "source": "MarkTechPost",
+      "published": "2026-09-18T04:45:04+08:00",
+      "title": {
+        "en": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
+        "zh": "Anthropic在测试版中推出Claude Code项目：关闭笔记本电脑后继续运行的并行云会话"
+      },
+      "summary": {
+        "en": "Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator…",
+        "zh": "Claude Code中的Anthropic重新设计的项目。旧项目是一个文件夹：一些文件加上一个聊天。新的对话是一个持续的对话， Claude担任协调员……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source": "The Verge AI",
+      "published": "2026-09-18T03:28:24+08:00",
+      "title": {
+        "en": "The AI Superintelligence Slowdown",
+        "zh": "人工智能超级智能减速"
+      },
+      "summary": {
+        "en": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became r…",
+        "zh": "还记得技术领导者告诉员工“快速行动，打破常规”的时候吗？看来，这也是人工智能的方式。但在一个夏天之后，流氓人工智能特工变得……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-18T02:33:13+08:00",
+      "title": {
+        "en": "LLMs respond differently to harmful prompts when AI watermarking is used",
+        "zh": "使用AI水印时， LLM对有害提示的反应不同"
+      },
+      "summary": {
+        "en": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+        "zh": "SynthID可能会导致模型遵循否则会拒绝的有害指令。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.17631",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-17T12:00:00+08:00",
+      "title": {
+        "en": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+        "zh": "使人工智能辅助索赔具有独立挑战性：出版机构和可伪造出版记录的协议"
+      },
+      "summary": {
+        "en": "arXiv:2609.17631v1 Announce Type: new Abstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refe…",
+        "zh": "arXiv: 2609.17631v1公告类型：新摘要：当证据、分析、人工授权、演示和更正历史记录被引用时，人工智能辅助索赔似乎具有权威性……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI",
+      "published": "2026-09-17T08:00:00+08:00",
+      "title": {
+        "en": "Introducing Astra for Law",
+        "zh": "Astra for Law简介"
+      },
+      "summary": {
+        "en": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+        "zh": "OpenAI for Law为法律、定制公司工作流程、连接的法律数据源以及机密客户工作的法律级控制带来了前沿情报。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-16T20:47:34+08:00",
+      "title": {
+        "en": "Building the materials foundation for AI",
+        "zh": "为人工智能奠定材料基础"
+      },
+      "summary": {
+        "en": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms r…",
+        "zh": "人工智能热潮正在成为一项材料挑战。随着人工智能将计算推向新的领域，基础设施背后的材料正变得与算法一样重要。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "published": "2026-09-16T01:05:57+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "zh": "隆重推出Gemini 3.8 Live和3.8 Live Extended Thinking"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
