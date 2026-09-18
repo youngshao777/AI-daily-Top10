@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-19",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-19T07:52:41.369272+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-19T07:25:01+08:00",
+      "title": {
+        "en": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+        "zh": "一家建立其他初创公司的初创公司筹集了$ 1亿美元，并全力投入物理人工智能"
+      },
+      "summary": {
+        "en": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+        "zh": "UP.Labs现在以Vantora的名义开展业务，正在为工业公司建立初创公司。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-19T07:13:31+08:00",
+      "title": {
+        "en": "Anthropic is operating a lab that conducts biology experiments",
+        "zh": "Anthropic正在运营一个进行生物学实验的实验室"
+      },
+      "summary": {
+        "en": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+        "zh": "人工智能领导者一直承诺，人工智能是治愈人类疾病的关键。人类学研究人员也一直在警告说，人工智能可能会杀死我们所有人。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source": "The Verge AI",
+      "published": "2026-09-19T05:07:24+08:00",
+      "title": {
+        "en": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+        "zh": "OpenAI和微软知道他们正在为网络开始一个“厄运循环”"
+      },
+      "summary": {
+        "en": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom…",
+        "zh": "最近在《纽约时报》针对OpenAI和微软的案件中公开的法庭文件非常令人沮丧。这些公司自己的文件警告说，它正在开始一场“厄运……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-19T04:26:33+08:00",
+      "title": {
+        "en": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "zh": "人工智能对中国核部件的幻觉几乎导致了美国的军事攻击"
+      },
+      "summary": {
+        "en": "But the military's overall use of AI seems to be accelerating.",
+        "zh": "但军方对人工智能的整体使用似乎正在加速。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "source": "The Verge AI",
+      "published": "2026-09-19T02:29:17+08:00",
+      "title": {
+        "en": "Virginia governor creates an AI task force and moves to restrain data centers",
+        "zh": "弗吉尼亚州州长成立人工智能特别工作组并采取行动限制数据中心"
+      },
+      "summary": {
+        "en": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down appr…",
+        "zh": "弗吉尼亚州州长阿比盖尔·斯潘伯格（ Abigail Spanberger ）命令州政府采取措施，使当地社区能够在数据中心开发中拥有更大的发言权，并减缓……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-18T19:29:22+08:00",
+      "title": {
+        "en": "Could AI really kill us all? Your questions, answered.",
+        "zh": "人工智能真的能杀死我们所有人吗？为您解答疑问。"
+      },
+      "summary": {
+        "en": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees…",
+        "zh": "周三，《麻省理工学院技术评论》(MIT Technology Review)为订阅者举办了一场现场圆桌会议活动，提出了每个人现在都在问的问题：人工智能真的会杀死我们所有人吗？但与会者……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.19170",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-18T12:00:00+08:00",
+      "title": {
+        "en": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+        "zh": "正则化强调时差学习：恒步长下的稳定性"
+      },
+      "summary": {
+        "en": "arXiv:2609.19170v1 Announce Type: new Abstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but n…",
+        "zh": "arXiv: 2609.19170v1公告类型：新摘要：强调时间差分学习（ ETD ）稳定了预期的违规TD更新并更改了其投影几何形状，但..."
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-18T02:33:13+08:00",
+      "title": {
+        "en": "LLMs respond differently to harmful prompts when AI watermarking is used",
+        "zh": "使用AI水印时， LLM对有害提示的反应不同"
+      },
+      "summary": {
+        "en": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+        "zh": "SynthID可能会导致模型遵循否则会拒绝的有害指令。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI",
+      "published": "2026-09-17T20:00:00+08:00",
+      "title": {
+        "en": "How Cooley is accelerating IPO work with ChatGPT",
+        "zh": "Cooley如何利用ChatGPT加速IPO工作"
+      },
+      "summary": {
+        "en": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+        "zh": "Cooley通过ChatGPT Work构建了GO Public ，为IPO流程带来情报，帮助律师更早地发现问题，并将判断重点放在最重要的地方。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "published": "2026-09-16T01:05:57+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "zh": "隆重推出Gemini 3.8 Live和3.8 Live Extended Thinking"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
