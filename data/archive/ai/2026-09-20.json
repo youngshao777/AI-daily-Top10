@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-20",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-20T07:53:54.869202+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/",
+      "source": "MarkTechPost",
+      "published": "2026-09-20T05:44:23+08:00",
+      "title": {
+        "en": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
+        "zh": "OpenClaw发布2026.9.5 ，包含原子更新、插件热重新加载、对话共享和扩展的GPT Live"
+      },
+      "summary": {
+        "en": "OpenClaw 2026.9.5 ships 4,179 pull requests from 502 contributing accounts. The headline change is Atomic Updates, which check the next version against a private copy of your setu…",
+        "zh": "OpenClaw 2026.9.5发送了来自502个贡献帐户的4,179个拉取请求。标题变化是Atomic Updates ，它根据您的设置的私人副本检查下一个版本……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source": "The Verge AI",
+      "published": "2026-09-20T04:44:40+08:00",
+      "title": {
+        "en": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+        "zh": "Meta的Muse令人毛骨悚然，但也许不是因为您认为"
+      },
+      "summary": {
+        "en": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. Bu…",
+        "zh": "Meta的Muse显然是一个有效的人工智能助手，但有点令人毛骨悚然。部分原因是其新的Mac应用程序可以访问消息、日历和笔记。Bu…"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-20T04:39:13+08:00",
+      "title": {
+        "en": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "zh": "据报道， Flock试图通过员工收购来缩减员工队伍"
+      },
+      "summary": {
+        "en": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+        "zh": "如果没有收购， Flock “几乎肯定”需要裁员。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-20T03:57:47+08:00",
+      "title": {
+        "en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "zh": "特朗普表示，是时候用一个新名字重塑人工智能了--他也在创建一支人工智能部队"
+      },
+      "summary": {
+        "en": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+        "zh": "特朗普在没有证据的情况下声称，人工智能的反弹是民主党的骗局。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/",
+      "source": "MarkTechPost",
+      "published": "2026-09-20T02:41:33+08:00",
+      "title": {
+        "en": "TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text",
+        "zh": "TypeSafe AI发布JEV ：一种返回类型化、校准决策而不是文本的System One模型"
+      },
+      "summary": {
+        "en": "TypeSafe AI released Jev, a System One model that answers typed questions with probabilities instead of generating text. Input costs $0.042 per 1M tokens, and output tokens are fr…",
+        "zh": "TypeSafe AI发布了JEV ，这是一种System One模型，它以概率回答输入的问题，而不是生成文本。每100万个代币的输入成本为0.042 $ ，输出代币为…"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "source": "The Verge AI",
+      "published": "2026-09-19T23:25:03+08:00",
+      "title": {
+        "en": "Gemini went rogue, hacked three companies, and Google hid it",
+        "zh": "双子座流氓，黑了三家公司，谷歌把它藏起来了"
+      },
+      "summary": {
+        "en": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happ…",
+        "zh": "今年5月，双子座打破了遏制并入侵了三家不同的公司，但谷歌直到《华尔街日报》与该公司接触后才披露这一事件。黑客们很开心……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-19T04:26:33+08:00",
+      "title": {
+        "en": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "zh": "人工智能对中国核部件的幻觉几乎导致了美国的军事攻击"
+      },
+      "summary": {
+        "en": "But the military's overall use of AI seems to be accelerating.",
+        "zh": "但军方对人工智能的整体使用似乎正在加速。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI",
+      "published": "2026-09-18T20:00:00+08:00",
+      "title": {
+        "en": "Introducing the Australian Youth Safety Blueprint",
+        "zh": "澳大利亚青少年安全蓝图简介"
+      },
+      "summary": {
+        "en": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+        "zh": "OpenAI推出了澳大利亚青年安全蓝图，这是一个六大支柱路线图，旨在提供更安全的人工智能体验，保护年轻人并赋予他们权力。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-18T19:29:22+08:00",
+      "title": {
+        "en": "Could AI really kill us all? Your questions, answered.",
+        "zh": "人工智能真的能杀死我们所有人吗？为您解答疑问。"
+      },
+      "summary": {
+        "en": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees…",
+        "zh": "周三，《麻省理工学院技术评论》(MIT Technology Review)为订阅者举办了一场现场圆桌会议活动，提出了每个人现在都在问的问题：人工智能真的会杀死我们所有人吗？但与会者……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "published": "2026-09-16T01:05:57+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "zh": "隆重推出Gemini 3.8 Live和3.8 Live Extended Thinking"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
