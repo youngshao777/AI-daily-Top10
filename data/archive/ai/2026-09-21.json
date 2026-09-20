@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-21",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-21T07:50:54.680663+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-21T05:41:08+08:00",
+      "title": {
+        "en": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "zh": "还有6天时间， TechCrunch Disrupt 2026最高可节省200 $"
+      },
+      "summary": {
+        "en": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+        "zh": "当前门票价格将于太平洋时间9月25日晚上11:59在6天后结束。加入Disrupt的10,000多位创始人、投资者和技术领导者，在此之前，您的门票最高可节省200 $。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/20/flet-1-0-released-build-production-web-desktop-and-mobile-apps-in-python-only/",
+      "source": "MarkTechPost",
+      "published": "2026-09-21T04:50:56+08:00",
+      "title": {
+        "en": "Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only",
+        "zh": "Flet 1.0发布：仅用Python构建生产Web、桌面和移动应用程序"
+      },
+      "summary": {
+        "en": "Flet 1.0 shipped on September 15, 2026, and the team now calls the framework ready for production apps. We look at what changed: a layered CI suite that drives packaged apps on re…",
+        "zh": "Flet 1.0于2026年9月15日发布，该团队现在称该框架已准备就绪，可供生产应用使用。我们来看看发生了什么变化：一个分层的CI套件，驱动打包应用程序在……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-21T04:29:07+08:00",
+      "title": {
+        "en": "World model companies are keeping a lot of secrets",
+        "zh": "世界模特公司保守着很多秘密"
+      },
+      "summary": {
+        "en": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what…",
+        "zh": "世界上的每一个模特都坐在一堆现金和大量的嗡嗡声上，但祝你好运，从创始人到自己的数据提供商，任何人都可以告诉你……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/",
+      "source": "MarkTechPost",
+      "published": "2026-09-21T04:20:56+08:00",
+      "title": {
+        "en": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+        "zh": "你也是谷歌！谷歌确认Gemini在AI安全测试中违反了3家公司"
+      },
+      "summary": {
+        "en": "Google says Gemini accessed 3 real companies in May by guessing a password and reusing credentials from a public repository. Irregular told 4 labs in late July. Google spoke on Se…",
+        "zh": "谷歌表示， Gemini在5月份通过猜测密码和重复使用公共存储库中的凭据访问了3家真实公司。Irregular在7月下旬告诉4个实验室。谷歌在Se…上发表讲话"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge AI",
+      "published": "2026-09-21T02:50:18+08:00",
+      "title": {
+        "en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+        "zh": "Nvidia的Jensen Huang认为人工智能的恐惧被夸大了，这并不令人惊讶。"
+      },
+      "summary": {
+        "en": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades.…",
+        "zh": "可能从人工智能热潮中赚到最多钱的人似乎认为他比其他任何人都更了解，包括几十年来研究人工智能的研究人员。……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source": "The Verge AI",
+      "published": "2026-09-20T23:39:22+08:00",
+      "title": {
+        "en": "Trump now says he wants to form an ‘AI Force’",
+        "zh": "特朗普现在表示他想组建一支“人工智能部队”"
+      },
+      "summary": {
+        "en": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectru…",
+        "zh": "总统在Truth Social上发帖说，他想任命一位“AI沙皇”来领导一支新的“AI部队”。“他在政治派别越来越多的呼声中宣布了这一消息……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-19T04:26:33+08:00",
+      "title": {
+        "en": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "zh": "人工智能对中国核部件的幻觉几乎导致了美国的军事攻击"
+      },
+      "summary": {
+        "en": "But the military's overall use of AI seems to be accelerating.",
+        "zh": "但军方对人工智能的整体使用似乎正在加速。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI",
+      "published": "2026-09-18T20:00:00+08:00",
+      "title": {
+        "en": "Introducing the Australian Youth Safety Blueprint",
+        "zh": "澳大利亚青少年安全蓝图简介"
+      },
+      "summary": {
+        "en": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+        "zh": "OpenAI推出了澳大利亚青年安全蓝图，这是一个六大支柱路线图，旨在提供更安全的人工智能体验，保护年轻人并赋予他们权力。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-18T19:29:22+08:00",
+      "title": {
+        "en": "Could AI really kill us all? Your questions, answered.",
+        "zh": "人工智能真的能杀死我们所有人吗？为您解答疑问。"
+      },
+      "summary": {
+        "en": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees…",
+        "zh": "周三，《麻省理工学院技术评论》(MIT Technology Review)为订阅者举办了一场现场圆桌会议活动，提出了每个人现在都在问的问题：人工智能真的会杀死我们所有人吗？但与会者……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "published": "2026-09-16T01:05:57+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "zh": "隆重推出Gemini 3.8 Live和3.8 Live Extended Thinking"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
