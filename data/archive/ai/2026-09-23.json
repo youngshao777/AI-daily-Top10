@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-23",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-23T07:59:08.345499+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-23T07:21:49+08:00",
+      "title": {
+        "en": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "zh": "TechCrunch创始人峰会的议程揭晓： 11月4日在波士顿解锁筹款、招聘和人工智能洞察"
+      },
+      "summary": {
+        "en": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that…",
+        "zh": "创始人不应该以最艰难的方式学习最艰难的教训。TechCrunch创始人峰会旨在使创办公司所面临的挑战变得更加容易，并使创业高潮……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-23T05:56:43+08:00",
+      "title": {
+        "en": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "zh": "随着人工智能培训数据需求激增，浮潜人工智能将估值提高三倍至35亿美元（ $ 35亿）"
+      },
+      "summary": {
+        "en": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+        "zh": "这家拥有七年历史的初创公司已经筹集了3.5亿美元的E轮融资，以推动其数据即服务的方法。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI",
+      "published": "2026-09-23T05:00:00+08:00",
+      "title": {
+        "en": "Better prompt caching for GPT-6",
+        "zh": "GPT-6的更好提示缓存"
+      },
+      "summary": {
+        "en": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+        "zh": "了解GPT-6如何通过更高的缓存命中率、新的诊断、显式断点和控制来改善快速缓存，从而降低延迟和成本。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "source": "The Verge AI",
+      "published": "2026-09-23T04:52:40+08:00",
+      "title": {
+        "en": "Rabbit’s new AI agent doesn’t need an R1 to run",
+        "zh": "Rabbit的新AI agent不需要R1就可以运行"
+      },
+      "summary": {
+        "en": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup say…",
+        "zh": "正如《连线》杂志早些时候报道的那样， Rabbit公司正在推出一款独立的人工智能代理，不需要其硬件即可使用。初创公司说……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-23T03:45:47+08:00",
+      "title": {
+        "en": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+        "zh": "微软颠覆了人工智能辅助平台，该平台入侵了12,000个账户"
+      },
+      "summary": {
+        "en": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+        "zh": "EvilTokens提供了一个端到端的平台，使大规模妥协更快、更容易。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
+      "source": "MarkTechPost",
+      "published": "2026-09-23T02:59:35+08:00",
+      "title": {
+        "en": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+        "zh": "Anthropic发布Claude Opus 5.5 ：寓言5.1级性能，运行成本比Opus 5低40%"
+      },
+      "summary": {
+        "en": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the level of Claude Fable 5.1 on most work. It also costs 40%…",
+        "zh": "Anthropic发布了Claude Opus 5.5 ，这是其新款Claude 5.5系列中的第一款车型。该团队表示，它在大多数工作中都能达到Claude Fable 5.1的水平。它也要花费40% ……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI",
+      "published": "2026-09-23T02:00:00+08:00",
+      "title": {
+        "en": "Introducing GPT-6 Sol and Luna",
+        "zh": "隆重推出GPT-6 Sol和Luna"
+      },
+      "summary": {
+        "en": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+        "zh": "认识GPT-6 Sol和Luna ，这是两款将前沿智能带入日常工作的模型，具有不同的能力和成本平衡。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-22T21:42:05+08:00",
+      "title": {
+        "en": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "zh": "圆桌会议：虚拟边界墙的致命失败"
+      },
+      "summary": {
+        "en": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border c…",
+        "zh": "在过去的25年里，美国花费了数十亿美元在其南部边境修建了一堵“虚拟墙” ，承诺它们将帮助发现和逮捕边境监控塔。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.20971",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-22T12:00:00+08:00",
+      "title": {
+        "en": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+        "zh": "RBS-注意：长上下文大型语言模型的半径有限稀疏预填充"
+      },
+      "summary": {
+        "en": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire pro…",
+        "zh": "arXiv: 2609.20971v1公告类型：新摘要：长上下文大型语言模型推断越来越受到预填充的限制，其中密集的自我注意力处理整个过程……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "published": "2026-09-16T01:05:57+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "zh": "隆重推出Gemini 3.8 Live和3.8 Live Extended Thinking"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
