@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-22",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-22T08:35:32.109386+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-22T07:44:28+08:00",
+      "title": {
+        "en": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+        "zh": "建造苹果商店的人不会买硅谷在人工智能购物上的赌注"
+      },
+      "summary": {
+        "en": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+        "zh": "苹果零售店建筑师罗恩·约翰逊（ Ron Johnson ）表示，苹果的秘密酱汁一直"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/",
+      "source": "MarkTechPost",
+      "published": "2026-09-22T05:42:14+08:00",
+      "title": {
+        "en": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy",
+        "zh": "AWS Strands代理团队发布Strands线束：开源代理线束，以可比的准确度降低28%的代币成本"
+      },
+      "summary": {
+        "en": "Many developers find that an agent idea works inside Claude Code or Codex, then struggles once they rebuild it with their own loop. The Strands Agents team at AWS is targeting tha…",
+        "zh": "许多开发人员发现代理创意在Claude Code或Codex中起作用，一旦他们用自己的循环重建它，就会陷入困境。AWS的Strands Agents团队的目标是……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "source": "The Verge AI",
+      "published": "2026-09-22T04:29:45+08:00",
+      "title": {
+        "en": "California tightens rules on AI data center energy and water use",
+        "zh": "加州收紧人工智能数据中心能源和水资源使用规定"
+      },
+      "summary": {
+        "en": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. Th…",
+        "zh": "正如《洛杉矶时报》早些时候报道的那样，加利福尼亚州州长加文·纽瑟姆（ Gavin Newsom ）签署了七项法案，旨在防止人工智能数据中心将公用事业成本转嫁给居民。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-22T04:15:58+08:00",
+      "title": {
+        "en": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+        "zh": "OpenAI成立数学咨询小组，其AI解决了100多个未解决的问题"
+      },
+      "summary": {
+        "en": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+        "zh": "该小组不会有放慢或重定向OpenAI正在进行的数学研究的余地。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
+      "source": "MarkTechPost",
+      "published": "2026-09-22T00:40:44+08:00",
+      "title": {
+        "en": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
+        "zh": "阿里巴巴Qwen发布Qwen-Image-2.1 ：用于图像生成和编辑的7B开放式权重模型"
+      },
+      "summary": {
+        "en": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi-reference editing, and native RGBA transparency in one che…",
+        "zh": "阿里巴巴的Qwen团队发布了Qwen-Image-2.1 ，这是一款7B扩散变压器，可在一站式处理文本到图像生成、多引用编辑和原生RGBA透明度……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI",
+      "published": "2026-09-21T20:00:00+08:00",
+      "title": {
+        "en": "Advisory Group on Mathematics and Artificial Intelligence",
+        "zh": "数学和人工智能咨询小组"
+      },
+      "summary": {
+        "en": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+        "zh": "OpenAI正在与一个独立的数学和人工智能咨询小组合作，以指导对新兴人工智能结果的审查和沟通。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-21T20:00:00+08:00",
+      "title": {
+        "en": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+        "zh": "我们如何绘制美国边境“虚拟隔离墙”沿线的第一张综合死亡地图"
+      },
+      "summary": {
+        "en": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers mean…",
+        "zh": "我们对美墨边境死亡和监控的15个月调查始于一个简单的问题：为什么这么多人死在政府监控塔附近意味着……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.20971",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-21T12:00:00+08:00",
+      "title": {
+        "en": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+        "zh": "RBS-注意：长上下文大型语言模型的半径有限稀疏预填充"
+      },
+      "summary": {
+        "en": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire pro…",
+        "zh": "arXiv: 2609.20971v1公告类型：新摘要：长上下文大型语言模型推断越来越受到预填充的限制，其中密集的自我注意力处理整个过程……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-19T04:26:33+08:00",
+      "title": {
+        "en": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "zh": "人工智能对中国核部件的幻觉几乎导致了美国的军事攻击"
+      },
+      "summary": {
+        "en": "But the military's overall use of AI seems to be accelerating.",
+        "zh": "但军方对人工智能的整体使用似乎正在加速。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "published": "2026-09-16T01:05:57+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "zh": "隆重推出Gemini 3.8 Live和3.8 Live Extended Thinking"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
