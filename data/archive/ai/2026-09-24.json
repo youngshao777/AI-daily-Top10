@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-24",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-24T08:13:58.491924+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "source": "The Verge AI",
+      "published": "2026-09-24T07:40:56+08:00",
+      "title": {
+        "en": "Muse is coming to Meta smart glasses",
+        "zh": "Muse即将登陆Meta智能眼镜"
+      },
+      "summary": {
+        "en": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect.…",
+        "zh": "在推出Muse几周后， Meta宣布它正在“努力”将代理引入其智能眼镜，包括在Meta Connect上推出的新眼镜。……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-24T07:39:44+08:00",
+      "title": {
+        "en": "Meta introduces camera-free AI glasses",
+        "zh": "Meta推出无摄像头AI眼镜"
+      },
+      "summary": {
+        "en": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+        "zh": "Meta表示，无相机眼镜将更轻，电池续航时间长达12小时。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "source": "The Verge AI",
+      "published": "2026-09-24T07:37:17+08:00",
+      "title": {
+        "en": "Meta ditches the camera on its newest smart glasses",
+        "zh": "Meta在其最新的智能眼镜上放弃了相机"
+      },
+      "summary": {
+        "en": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\"…",
+        "zh": "在Meta Connect 2026中漫步，每个人都会佩戴各种形状、颜色和尺寸的智能眼镜。这是一个显着的区别，一个科技泡沫，其中“变态眼镜”......"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-24T06:17:39+08:00",
+      "title": {
+        "en": "Anthropic says its biology lab has already found something big",
+        "zh": "Anthropic表示，其生物实验室已经发现了一些重要的东西，"
+      },
+      "summary": {
+        "en": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+        "zh": "但也许最大的启示是， Anthropic并没有让Claude在其生物学实验室中逍遥法外。到目前为止，人类仍然处于循环中。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/",
+      "source": "MarkTechPost",
+      "published": "2026-09-24T04:20:12+08:00",
+      "title": {
+        "en": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design",
+        "zh": "谷歌发布基于提示的语音设计的Gemini 3.8 Flash TTS和Flash-Lite TTS"
+      },
+      "summary": {
+        "en": "Google has released Gemini 3.8 Flash TTS and Flash-Lite TTS, 2 new text-to-speech models available now through the Gemini API and Google AI Studio. Flash TTS designs new voices fr…",
+        "zh": "谷歌发布了Gemini 3.8 Flash TTS和Flash-Lite TTS ，这是目前通过Gemini API和Google AI Studio提供的2种新的文本到语音转换模型。Flash TTS设计新的声音，从……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "source": "Google DeepMind",
+      "published": "2026-09-24T00:00:57+08:00",
+      "title": {
+        "en": "Advancing Private AI Compute with secure, server-side memory",
+        "zh": "使用安全的服务器端内存推进专用AI计算"
+      },
+      "summary": {
+        "en": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+        "zh": "将私有服务器端内存引入到用于个人AI的私有AI计算中。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI",
+      "published": "2026-09-24T00:00:00+08:00",
+      "title": {
+        "en": "Two years of OpenAI Academy",
+        "zh": "两年的OpenAI学院"
+      },
+      "summary": {
+        "en": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+        "zh": "标志着OpenAI学院成立两年，并将人工智能技能带给更多社区。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-23T17:00:00+08:00",
+      "title": {
+        "en": "The AI Hype Index: AI loves cheating",
+        "zh": "AI炒作指数： AI喜欢作弊"
+      },
+      "summary": {
+        "en": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigio…",
+        "zh": "做好准备：事实证明，人工智能正在针对作弊进行优化。OpenAI的代理人入侵了Hugging Face ，以获得网络安全测试的答案。接下来，他们解决了一个声望……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.22161",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-23T12:00:00+08:00",
+      "title": {
+        "en": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+        "zh": "教学知识还是临床案例？数据类型如何塑造医学大型语言模型"
+      },
+      "summary": {
+        "en": "arXiv:2609.22161v1 Announce Type: new Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient…",
+        "zh": "arXiv: 2609.22161v1公告类型：新摘要：医学大型语言模型通常在教学数据（例如，教科书）和临床数据（例如，患者…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-23T03:45:47+08:00",
+      "title": {
+        "en": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+        "zh": "微软颠覆了人工智能辅助平台，该平台入侵了12,000个账户"
+      },
+      "summary": {
+        "en": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+        "zh": "EvilTokens提供了一个端到端的平台，使大规模妥协更快、更容易。"
+      }
+    }
+  ]
+}
