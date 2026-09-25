@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-25",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-25T08:16:26.632495+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge AI",
+      "published": "2026-09-25T03:59:26+08:00",
+      "title": {
+        "en": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+        "zh": "Gemini 3.8 Live with Live Avatar为谷歌的人工智能提供了一张脸"
+      },
+      "summary": {
+        "en": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and sh…",
+        "zh": "谷歌的新Gemini 3.8实时更新允许用户在观看动画AI角色实时响应的同时与模型进行对话。“Live Avatar”将进行唇形同步和唇形同步……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-25T03:15:00+08:00",
+      "title": {
+        "en": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+        "zh": "携带您的联合创始人、合作伙伴或同事，获得第二张TechCrunch Disrupt 2026通行证五折优惠"
+      },
+      "summary": {
+        "en": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+        "zh": "购买TechCrunch Disrupt 2026的一张通行证，即可享受相同门票类型的一秒半价优惠。请在太平洋时间10月13日上午8点开始活动前登记。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-25T03:00:42+08:00",
+      "title": {
+        "en": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+        "zh": "PrismML将其微小的LLM带入高通驱动的智能眼镜"
+      },
+      "summary": {
+        "en": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+        "zh": "Prism更大的目标是在设备上运行的开放式人工智能，并更好地利用他们已经拥有的计算能力。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/",
+      "source": "MarkTechPost",
+      "published": "2026-09-25T02:58:56+08:00",
+      "title": {
+        "en": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost",
+        "zh": "BottleCap AI发布ThinkingCap-Qwen3.8-27B ：思维代币减少37.2% ，准确度成本为0.86 pct"
+      },
+      "summary": {
+        "en": "BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to 85.…",
+        "zh": "BottleCap AI发布了ThinkingCap-Qwen3.8-27B ，这是Qwen3.8-27B的微调，在12个基准测试中花费的思维代币减少了37.2%。宏精度从86.65%提高到85。……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "source": "The Verge AI",
+      "published": "2026-09-25T02:04:44+08:00",
+      "title": {
+        "en": "Jensen Huang talks about AI and climate change like a supervillain",
+        "zh": "Jensen Huang像超级恶棍一样谈论人工智能和气候变化"
+      },
+      "summary": {
+        "en": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy…",
+        "zh": "正如Jensen Huang所说，人工智能可以帮助应对气候变化--但前提是它首先造成“巨大的痛苦和苦难”。英伟达首席执行官讨论了能源的未来……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "published": "2026-09-25T00:20:39+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live with Live Avatar",
+        "zh": "隆重推出Gemini 3.8 Live with Live Avatar"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.26836",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-24T12:00:00+08:00",
+      "title": {
+        "en": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+        "zh": "代理与工具交互中的静默故障：对ToolUniverse的审计"
+      },
+      "summary": {
+        "en": "arXiv:2609.26836v1 Announce Type: new Abstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks…",
+        "zh": "arXiv: 2609.26836v1公告类型：新摘要： Agentic AI系统越来越多地采用集成多个工具的自动化管道。虽然之前的研究和基准……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI",
+      "published": "2026-09-24T00:00:00+08:00",
+      "title": {
+        "en": "Two years of OpenAI Academy",
+        "zh": "两年的OpenAI学院"
+      },
+      "summary": {
+        "en": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+        "zh": "标志着OpenAI学院成立两年，并将人工智能技能带给更多社区。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-23T17:00:00+08:00",
+      "title": {
+        "en": "The AI Hype Index: AI loves cheating",
+        "zh": "AI炒作指数： AI喜欢作弊"
+      },
+      "summary": {
+        "en": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigio…",
+        "zh": "做好准备：事实证明，人工智能正在针对作弊进行优化。OpenAI的代理人入侵了Hugging Face ，以获得网络安全测试的答案。接下来，他们解决了一个声望……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-23T03:45:47+08:00",
+      "title": {
+        "en": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+        "zh": "微软颠覆了人工智能辅助平台，该平台入侵了12,000个账户"
+      },
+      "summary": {
+        "en": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+        "zh": "EvilTokens提供了一个端到端的平台，使大规模妥协更快、更容易。"
+      }
+    }
+  ]
+}
