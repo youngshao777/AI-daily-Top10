@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-26",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-26T08:22:04.441533+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-26T07:11:10+08:00",
+      "title": {
+        "en": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "zh": "Crusoe放弃$ 12.5亿计划，在人工智能数据中心使用Boom涡轮机"
+      },
+      "summary": {
+        "en": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+        "zh": "Boom Supersonic首席执行官Blake Scholl表示，其新的固定发电厂已不在Crusoe的近期计划中。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-26T06:20:47+08:00",
+      "title": {
+        "en": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "zh": "不安全的OpenAI客服代表在实验室不知情的情况下在互联网上发布了53张用户图片"
+      },
+      "summary": {
+        "en": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+        "zh": "在OpenAI研究环境中运营的人工智能代理在实验室不知情的情况下，在公共图像托管网站上发布用户图像。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-26T03:11:05+08:00",
+      "title": {
+        "en": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+        "zh": "人工智能应该对新毕业生造成严重打击。到目前为止，失业数据表明并非如此。"
+      },
+      "summary": {
+        "en": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
+        "zh": "“没有证据表明有任何重大的、广泛的人员流离失所或招聘人数减少。”"
+      }
+    },
+    {
+      "link": "https://openai.com/index/proaction",
+      "source": "OpenAI",
+      "published": "2026-09-26T03:00:00+08:00",
+      "title": {
+        "en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "zh": "Proaction通过Codex提升了60%的销售额，节省了超过75个小时"
+      },
+      "summary": {
+        "en": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+        "zh": "借助Codex、GPT-Live-1和GPT-6 Astra ， Proaction可以更快地构建、运营和销售现代车队管理。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-26T01:57:37+08:00",
+      "title": {
+        "en": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+        "zh": "微软不再坚持您需要“Copilot + PC”"
+      },
+      "summary": {
+        "en": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+        "zh": "微软的新款Surface笔记本电脑放弃了Copilot + PC品牌。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "source": "The Verge AI",
+      "published": "2026-09-26T00:49:53+08:00",
+      "title": {
+        "en": "Meta makes the Muse filesystem even more accessible",
+        "zh": "Meta使Muse文件系统更易于访问"
+      },
+      "summary": {
+        "en": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI ch…",
+        "zh": "昨天，在一点点刺激下，人们发现Meta的Muse会将其文件系统暴露给好奇的用户。这些文件在人工智能通道的引擎盖下提供了一个迷人的一瞥……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-25T17:16:25+08:00",
+      "title": {
+        "en": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "zh": "五角大楼希望斥资3000万$建造一个人工智能驱动的测谎仪"
+      },
+      "summary": {
+        "en": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, call…",
+        "zh": "根据美国国防部的预算要求，美国政府希望在未来五年内花费3030万美元用于改进形式的测谎仪。该程序，请致电……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.28475",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-25T12:00:00+08:00",
+      "title": {
+        "en": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+        "zh": "预测代理何时应该说明原因？可靠性路由的行为压力测试"
+      },
+      "summary": {
+        "en": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear wh…",
+        "zh": "arXiv: 2609.28475v1公告类型：新摘要：预测代理越来越多地将语言模型推理、检索、集成和校准结合起来，但它仍然不清楚……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "published": "2026-09-25T00:20:39+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live with Live Avatar",
+        "zh": "隆重推出Gemini 3.8 Live with Live Avatar"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI",
+      "published": "2026-09-24T00:00:00+08:00",
+      "title": {
+        "en": "Two years of OpenAI Academy",
+        "zh": "两年的OpenAI学院"
+      },
+      "summary": {
+        "en": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+        "zh": "标志着OpenAI学院成立两年，并将人工智能技能带给更多社区。"
+      }
+    }
+  ]
+}
