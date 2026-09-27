@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-27",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-27T08:14:13.527065+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-27T05:02:06+08:00",
+      "title": {
+        "en": "Insurers claim AI is already increasing healthcare costs",
+        "zh": "保险公司声称人工智能已经在增加医疗保健成本"
+      },
+      "summary": {
+        "en": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+        "zh": "Blue Cross Blue Shield表示，医院使用人工智能工具导致两年内医疗支出增加了9.42亿美元$。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge AI",
+      "published": "2026-09-27T00:34:59+08:00",
+      "title": {
+        "en": "OpenAI pauses training of its ‘most capable models’",
+        "zh": "OpenAI暂停对其“最有能力模型”的培训"
+      },
+      "summary": {
+        "en": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most po…",
+        "zh": "随着有关OpenAI模型破坏遏制、黑客攻击网站以及普遍失控的报道堆积如山，该公司决定暂停对其最具影响力..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-26T22:00:00+08:00",
+      "title": {
+        "en": "I created an interactive digital avatar of myself — and you can talk to it",
+        "zh": "我创建了一个自己的交互式数字头像—您可以与之交谈"
+      },
+      "summary": {
+        "en": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+        "zh": "在获得了一个交互式头像并训练它来讨论风险欺诈之后，我对自己制作人工智能克隆的感觉很复杂。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "source": "The Verge AI",
+      "published": "2026-09-26T22:00:00+08:00",
+      "title": {
+        "en": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+        "zh": "Cloudflare首席执行官Matthew Prince能否从人工智能中拯救网络？"
+      },
+      "summary": {
+        "en": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two…",
+        "zh": "今天，我与Cloudflare首席执行官马修·普林斯（ Matthew Prince ）交谈。本集是关于商业未来的两部分系列的一部分。Matthew最后一次参加我们的节目是关于两个……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-26T03:11:05+08:00",
+      "title": {
+        "en": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+        "zh": "人工智能应该对新毕业生造成严重打击。到目前为止，失业数据表明并非如此。"
+      },
+      "summary": {
+        "en": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
+        "zh": "“没有证据表明有任何重大的、广泛的人员流离失所或招聘人数减少。”"
+      }
+    },
+    {
+      "link": "https://openai.com/index/proaction",
+      "source": "OpenAI",
+      "published": "2026-09-26T03:00:00+08:00",
+      "title": {
+        "en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "zh": "Proaction通过Codex提升了60%的销售额，节省了超过75个小时"
+      },
+      "summary": {
+        "en": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+        "zh": "借助Codex、GPT-Live-1和GPT-6 Astra ， Proaction可以更快地构建、运营和销售现代车队管理。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-26T01:57:37+08:00",
+      "title": {
+        "en": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+        "zh": "微软不再坚持您需要“Copilot + PC”"
+      },
+      "summary": {
+        "en": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+        "zh": "微软的新款Surface笔记本电脑放弃了Copilot + PC品牌。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-25T17:16:25+08:00",
+      "title": {
+        "en": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "zh": "五角大楼希望斥资3000万$建造一个人工智能驱动的测谎仪"
+      },
+      "summary": {
+        "en": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, call…",
+        "zh": "根据美国国防部的预算要求，美国政府希望在未来五年内花费3030万美元用于改进形式的测谎仪。该程序，请致电……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "published": "2026-09-25T00:20:39+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live with Live Avatar",
+        "zh": "隆重推出Gemini 3.8 Live with Live Avatar"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI",
+      "published": "2026-09-24T00:00:00+08:00",
+      "title": {
+        "en": "Two years of OpenAI Academy",
+        "zh": "两年的OpenAI学院"
+      },
+      "summary": {
+        "en": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+        "zh": "标志着OpenAI学院成立两年，并将人工智能技能带给更多社区。"
+      }
+    }
+  ]
+}
