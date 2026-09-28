@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-28",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-28T08:17:32.543806+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge AI",
+      "published": "2026-09-28T04:46:36+08:00",
+      "title": {
+        "en": "Engram is a sampler that turns broken AI hallucinations into music",
+        "zh": "Engram是一个将破碎的人工智能幻觉转化为音乐的采样器"
+      },
+      "summary": {
+        "en": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and…",
+        "zh": "音乐创业公司Thoughtful Things刚刚推出了其首款乐器Engram的Kickstarter活动。它是一个采样器和Groovebox ，使用人工智能来破坏传入的音频和……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-28T04:34:28+08:00",
+      "title": {
+        "en": "Anthropic’s CEO is about to have dinner with President Trump",
+        "zh": "Anthropic首席执行官即将与特朗普总统共进晚餐"
+      },
+      "summary": {
+        "en": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+        "zh": "这将是Dario Amodei和唐纳德·特朗普之间的首次一对一会面"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-28T03:57:30+08:00",
+      "title": {
+        "en": "Can Muse overcome Meta’s trust issues?",
+        "zh": "Muse能否克服Meta的信任问题？"
+      },
+      "summary": {
+        "en": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+        "zh": "关于Equity ，我们讨论了Meta的人工智能公告如何设法从OpenAI和Anthropic抢走聚光灯。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge AI",
+      "published": "2026-09-28T01:21:07+08:00",
+      "title": {
+        "en": "OpenAI agents tried to ‘bruteforce’ a UN website",
+        "zh": "OpenAI特工试图“蛮力”联合国网站"
+      },
+      "summary": {
+        "en": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and Ju…",
+        "zh": "安全研究员罗恩·霍华德-琼斯（ Rowan Howard-Jones ）表示， OpenAI特工在4月至7月期间扫描了联合国贸易和发展会议（ UNCTAD ）的统计数据网站超过16,000次……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-26T03:11:05+08:00",
+      "title": {
+        "en": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+        "zh": "人工智能应该对新毕业生造成严重打击。到目前为止，失业数据表明并非如此。"
+      },
+      "summary": {
+        "en": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
+        "zh": "“没有证据表明有任何重大的、广泛的人员流离失所或招聘人数减少。”"
+      }
+    },
+    {
+      "link": "https://openai.com/index/proaction",
+      "source": "OpenAI",
+      "published": "2026-09-26T03:00:00+08:00",
+      "title": {
+        "en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "zh": "Proaction通过Codex提升了60%的销售额，节省了超过75个小时"
+      },
+      "summary": {
+        "en": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+        "zh": "借助Codex、GPT-Live-1和GPT-6 Astra ， Proaction可以更快地构建、运营和销售现代车队管理。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-26T01:57:37+08:00",
+      "title": {
+        "en": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+        "zh": "微软不再坚持您需要“Copilot + PC”"
+      },
+      "summary": {
+        "en": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+        "zh": "微软的新款Surface笔记本电脑放弃了Copilot + PC品牌。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-25T17:16:25+08:00",
+      "title": {
+        "en": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "zh": "五角大楼希望斥资3000万$建造一个人工智能驱动的测谎仪"
+      },
+      "summary": {
+        "en": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, call…",
+        "zh": "根据美国国防部的预算要求，美国政府希望在未来五年内花费3030万美元用于改进形式的测谎仪。该程序，请致电……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "published": "2026-09-25T00:20:39+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live with Live Avatar",
+        "zh": "隆重推出Gemini 3.8 Live with Live Avatar"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI",
+      "published": "2026-09-24T00:00:00+08:00",
+      "title": {
+        "en": "Two years of OpenAI Academy",
+        "zh": "两年的OpenAI学院"
+      },
+      "summary": {
+        "en": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+        "zh": "标志着OpenAI学院成立两年，并将人工智能技能带给更多社区。"
+      }
+    }
+  ]
+}
