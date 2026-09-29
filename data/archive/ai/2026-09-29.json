@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-29",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-29T09:28:43.681845+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T08:30:00+08:00",
+      "title": {
+        "en": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+        "zh": "Peak XV将种子投资上限提升至500万$ ，推出18个创业队列"
+      },
+      "summary": {
+        "en": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+        "zh": "在Peak XV最新的Surge队列中， 18家初创公司中有13家瞄准全球市场，而超过一半的初创公司位于印度。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T07:39:20+08:00",
+      "title": {
+        "en": "OpenAI reportedly ditches model over safety concerns",
+        "zh": "据报道， OpenAI因安全问题而放弃了模型"
+      },
+      "summary": {
+        "en": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+        "zh": "人工智能实验室的一位高级管理人员告诉《华尔街日报》，该模型在服从命令方面表现不佳。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-29T06:17:07+08:00",
+      "title": {
+        "en": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "zh": "圆桌会议：虚拟边界墙的致命失败"
+      },
+      "summary": {
+        "en": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they wi…",
+        "zh": "收听下面的会议或观看过去25年来，美国花费数十亿美元在其南部边境修建了一堵“虚拟墙” ，承诺他们将……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "source": "The Verge AI",
+      "published": "2026-09-29T05:31:35+08:00",
+      "title": {
+        "en": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+        "zh": "AMD将以超过80亿美元的价格收购人工智能公司World Labs"
+      },
+      "summary": {
+        "en": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion…",
+        "zh": "AMD今天宣布，它将以价值约82亿美元的全股票交易收购由着名研究员李飞飞博士共同创立的人工智能研究实验室World Labs……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/",
+      "source": "MarkTechPost",
+      "published": "2026-09-29T03:21:25+08:00",
+      "title": {
+        "en": "NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds",
+        "zh": "NVIDIA推出开放式代理安全平台： OpenShell Sandbox在BlueField-4上的哨兵在毫秒内隔离Vera CPU上的代理"
+      },
+      "summary": {
+        "en": "NVIDIA has launched the Open Agent Safety Platform, an open reference design that enforces AI agent safety outside the agent itself. OpenShell, an Apache 2.0 runtime, sandboxes ag…",
+        "zh": "NVIDIA推出了开放式代理安全平台，这是一种开放的参考设计，可在代理本身之外实施AI代理安全。OpenShell ，一个Apache 2.0运行时，沙盒ag…"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-29T01:03:16+08:00",
+      "title": {
+        "en": "When can we say AI made a scientific discovery?",
+        "zh": "我们什么时候可以说人工智能有了科学发现？"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that…",
+        "zh": "这个故事最初出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。上周三， Anthropic宣布……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI",
+      "published": "2026-09-28T15:00:00+08:00",
+      "title": {
+        "en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "zh": "Lenfest研究所通过扩大OpenAI支持来发展具有里程碑意义的计划"
+      },
+      "summary": {
+        "en": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+        "zh": "OpenAI正在扩大Lenfest AI协作和奖学金计划，提供$ 500万的资金和高达$ 500万的软件学分和工程支持。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.30291",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-28T12:00:00+08:00",
+      "title": {
+        "en": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+        "zh": "将人工智能引入自主系统--从认知到集体智能"
+      },
+      "summary": {
+        "en": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI,…",
+        "zh": "arXiv: 2609.30291v1公告类型：新摘要：本文的目的是强调自主系统作为人工智能发展终极阶段的核心作用， ……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-26T03:11:05+08:00",
+      "title": {
+        "en": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+        "zh": "人工智能应该对新毕业生造成严重打击。到目前为止，失业数据表明并非如此。"
+      },
+      "summary": {
+        "en": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
+        "zh": "“没有证据表明有任何重大的、广泛的人员流离失所或招聘人数减少。”"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "published": "2026-09-25T00:20:39+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live with Live Avatar",
+        "zh": "隆重推出Gemini 3.8 Live with Live Avatar"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
