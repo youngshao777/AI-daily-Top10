@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-30",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-09-30T09:04:12.905432+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source": "The Verge AI",
+      "published": "2026-09-30T08:19:13+08:00",
+      "title": {
+        "en": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "zh": "Sam Altman表示，在其模型安全之前， OpenAI不会上市"
+      },
+      "summary": {
+        "en": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeli…",
+        "zh": "几个月来，人们一直在想OpenAI什么时候上市。首席执行官萨姆·奥尔特曼（ Sam Altman ）表示，除非公司能够对模型安全性做出更好的承诺，否则不会发生这种情况。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-30T07:30:55+08:00",
+      "title": {
+        "en": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+        "zh": "当您询问有关Minecraft的信息时， America.gov会变得非常奇怪，但这并不是一个小故障"
+      },
+      "summary": {
+        "en": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+        "zh": "为了国家安全，得知America.gov没有产生幻觉，以至于它正在写冗长的诗歌，这是一种解脱。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "source": "The Verge AI",
+      "published": "2026-09-30T06:25:45+08:00",
+      "title": {
+        "en": "Trump orders US government to call AI ‘Super Intelligence’",
+        "zh": "特朗普命令美国政府将人工智能称为“超级智能”"
+      },
+      "summary": {
+        "en": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will r…",
+        "zh": "美国行政部门不再承认“人工智能”的存在。“展望未来，官方政策网站、政策文件和新闻稿将……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-30T06:20:59+08:00",
+      "title": {
+        "en": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+        "zh": "互联网相信埃隆·马斯克（ Elon Musk ）的xAI控制了OpenAI的“Dots”发布"
+      },
+      "summary": {
+        "en": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "zh": "在OpenAI周二推出新的人工智能代理Dots之前， Elon Musk的xAI已经获得了域名“dot.com” ，该域名现在重定向到Grok聊天机器人下载页面。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "source": "Ars Technica AI",
+      "published": "2026-09-30T05:52:58+08:00",
+      "title": {
+        "en": "Protests against OpenAI get increasingly creative",
+        "zh": "针对OpenAI的抗议活动变得越来越有创意"
+      },
+      "summary": {
+        "en": "New sculpture depicts AI leaders escaping a sinking ship.",
+        "zh": "新的雕塑描绘了人工智能领导者逃离一艘正在沉没的船。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
+      "source": "MarkTechPost",
+      "published": "2026-09-30T05:47:09+08:00",
+      "title": {
+        "en": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
+        "zh": "Liquid AI发布d1 ：以零输出令牌返回校准概率的决策模型"
+      },
+      "summary": {
+        "en": "Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated probab…",
+        "zh": "Liquid AI发布了d1 ，这是一种为结构化选择而非文本生成而构建的决策模型。你给它上下文和一组键入的问题。它返回校准的概率……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-29T18:43:45+08:00",
+      "title": {
+        "en": "Making AI an asset, not an expense",
+        "zh": "让人工智能成为一种资产，而不是费用"
+      },
+      "summary": {
+        "en": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that…",
+        "zh": "当客户谈论人工智能成本时，对话通常从代币价格开始，最后是访问云中最新、功能最强大的模型。他们是否总是需要……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "published": "2026-09-29T18:00:00+08:00",
+      "title": {
+        "en": "Introducing GPT-6.1 Sol",
+        "zh": "GPT-6.1 Sol简介"
+      },
+      "summary": {
+        "en": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+        "zh": "满足GPT-6.1 SOL ：用于编码、计算机使用和专业工作的近Astra智能，占Astra标准API输入和输出代币价格的五分之一。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.30291",
+      "source": "arXiv cs.AI",
+      "published": "2026-09-29T12:00:00+08:00",
+      "title": {
+        "en": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+        "zh": "将人工智能引入自主系统--从认知到集体智能"
+      },
+      "summary": {
+        "en": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI,…",
+        "zh": "arXiv: 2609.30291v1公告类型：新摘要：本文的目的是强调自主系统作为人工智能发展终极阶段的核心作用， ……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "published": "2026-09-25T00:20:39+08:00",
+      "title": {
+        "en": "Introducing Gemini 3.8 Live with Live Avatar",
+        "zh": "隆重推出Gemini 3.8 Live with Live Avatar"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
