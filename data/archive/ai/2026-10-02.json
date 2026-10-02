@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-02",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-02T09:17:01.690965+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+      "source": "MarkTechPost",
+      "published": "2026-10-02T09:00:41+08:00",
+      "title": {
+        "en": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+        "zh": "Cloudflare发布Clef和Clef-flash ：返回类型概率而不是文本的开放权重决策模型"
+      },
+      "summary": {
+        "en": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, an…",
+        "zh": "Cloudflare发布了Clef (27B)和Clef-flash (9B) ，这两种开放式权重决策模型返回的是类型概率而不是文本。它们与Jev-API兼容，接受图像，以及……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
+      "source": "MarkTechPost",
+      "published": "2026-10-02T08:32:50+08:00",
+      "title": {
+        "en": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
+        "zh": "Google Research的Kauldron编码指南：纯数据的配置、按字符串连接的组件和您可以端到端阅读的JAX培训师"
+      },
+      "summary": {
+        "en": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn how konfig turns experiments…",
+        "zh": "在这本全面的编码指南中，我们将探索Google Research的Kauldron--一个针对研究速度和模块化进行优化的JAX培训库。了解konfig如何转变实验……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T05:08:11+08:00",
+      "title": {
+        "en": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+        "zh": "据报道，马斯克的人工智能聊天机器人Grok鼓励特朗普抓捕委内瑞拉总统"
+      },
+      "summary": {
+        "en": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+        "zh": "据报道，特朗普总统在入侵委内瑞拉并抓获尼古拉斯·马杜罗之前征求了格罗克的意见。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "source": "The Verge AI",
+      "published": "2026-10-02T03:47:51+08:00",
+      "title": {
+        "en": "Google’s new Guided Vision feature can help you read the fine print",
+        "zh": "谷歌的新引导视觉功能可以帮助您阅读"
+      },
+      "summary": {
+        "en": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By shari…",
+        "zh": "Guided Vision今天在兼容的Android设备上推出Gemini Live ，使用人工智能为您对着手机相机拍摄的任何东西提供实时音频描述。通过shari……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T03:21:53+08:00",
+      "title": {
+        "en": "ChatGPT can now virtually try on clothes for you",
+        "zh": "ChatGPT现在可以虚拟地为您试穿衣服"
+      },
+      "summary": {
+        "en": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites…",
+        "zh": "OpenAI正在为ChatGPT推出新的购物功能，允许用户使用自己的照片虚拟试穿服装和配饰，并将他们喜欢的产品保存到收藏夹……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI",
+      "published": "2026-10-02T01:00:00+08:00",
+      "title": {
+        "en": "The eternal complement",
+        "zh": "永恒的补充"
+      },
+      "summary": {
+        "en": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+        "zh": "高级人工智能对于突破性创意背后的日常工作可能最为重要。探索为什么执行可以塑造下一个经济和进步的步伐。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-02T00:28:04+08:00",
+      "title": {
+        "en": "With most information hidden, the game Stratego had stumped AI—until now",
+        "zh": "在大多数信息被隐藏的情况下，游戏Stratego一直困扰着AI ，直到现在"
+      },
+      "summary": {
+        "en": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+        "zh": "添加第二个神经网络来猜测隐藏部件的身份是关键。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2609.38282",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-01T12:00:00+08:00",
+      "title": {
+        "en": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+        "zh": "通过门控和减量随机蒸馏提高OCR忠诚度"
+      },
+      "summary": {
+        "en": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcripti…",
+        "zh": "arXiv: 2609.38282v1公告类型：新摘要：视觉语言模型可能会将图像中的异常文本重写为语言上合理的表达式，从而影响OCR转录…"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "published": "2026-10-01T04:01:45+08:00",
+      "title": {
+        "en": "Gemini 4 Argon: our next era of frontier intelligence",
+        "zh": "双子座4氩气：我们下一个前沿情报时代"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Technology Review",
+      "published": "2026-09-30T18:40:30+08:00",
+      "title": {
+        "en": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+        "zh": "OpenAI首席研究官表示： “我们不会因为黑客攻击而自杀”"
+      },
+      "summary": {
+        "en": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting o…",
+        "zh": "在爆炸性的消息传出两个月后，一群特工破解了他们的遏制并入侵了人工智能公司Hugging Face的计算机， OpenAI仍在放弃……"
+      }
+    }
+  ]
+}
