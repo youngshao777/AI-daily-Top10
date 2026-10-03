@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-03",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-03T08:56:05.222945+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-03T08:45:39+08:00",
+      "title": {
+        "en": "Meta wants your next gadget to be Muse-infused",
+        "zh": "Meta希望您的下一个小工具融入Muse"
+      },
+      "summary": {
+        "en": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "zh": "Meta希望将Muse放入您的电视和烤面包机中，因此它会免费提供代码。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-03T05:09:14+08:00",
+      "title": {
+        "en": "Sean Parker is rebuilding Stability AI around music",
+        "zh": "Sean Parker正在围绕音乐重建稳定AI"
+      },
+      "summary": {
+        "en": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+        "zh": "肖恩·帕克（ Sean Parker ）曾经教过音乐界什么是请求原谅，现在又带着唱片公司的祝福和金钱回来了。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge AI",
+      "published": "2026-10-03T05:08:37+08:00",
+      "title": {
+        "en": "Meta open sources code to let you make Muse AI gadgets",
+        "zh": "用于制作Muse AI小工具的元开源代码"
+      },
+      "summary": {
+        "en": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a…",
+        "zh": "Meta现在允许您制作自己的Muse小工具，该小工具具有公司开源的新AI代理代码。该公司建议在……上加载Muse等项目"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "source": "The Verge AI",
+      "published": "2026-10-03T04:08:40+08:00",
+      "title": {
+        "en": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+        "zh": "苹果将限制Mac磁盘访问，因为人工智能代理“大幅增加”风险"
+      },
+      "summary": {
+        "en": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling…",
+        "zh": "正如TechCrunch早些时候报道的那样，苹果将为Mac上的“完整磁盘访问”增加新的限制，以应对人工智能代理带来的风险。在周五的最新消息中，苹果表示正在推出……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/",
+      "source": "MarkTechPost",
+      "published": "2026-10-03T02:04:56+08:00",
+      "title": {
+        "en": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
+        "zh": "NVIDIA宣布推出DGX Spark 64GB ：适用于本地AI代理、微调和推理的1-PetaFLOP Grace Blackwell台式机"
+      },
+      "summary": {
+        "en": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with…",
+        "zh": "英伟达宣布推出全新64GB的DGX Spark配置--来自宏碁、华硕、戴尔、技嘉、惠普和微星--其基于GB10的桌面人工智能系统。它为开发人员提供了一种从……开始的方法"
+      }
+    },
+    {
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "published": "2026-10-03T00:15:00+08:00",
+      "title": {
+        "en": "A model guide for the GPT-6 family",
+        "zh": "GPT-6系列的模型指南"
+      },
+      "summary": {
+        "en": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+        "zh": "了解初创公司如何选择GPT-6模型、调整推理工作、改进提示和技能、协调工具以及准备生产工作流程。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-02T23:49:04+08:00",
+      "title": {
+        "en": "Redefining enterprise intelligence with autonomous AI",
+        "zh": "借助自主人工智能重新定义企业智能"
+      },
+      "summary": {
+        "en": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of perfo…",
+        "zh": "企业人工智能不再是未来的雄心壮志。它处于全面运行飞行状态。模型功能的进步速度超过了大多数组织所能承受的速度，而性能成本……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.00010",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-02T12:00:00+08:00",
+      "title": {
+        "en": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+        "zh": "长视野语言代理中的重尾记忆痕迹"
+      },
+      "summary": {
+        "en": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually j…",
+        "zh": "arXiv: 2610.00010v1 Announce Type: new Abstract: Long-horizon language agents越来越依赖外部内存作为冻结世界模型，但目前的内存系统通常是j…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-02T00:28:04+08:00",
+      "title": {
+        "en": "With most information hidden, the game Stratego had stumped AI—until now",
+        "zh": "在大多数信息被隐藏的情况下，游戏Stratego一直困扰着AI ，直到现在"
+      },
+      "summary": {
+        "en": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+        "zh": "添加第二个神经网络来猜测隐藏部件的身份是关键。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "published": "2026-10-01T04:01:45+08:00",
+      "title": {
+        "en": "Gemini 4 Argon: our next era of frontier intelligence",
+        "zh": "双子座4氩气：我们下一个前沿情报时代"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
