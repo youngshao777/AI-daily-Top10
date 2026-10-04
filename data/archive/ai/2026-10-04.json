@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-04",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-04T08:21:22.731295+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
+      "source": "MarkTechPost",
+      "published": "2026-10-04T08:19:38+08:00",
+      "title": {
+        "en": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
+        "zh": "NVIDIA IsaacTeleop内部：从手动和控制器跟踪到基于图形的重定位引擎的机器人动作"
+      },
+      "summary": {
+        "en": "Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy. The post Inside NVIDIA’s Isaa…",
+        "zh": "了解NVIDIA IsaacTeleop如何使用纯Python重定向引擎和NumPy将XR手动跟踪和运动控制器输入转换为机器人命令。NVIDIA ISAA内部的帖子……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-04T02:43:57+08:00",
+      "title": {
+        "en": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "zh": "亚马逊回应数据中心的强烈反对，表示不再使用保密协议"
+      },
+      "summary": {
+        "en": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+        "zh": "亚马逊网络服务（ Amazon Web Services ）的首席执行官试图抵制对数据中心的广泛怀疑。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "The Verge AI",
+      "published": "2026-10-04T00:49:10+08:00",
+      "title": {
+        "en": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "zh": "Capcom正在为“我们与人工智能一起创造游戏的未来”做准备"
+      },
+      "summary": {
+        "en": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi…",
+        "zh": "Capcom的Pragmata可能完全是关于人工智能的恐怖，但在实践中，工作室似乎并不那么低调。在CAPCOM公开会议期间RE: 2026程序员Satoshi…"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-04T00:30:01+08:00",
+      "title": {
+        "en": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "zh": "OpenAI安全员工辞职，声称公司的“文化被打破”"
+      },
+      "summary": {
+        "en": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+        "zh": "大卫·罗宾逊（ David Robinson ）自己承认，他“有些陈词滥调” ：一家领先的人工智能公司的员工在辞职时发出可怕的警告。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "source": "The Verge AI",
+      "published": "2026-10-03T23:00:00+08:00",
+      "title": {
+        "en": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+        "zh": "Splice首席执行官Kakul Srivastava认为人工智能电子邮件正在扼杀对话"
+      },
+      "summary": {
+        "en": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into m…",
+        "zh": "卡库尔·斯里瓦斯塔瓦（ Kakul Srivastava ）是Splice的首席执行官，无数制片人依靠这个样品平台进行一次性拍摄和旋律循环。从服务中提取的样品已进入m…"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
+      "source": "MarkTechPost",
+      "published": "2026-10-03T15:05:11+08:00",
+      "title": {
+        "en": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
+        "zh": "Meta、OpenAI和优步刚刚教会了人工智能代理先说话。什么时候保持安静？"
+      },
+      "summary": {
+        "en": "TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which…",
+        "zh": "TL; DR ： Meta的Muse、OpenAI的Dots和优步的合作车主助理有一个共同点：客服代表首先发言。这把难题从回答什么转移到什么时候打断，在哪个……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "published": "2026-10-03T00:15:00+08:00",
+      "title": {
+        "en": "A model guide for the GPT-6 family",
+        "zh": "GPT-6系列的模型指南"
+      },
+      "summary": {
+        "en": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+        "zh": "了解初创公司如何选择GPT-6模型、调整推理工作、改进提示和技能、协调工具以及准备生产工作流程。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-02T23:49:04+08:00",
+      "title": {
+        "en": "Redefining enterprise intelligence with autonomous AI",
+        "zh": "借助自主人工智能重新定义企业智能"
+      },
+      "summary": {
+        "en": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of perfo…",
+        "zh": "企业人工智能不再是未来的雄心壮志。它处于全面运行飞行状态。模型功能的进步速度超过了大多数组织所能承受的速度，而性能成本……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-02T00:28:04+08:00",
+      "title": {
+        "en": "With most information hidden, the game Stratego had stumped AI—until now",
+        "zh": "在大多数信息被隐藏的情况下，游戏Stratego一直困扰着AI ，直到现在"
+      },
+      "summary": {
+        "en": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+        "zh": "添加第二个神经网络来猜测隐藏部件的身份是关键。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "published": "2026-10-01T04:01:45+08:00",
+      "title": {
+        "en": "Gemini 4 Argon: our next era of frontier intelligence",
+        "zh": "双子座4氩气：我们下一个前沿情报时代"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
