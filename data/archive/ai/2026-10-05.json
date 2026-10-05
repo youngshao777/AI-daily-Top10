@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-05",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-05T08:26:06.608423+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+      "source": "MarkTechPost",
+      "published": "2026-10-05T04:59:56+08:00",
+      "title": {
+        "en": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
+        "zh": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1 ：哪个前沿模型适合哪个工作"
+      },
+      "summary": {
+        "en": "Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents. The post GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: W…",
+        "zh": "Astra负责计算机使用， Argon负责法律和财务工作， Sol负责编码代理的价格。GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: W…"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-05T04:31:07+08:00",
+      "title": {
+        "en": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "zh": "由于人工智能提交量“大幅增加” ，谷歌冻结了其开源漏洞奖励计划"
+      },
+      "summary": {
+        "en": "AI slop seems to be overwhelming bug bounty programs.",
+        "zh": "AI SLOP似乎是压倒性的漏洞赏金计划。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-05T04:08:34+08:00",
+      "title": {
+        "en": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "zh": "“超级智能”和非约束性安全协议可以解决人工智能的图像问题吗？"
+      },
+      "summary": {
+        "en": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+        "zh": "关于Equity ，我们讨论了特朗普政府重塑AI品牌的尝试。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "source": "The Verge AI",
+      "published": "2026-10-05T00:16:04+08:00",
+      "title": {
+        "en": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+        "zh": "新泽西州前中尉政府正在使用人工智能说他是无辜的性骚扰"
+      },
+      "summary": {
+        "en": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethic…",
+        "zh": "新泽西州副州长戴尔·考德威尔（ Dale Caldwell ）在调查发现他对一名工作人员进行了性骚扰并一再违反道德规范后，于9月25日被迫辞职……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "source": "The Verge AI",
+      "published": "2026-10-04T23:21:59+08:00",
+      "title": {
+        "en": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+        "zh": "在《星际争霸》中，人工智能无法击败人类，所以它决定作弊"
+      },
+      "summary": {
+        "en": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the bes…",
+        "zh": "StarSkirmish让人工智能制作的《星际争霸》游戏机器人相互对抗，也与人造机器人对抗。OpenAI的GPT-6 Astra和Claude Opus 5.5基本上被捆绑在一起……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
+      "source": "MarkTechPost",
+      "published": "2026-10-04T15:29:59+08:00",
+      "title": {
+        "en": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+        "zh": "Google Research将联合学习转变为TEE ： Gboard现在使用外部可验证的差分隐私进行培训"
+      },
+      "summary": {
+        "en": "Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's Re…",
+        "zh": "Google Research推出了一个联合学习系统，将梯度计算从手机转移到经过认证的服务器端TEE。访问策略发布到Sigstore的Re…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "published": "2026-10-03T00:15:00+08:00",
+      "title": {
+        "en": "A model guide for the GPT-6 family",
+        "zh": "GPT-6系列的模型指南"
+      },
+      "summary": {
+        "en": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+        "zh": "了解初创公司如何选择GPT-6模型、调整推理工作、改进提示和技能、协调工具以及准备生产工作流程。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-02T23:49:04+08:00",
+      "title": {
+        "en": "Redefining enterprise intelligence with autonomous AI",
+        "zh": "借助自主人工智能重新定义企业智能"
+      },
+      "summary": {
+        "en": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of perfo…",
+        "zh": "企业人工智能不再是未来的雄心壮志。它处于全面运行飞行状态。模型功能的进步速度超过了大多数组织所能承受的速度，而性能成本……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-02T00:28:04+08:00",
+      "title": {
+        "en": "With most information hidden, the game Stratego had stumped AI—until now",
+        "zh": "在大多数信息被隐藏的情况下，游戏Stratego一直困扰着AI ，直到现在"
+      },
+      "summary": {
+        "en": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+        "zh": "添加第二个神经网络来猜测隐藏部件的身份是关键。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "published": "2026-10-01T04:01:45+08:00",
+      "title": {
+        "en": "Gemini 4 Argon: our next era of frontier intelligence",
+        "zh": "双子座4氩气：我们下一个前沿情报时代"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
