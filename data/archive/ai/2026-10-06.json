@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-06",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-06T10:03:37.022329+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+      "source": "MarkTechPost",
+      "published": "2026-10-06T06:51:05+08:00",
+      "title": {
+        "en": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+        "zh": "Meet Together链接：运行Kimi K3和GLM 5.3等开放模型的免费CLI ，包含Claude Code、Codex和OpenCode"
+      },
+      "summary": {
+        "en": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K…",
+        "zh": "Together AI发布了Together Link ，这是一个免费的麻省理工学院许可的CLI ，将Claude Code、Codex、OpenCode、Pi以及Claude和ChatGPT桌面应用程序连接到Kimi K等开放模型……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
+      "source": "MarkTechPost",
+      "published": "2026-10-06T05:41:14+08:00",
+      "title": {
+        "en": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+        "zh": "使用NVIDIA Cosmos3-DROID构建流媒体机器人学习管道"
+      },
+      "summary": {
+        "en": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, b…",
+        "zh": "了解如何使用NVIDIA Cosmos3-DROID数据集构建端到端流媒体机器人学习管道，无需本地下载，利用字节范围的Parquet读取， b..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-06T04:36:48+08:00",
+      "title": {
+        "en": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "zh": "OpenAI将开始在欧盟为ChatGPT的文本添加水印"
+      },
+      "summary": {
+        "en": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+        "zh": "OpenAI将在欧盟对ChatGPT和Codex文本进行水印，以符合《人工智能法》。它说，编辑会使隐形标记更难被检测到。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-06T03:33:53+08:00",
+      "title": {
+        "en": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "zh": "Reflection推出开放式权重AI模型Beam ，以更低的计算成本与中国机型相媲美"
+      },
+      "summary": {
+        "en": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own custo…",
+        "zh": "Reflection将Beam和未来模型瞄准企业和主权国家。推销的目的是建立“人工智能工厂” ，这种产品可以让机构建立自己的客户关系……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-06T03:14:44+08:00",
+      "title": {
+        "en": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+        "zh": "命令行工具可快速从macOS 27中移除Apple Intelligence"
+      },
+      "summary": {
+        "en": "The tool can free up over 12GB of storage.",
+        "zh": "该工具可以释放超过12GB的存储空间。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-05T23:47:52+08:00",
+      "title": {
+        "en": "Connecting AI agents to enterprise knowledge",
+        "zh": "将人工智能代理与企业知识联系起来"
+      },
+      "summary": {
+        "en": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the…",
+        "zh": "对于人工智能系统不断积累和分析的所有数据，企业人工智能代理经常面临一个奇怪的缺点：缺乏知识。知识不仅仅是数据，更是……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "published": "2026-10-05T23:00:00+08:00",
+      "title": {
+        "en": "Our approach to EU text provenance rules",
+        "zh": "我们对欧盟文本来源规则的方法"
+      },
+      "summary": {
+        "en": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+        "zh": "OpenAI如何根据欧盟规则处理文本水印。了解水印的应用范围、检测工作原理以及访问权限从研究人员开始的原因。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "source": "The Verge AI",
+      "published": "2026-10-05T22:30:00+08:00",
+      "title": {
+        "en": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+        "zh": "参议员亚当·希夫：人工智能监管、言论自由和再次弹劾特朗普"
+      },
+      "summary": {
+        "en": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, priv…",
+        "zh": "今天，我正在与来自加利福尼亚州的民主党参议员亚当·希夫（ Adam Schiff ）交谈。Schiff是多个委员会的成员，负责监督技术和人工智能：知识产权、反垄断、私人……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.02260",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-05T12:00:00+08:00",
+      "title": {
+        "en": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+        "zh": "MintFlow ：约束流匹配的最小轨迹干预"
+      },
+      "summary": {
+        "en": "arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed con…",
+        "zh": "arXiv: 2610.02260v1公告类型：新摘要：流量匹配模型擅长生成建模，许多下游应用程序要求其样本满足规定的要求…"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "published": "2026-10-01T04:01:45+08:00",
+      "title": {
+        "en": "Gemini 4 Argon: our next era of frontier intelligence",
+        "zh": "双子座4氩气：我们下一个前沿情报时代"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
