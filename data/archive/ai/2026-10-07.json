@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-07",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-07T09:12:34.576691+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "source": "The Verge AI",
+      "published": "2026-10-07T07:26:38+08:00",
+      "title": {
+        "en": "OpenAI drops another batch of mathematical breakthroughs",
+        "zh": "OpenAI又推出了一批数学突破"
+      },
+      "summary": {
+        "en": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result familie…",
+        "zh": "OpenAI在一批722份手稿中揭示了一些由未发布的前沿模型产生的长期数学问题的解决方案，涵盖了372个结果家族……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-07T06:34:03+08:00",
+      "title": {
+        "en": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+        "zh": "前Ramp工程师在报废第一款产品后为平台Melius筹集了2000万美元$"
+      },
+      "summary": {
+        "en": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+        "zh": "该公司没有帮助营销人员管理和优化广告支出，而是专注于构建生成创意资产和广告系列的工具。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-07T04:50:32+08:00",
+      "title": {
+        "en": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+        "zh": "默认情况下， OpenAI将为ChatGPT输出添加水印-但仅限于欧盟"
+      },
+      "summary": {
+        "en": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+        "zh": "与其他解决方案一样，它不是特别可靠，而且很容易规避。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-07T04:35:20+08:00",
+      "title": {
+        "en": "How AI decision models could change content moderation",
+        "zh": "人工智能决策模型如何改变内容审核"
+      },
+      "summary": {
+        "en": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+        "zh": "周二， Musubi宣布了一种针对实时审核的轻量级决策模型，称为PolicyLM-1.7B ，该模型以开放式权重发布。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
+      "published": "2026-10-07T03:57:04+08:00",
+      "title": {
+        "en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "zh": "EmbeddingGemma 2 ：开放、轻量级的多模态嵌入模型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
+      "source": "MarkTechPost",
+      "published": "2026-10-07T02:36:08+08:00",
+      "title": {
+        "en": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
+        "zh": "Google DeepMind发布基于Gemma 4构建的7.4亿开放式多模态嵌入模型EmbeddingGemma 2"
+      },
+      "summary": {
+        "en": "Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0. The post Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimo…",
+        "zh": "Google DeepMind的EmbeddingGemma 2将5种输入类型映射到一个768d空间中，并在Apache 2.0下发布。Google DeepMind发布了EmbeddingGemma 2 ，这是一款740M Open Multimo……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+      "source": "The Verge AI",
+      "published": "2026-10-07T00:29:44+08:00",
+      "title": {
+        "en": "We can’t just change the definition of ‘recording’",
+        "zh": "我们不能只改变“录音”的定义"
+      },
+      "summary": {
+        "en": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device…",
+        "zh": "借助人工智能硬件，科技公司正在推动定义什么构成录音，什么不构成录音。在大多数小工具历史中，可以合理地假设设备……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI",
+      "published": "2026-10-07T00:00:00+08:00",
+      "title": {
+        "en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "zh": "Atlassian和OpenAI扩大合作伙伴关系，将企业知识转化为行动"
+      },
+      "summary": {
+        "en": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+        "zh": "Atlassian和OpenAI正在扩大合作伙伴关系，将前沿模型与企业知识联系起来，并帮助团队规划、构建和交付工作。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-06T03:14:44+08:00",
+      "title": {
+        "en": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+        "zh": "命令行工具可快速从macOS 27中移除Apple Intelligence"
+      },
+      "summary": {
+        "en": "The tool can free up over 12GB of storage.",
+        "zh": "该工具可以释放超过12GB的存储空间。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-05T23:47:52+08:00",
+      "title": {
+        "en": "Connecting AI agents to enterprise knowledge",
+        "zh": "将人工智能代理与企业知识联系起来"
+      },
+      "summary": {
+        "en": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the…",
+        "zh": "对于人工智能系统不断积累和分析的所有数据，企业人工智能代理经常面临一个奇怪的缺点：缺乏知识。知识不仅仅是数据，更是……"
+      }
+    }
+  ]
+}
