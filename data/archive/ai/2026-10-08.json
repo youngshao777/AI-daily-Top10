@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-08",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-08T09:33:27.208260+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-08T04:48:45+08:00",
+      "title": {
+        "en": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+        "zh": "Nous Research确认其估值达到15亿美元，为企业用户推出人工智能代理"
+      },
+      "summary": {
+        "en": "The developer of Hermes Agent raised a $90 million Series B.",
+        "zh": "Hermes Agent的开发商筹集了9000万美元的$ B轮融资。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+      "source": "MarkTechPost",
+      "published": "2026-10-08T04:38:30+08:00",
+      "title": {
+        "en": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
+        "zh": "Anthropic发布Claude Haiku 5.5 ：具有100万语境的小型模型，每百万输入令牌定价$ 0.10"
+      },
+      "summary": {
+        "en": "Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld. The post Anthropic Releases Claude Haiku 5.5: A Small Model With…",
+        "zh": "Anthropic的Claude Haiku 5.5起价为每百万个输入代币0.10 $ ，保留了100万个上下文，在OSWorld上的得分为72.4%。The POST Anthropic发布了Claude Haiku 5.5 ：一个带有……的小模型"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-08T04:22:37+08:00",
+      "title": {
+        "en": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+        "zh": "微软推出全新Nvidia芯片人工智能个人电脑，全面升级Windows 11"
+      },
+      "summary": {
+        "en": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+        "zh": "微软透露了其Surface Laptop Ultra的规格和价格，这是一款在Nvidia芯片上运行的AI PC ，旨在运行AI模型和代理。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "source": "The Verge AI",
+      "published": "2026-10-08T03:10:42+08:00",
+      "title": {
+        "en": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+        "zh": "ChatGPT的“智能用户界面”更新以图片、图表和按钮填充其回复"
+      },
+      "summary": {
+        "en": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all user…",
+        "zh": "OpenAI正在ChatGPT中推出一项新的智能用户界面功能，允许聊天机器人通过交互式视觉效果回答您的问题。正在向所有用户推出的更新……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
+      "source": "MarkTechPost",
+      "published": "2026-10-08T02:23:45+08:00",
+      "title": {
+        "en": "Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens",
+        "zh": "Liquid AI发布开放式权重d1-3B和d1-omni-600M ：零输出令牌的多模态决策模型"
+      },
+      "summary": {
+        "en": "Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with…",
+        "zh": "Liquid AI发布了Open d1 ，这是其d1决策模型系列中的两个开放式权重多模态模型。d1-3B读取文本和图像。d1-omni-600M读取带有图像的文本，或带有...的文本"
+      }
+    },
+    {
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI",
+      "published": "2026-10-07T20:00:00+08:00",
+      "title": {
+        "en": "Helping teens learn, plan, and shape the future of AI",
+        "zh": "帮助青少年学习、规划和塑造人工智能的未来"
+      },
+      "summary": {
+        "en": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+        "zh": "College Planner即将加入ChatGPT for Teens ，帮助学生管理大学申请，以及新的抽认卡、测验和青少年人工智能委员会。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.06910",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-07T12:00:00+08:00",
+      "title": {
+        "en": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+        "zh": "GAMEGO ：在真实世界资产中锚定合成轨迹的训练游戏开发代理"
+      },
+      "summary": {
+        "en": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-…",
+        "zh": "arXiv ： 2610.06910v1公告类型： NEW摘要：大型语言模型（ LLM ）的最新进展展示了Web前端执行的卓越能力，浏览器-..."
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-07T04:50:32+08:00",
+      "title": {
+        "en": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+        "zh": "默认情况下， OpenAI将为ChatGPT输出添加水印-但仅限于欧盟"
+      },
+      "summary": {
+        "en": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+        "zh": "与其他解决方案一样，它不是特别可靠，而且很容易规避。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
+      "published": "2026-10-07T03:57:04+08:00",
+      "title": {
+        "en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "zh": "EmbeddingGemma 2 ：开放、轻量级的多模态嵌入模型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-05T23:47:52+08:00",
+      "title": {
+        "en": "Connecting AI agents to enterprise knowledge",
+        "zh": "将人工智能代理与企业知识联系起来"
+      },
+      "summary": {
+        "en": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the…",
+        "zh": "对于人工智能系统不断积累和分析的所有数据，企业人工智能代理经常面临一个奇怪的缺点：缺乏知识。知识不仅仅是数据，更是……"
+      }
+    }
+  ]
+}
