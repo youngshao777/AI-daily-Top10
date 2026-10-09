@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-09",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-09T09:44:36.558981+08:00",
+  "items": [
+    {
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-09T08:08:24+08:00",
+      "title": {
+        "en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "zh": "圆桌会议：与人工智能设计病毒的创造者对话"
+      },
+      "summary": {
+        "en": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to…",
+        "zh": "2026年10月16日（星期五）人工智能可以设计新的生命形式吗？ 2025年，斯坦福大学博士生塞缪尔·金（ Samuel King ）在使用生成式人工智能模型……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "source": "The Verge AI",
+      "published": "2026-10-09T05:53:51+08:00",
+      "title": {
+        "en": "Anthropic launches free AI security scans for open-source projects",
+        "zh": "Anthropic为开源项目推出免费的人工智能安全扫描"
+      },
+      "summary": {
+        "en": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"tho…",
+        "zh": "Anthropic提供名为OSS Scanner的新服务，帮助开源项目跟踪安全漏洞。它说选择加入的开源项目将获得“tho…"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-09T05:00:00+08:00",
+      "title": {
+        "en": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+        "zh": "假装你坐在伊丽莎白·福尔摩斯（ Elizabeth Holmes ）的办公桌前，在这个奇怪的详细网站上"
+      },
+      "summary": {
+        "en": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might h…",
+        "zh": "Extend工程师Bo Lau使用来自美国诉伊丽莎白·霍姆斯案审判的一千多封电子邮件、幻灯片、文本和文件，创建了一个网站，模拟了它可能……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "source": "The Verge AI",
+      "published": "2026-10-09T04:06:56+08:00",
+      "title": {
+        "en": "California is trying to shut down robot vs. human cage matches",
+        "zh": "加利福尼亚州正试图关闭机器人与人类笼子匹配"
+      },
+      "summary": {
+        "en": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times.…",
+        "zh": "据《纽约时报》报道，加利福尼亚州体育委员会(California State Athletic Commission)上个月向一家初创公司发出了一封停止信，该公司主办了一场人类与机器人的比赛。……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/",
+      "source": "MarkTechPost",
+      "published": "2026-10-09T00:17:35+08:00",
+      "title": {
+        "en": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
+        "zh": "JetBrains发布Mellum2.1 ：编码代理的12B MoE开放模型"
+      },
+      "summary": {
+        "en": "JetBrains released Mellum2.1, an Apache 2.0, 12B mixture-of-experts thinking model with 2.5B active parameters. RL in real repositories lifted its SWE-bench Verified score from 2.…",
+        "zh": "JetBrains发布了Mellum2.1 ，这是一个Apache 2.0 ， 12B混合专家思维模型，具有2.5B活动参数。真实存储库中的RL将其SWE-bench验证得分从2分提高到2分。……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/oracle",
+      "source": "OpenAI",
+      "published": "2026-10-09T00:00:00+08:00",
+      "title": {
+        "en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "zh": "Oracle如何通过ChatGPT和Codex将工作日变为几分钟"
+      },
+      "summary": {
+        "en": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+        "zh": "在招聘、工程和运营方面， Oracle通过ChatGPT Work和Codex将专业知识转化为快速、可重复的工作流程。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-08T17:00:00+08:00",
+      "title": {
+        "en": "AI breakthroughs in robotics won’t change your life any time soon",
+        "zh": "机器人领域的人工智能突破不会很快改变你的生活"
+      },
+      "summary": {
+        "en": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are ch…",
+        "zh": "这个故事是麻省理工学院技术评论和Aventine之间的合作， Aventine是一个非营利性研究基金会，致力于创建和支持有关技术和科学如何发展的内容……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.06910",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-08T12:00:00+08:00",
+      "title": {
+        "en": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+        "zh": "GAMEGO ：在真实世界资产中锚定合成轨迹的训练游戏开发代理"
+      },
+      "summary": {
+        "en": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-…",
+        "zh": "arXiv ： 2610.06910v1公告类型： NEW摘要：大型语言模型（ LLM ）的最新进展展示了Web前端执行的卓越能力，浏览器-..."
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-07T04:50:32+08:00",
+      "title": {
+        "en": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+        "zh": "默认情况下， OpenAI将为ChatGPT输出添加水印-但仅限于欧盟"
+      },
+      "summary": {
+        "en": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+        "zh": "与其他解决方案一样，它不是特别可靠，而且很容易规避。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
+      "published": "2026-10-07T03:57:04+08:00",
+      "title": {
+        "en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "zh": "EmbeddingGemma 2 ：开放、轻量级的多模态嵌入模型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
