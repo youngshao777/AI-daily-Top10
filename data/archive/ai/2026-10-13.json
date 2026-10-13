@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-13",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-13T10:50:00.395913+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+      "source": "MarkTechPost",
+      "published": "2026-10-13T05:41:50+08:00",
+      "title": {
+        "en": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
+        "zh": "阿里巴巴Qwen推出QwenGyre ： Elastic Reinforcement Learning RL for XLong-Horizon Agents"
+      },
+      "summary": {
+        "en": "Alibaba’s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinforcement learning s…",
+        "zh": "阿里巴巴的Qwen团队推出了QwenGyre ，这是一种用于极长时间代理培训的弹性强化学习强化学习框架。QwenGyre是一个在线强化学习系统……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-13T04:59:50+08:00",
+      "title": {
+        "en": "Epic Games reportedly pivoting to \"AI first\" game development model",
+        "zh": "据报道， Epic Games正在转向“人工智能优先”的游戏开发模式"
+      },
+      "summary": {
+        "en": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+        "zh": "“不再需要手写代码”或适用于延迟漫威/星球大战射击游戏的无人工智能艺术。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-13T01:56:56+08:00",
+      "title": {
+        "en": "Meta releases its first frontier model, Muse Wonder",
+        "zh": "Meta发布其首款前沿车型Muse Wonder"
+      },
+      "summary": {
+        "en": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and bett…",
+        "zh": "Muse Spark的目标是成为一个可以在低延迟下执行的轻量级模型，而Wonder模型更大，据说更强大，具有更高的基准分数和投注……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge AI",
+      "published": "2026-10-13T01:00:00+08:00",
+      "title": {
+        "en": "Meta has some Wonder Full new AI models",
+        "zh": "Meta有一些Wonder全新的AI模型"
+      },
+      "summary": {
+        "en": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now la…",
+        "zh": "Meta正在弥补AI竞赛中失去的时间。在推出Muse Spark （其经过改造的Superintelligence Labs部门的第一个模型）和热闹的人工智能特工Muse之后，现在是……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+      "source": "MarkTechPost",
+      "published": "2026-10-12T16:20:49+08:00",
+      "title": {
+        "en": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+        "zh": "2026年12大AI实时翻译工具：延迟、语言、定价"
+      },
+      "summary": {
+        "en": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, pla…",
+        "zh": "我们检查了12个人工智能实时翻译工具，包括Palabra.ai、Google Live Translate、DeepL Voice、Teams Interpreter和Wordly ，以及语言、延迟、平台……的官方页面。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.12493",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-12T12:00:00+08:00",
+      "title": {
+        "en": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+        "zh": "没有锚点的忠诚：关于特征重要性的可解释AI忠诚度指标的结构性错位的立场文件"
+      },
+      "summary": {
+        "en": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models b…",
+        "zh": "arXiv: 2610.12493v1公告类型：新摘要：可解释的人工智能（ XAI ）工具经常被用作增加对机器学习模型的信任的方法。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-09T17:00:00+08:00",
+      "title": {
+        "en": "We’re putting too much faith in AI’s ability to say no",
+        "zh": "我们对人工智能说“不”的能力太有信心了"
+      },
+      "summary": {
+        "en": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. T…",
+        "zh": "自从人们第一次认真考虑给机器一个以我们自己为模型的智能以来，从来没有任何问题，他们会像我们一样说不。T…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/sophos",
+      "source": "OpenAI",
+      "published": "2026-10-09T15:00:00+08:00",
+      "title": {
+        "en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "zh": "Sophos借助OpenAI Daybreak将威胁调查时间缩短96%"
+      },
+      "summary": {
+        "en": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+        "zh": "了解Sophos如何利用OpenAI的Daybreak将网络威胁调查时间缩短96% ，并自动化52%的MDR案例，同时保持人为监督。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-07T04:50:32+08:00",
+      "title": {
+        "en": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+        "zh": "默认情况下， OpenAI将为ChatGPT输出添加水印-但仅限于欧盟"
+      },
+      "summary": {
+        "en": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+        "zh": "与其他解决方案一样，它不是特别可靠，而且很容易规避。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
+      "published": "2026-10-07T03:57:04+08:00",
+      "title": {
+        "en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "zh": "EmbeddingGemma 2 ：开放、轻量级的多模态嵌入模型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
