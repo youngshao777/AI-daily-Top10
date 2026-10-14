@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-14",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-14T08:51:33.522637+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-14T07:13:31+08:00",
+      "title": {
+        "en": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "zh": "科学公司将其视力恢复芯片植入其首例Stargardt病患者体内"
+      },
+      "summary": {
+        "en": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-com…",
+        "zh": "Neuralink前总裁兼联合创始人马克斯·霍达克（ Max Hodak ）在TechCrunch Disrupt上详细介绍了他的公司与PRIMA的合作如何成为其迈向新型大脑通信的一部分……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-14T07:05:34+08:00",
+      "title": {
+        "en": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+        "zh": "Cerebras首席执行官表示，我们即将迎来每个人在家都有个人AI助手的未来"
+      },
+      "summary": {
+        "en": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+        "zh": "Cerebras首席执行官安德鲁·费尔德曼（ Andrew Feldman ）预测，未来个人人工智能助理将像家用电器一样普遍，部分在本地设备上运行，部分在云中运行。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+      "source": "MarkTechPost",
+      "published": "2026-10-14T06:53:44+08:00",
+      "title": {
+        "en": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+        "zh": "Meta推出Muse Wonder和Muse Wonder Full ：基准、定价及其使用方法"
+      },
+      "summary": {
+        "en": "Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Code plans, leads Deep…",
+        "zh": "Meta发布了Muse Wonder和Muse Wonder Full ， 100万上下文代理模型。Muse Wonder在Meta Model API上的每百万代币成本为4美元/20美元。Wonder Full ，关于Muse Code计划，深度引导……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/",
+      "source": "MarkTechPost",
+      "published": "2026-10-14T06:14:20+08:00",
+      "title": {
+        "en": "How to Use Meta’s Rebalancer for Task Placement & Optimization",
+        "zh": "如何使用Meta的Rebalancer进行任务放置和优化"
+      },
+      "summary": {
+        "en": "In this comprehensive coding tutorial, we explore Meta's Rebalancer assignment solver using its C++ core and Python bindings. Learn how to build datacenters, manage task placement…",
+        "zh": "在这个全面的编码教程中，我们将使用Meta的C + +核心和Python绑定来探索Meta的Rebalancer赋值求解器。了解如何构建数据中心、管理任务放置……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source": "The Verge AI",
+      "published": "2026-10-14T04:45:25+08:00",
+      "title": {
+        "en": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+        "zh": "OpenAI员工因涉嫌在会议室植入臭虫而被捕"
+      },
+      "summary": {
+        "en": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Al…",
+        "zh": "一名OpenAI工程师在该公司表示在其一个办公室发现了一个隐藏的“精密录音设备”后被捕。这名员工被确认为Abdulrahman Al……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "source": "Google DeepMind",
+      "published": "2026-10-14T03:43:07+08:00",
+      "title": {
+        "en": "Developing Gemini 4 Argon responsibly and safely",
+        "zh": "负责任和安全地开发Gemini 4 Argon"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI",
+      "published": "2026-10-13T20:00:00+08:00",
+      "title": {
+        "en": "Higgsfield takes AI video from 1 minute to over 10",
+        "zh": "希格斯菲尔德将人工智能视频从1分钟缩短到10分钟以上"
+      },
+      "summary": {
+        "en": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+        "zh": "希格斯菲尔德通过GPT-6 Astra为创作者带来更长的视频，通过GPT-Image-2.5实现精确的视觉效果，并通过GPT-Live实现语音电影制作。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-13T18:00:00+08:00",
+      "title": {
+        "en": "Open models have real benefits. Do they outweigh the risks?",
+        "zh": "开放式模型有实实在在的好处。它们是否大于风险？"
+      },
+      "summary": {
+        "en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the s…",
+        "zh": "《麻省理工科技评论》解释说：让我们的作家解开复杂、混乱的科学技术世界，帮助您了解接下来会发生什么。您可以阅读更多关于……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.12493",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-13T12:00:00+08:00",
+      "title": {
+        "en": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+        "zh": "没有锚点的忠诚：关于特征重要性的可解释AI忠诚度指标的结构性错位的立场文件"
+      },
+      "summary": {
+        "en": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models b…",
+        "zh": "arXiv: 2610.12493v1公告类型：新摘要：可解释的人工智能（ XAI ）工具经常被用作增加对机器学习模型的信任的方法。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-13T04:59:50+08:00",
+      "title": {
+        "en": "Epic Games reportedly pivoting to \"AI first\" game development model",
+        "zh": "据报道， Epic Games正在转向“人工智能优先”的游戏开发模式"
+      },
+      "summary": {
+        "en": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+        "zh": "“不再需要手写代码”或适用于延迟漫威/星球大战射击游戏的无人工智能艺术。"
+      }
+    }
+  ]
+}
