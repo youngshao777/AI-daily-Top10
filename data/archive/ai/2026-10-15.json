@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-15",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-15T08:17:12.207502+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T08:00:00+08:00",
+      "title": {
+        "en": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+        "zh": "Gudea利用人工智能帮助组织预防社交媒体危机爆发"
+      },
+      "summary": {
+        "en": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or…",
+        "zh": "每天，世界各地的社交媒体和网站都会展开对话。一个看似微不足道的后果--无论是人工智能产生的错误信息、仇恨言论，还是……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "source": "The Verge AI",
+      "published": "2026-10-15T06:53:31+08:00",
+      "title": {
+        "en": "McKinsey is making job applicants spar with a fake AI client",
+        "zh": "麦肯锡正在让求职者与虚假的人工智能客户争吵"
+      },
+      "summary": {
+        "en": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process,…",
+        "zh": "作为面试过程的一部分，咨询公司麦肯锡公司将要求一些入门级候选人与客户的人工智能模拟进行10分钟的对话， ……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
+      "source": "MarkTechPost",
+      "published": "2026-10-15T06:52:17+08:00",
+      "title": {
+        "en": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
+        "zh": "Fish Audio发布35B开放式重量MoE文字转语音模型Drama 3"
+      },
+      "summary": {
+        "en": "Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open w…",
+        "zh": "Fish Audio发布了Drama 3 ，这是一个35B的专家混合文本到语音模型，具有约3B的有效参数。它采用简单的语言方向，涵盖83种语言，船舶开放……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T05:30:33+08:00",
+      "title": {
+        "en": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+        "zh": "Flock首席执行官表示，其麦克风检测到“只是枪声” —其网站上说不同"
+      },
+      "summary": {
+        "en": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+        "zh": "兰利的评论是在包括ACLU在内的隐私倡导者以及担心其技术被滥用的公众对Flock进行越来越严格的审查之际发表的。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "source": "The Verge AI",
+      "published": "2026-10-15T05:11:28+08:00",
+      "title": {
+        "en": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+        "zh": "八个州起诉OpenAI ，称ChatGPT对儿童不安全"
+      },
+      "summary": {
+        "en": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier…",
+        "zh": "正如之前报道的那样， OpenAI正面临来自美国八个州的新一波诉讼，指控该公司伤害儿童并误导客户ChatGPT的安全性……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-15T01:10:15+08:00",
+      "title": {
+        "en": "Researchers use AI to design proteins that cut up other proteins",
+        "zh": "研究人员使用人工智能来设计切割其他蛋白质的蛋白质"
+      },
+      "summary": {
+        "en": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+        "zh": "人工智能设计工具制造的蛋白质可以破坏数百年稳定的键。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI",
+      "published": "2026-10-14T20:00:00+08:00",
+      "title": {
+        "en": "Amp puts AI agents to work beyond code with OpenAI models",
+        "zh": "AMP使AI代理能够使用OpenAI模型进行超越代码的工作"
+      },
+      "summary": {
+        "en": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+        "zh": "了解Amp如何突破代理商使用GPT-6 Astra、Ultrafast、GPT-Live-1和使用ChatGPT登录所能做的事情的前沿。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
+      "source": "MarkTechPost",
+      "published": "2026-10-14T16:57:28+08:00",
+      "title": {
+        "en": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
+        "zh": "2026年9大最佳人工智能网关：彩虹桥、Portkey、LiteLLM、Kong等排名"
+      },
+      "summary": {
+        "en": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensi…",
+        "zh": "Marktechpost将2026年的9个最佳人工智能网关排在首位。我们比较了Bifrost、Portkey、LiteLLM、Kong、TrueFoundry、Cloudflare、Vercel、OpenRouter和Orq.ai的延迟、定价、许可……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
+      "published": "2026-10-14T10:00:14+08:00",
+      "title": {
+        "en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+        "zh": "谷歌DeepMind与新加坡政府合作构建用于诈骗检测的微调人工智能模型"
+      },
+      "summary": {
+        "en": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+        "zh": "了解Google DeepMind和新加坡政府科技公司如何使用轻量级设备上的Gemma模型来拦截私人聊天中的会话诈骗，并且没有云数据流出。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-13T18:00:00+08:00",
+      "title": {
+        "en": "Open models have real benefits. Do they outweigh the risks?",
+        "zh": "开放式模型有实实在在的好处。它们是否大于风险？"
+      },
+      "summary": {
+        "en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the s…",
+        "zh": "《麻省理工科技评论》解释说：让我们的作家解开复杂、混乱的科学技术世界，帮助您了解接下来会发生什么。您可以阅读更多关于……"
+      }
+    }
+  ]
+}
