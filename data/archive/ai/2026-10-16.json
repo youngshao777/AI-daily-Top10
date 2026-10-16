@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-16",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-16T08:04:45.977645+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T07:44:56+08:00",
+      "title": {
+        "en": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+        "zh": "当谈到Cal AI的病毒式成功时，一小群有影响力的人得到了回报"
+      },
+      "summary": {
+        "en": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+        "zh": "该公司在两年内创造了超过3000万美元的收入，并于3月被MyFitness以未披露的金额收购。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "source": "The Verge AI",
+      "published": "2026-10-16T06:43:23+08:00",
+      "title": {
+        "en": "ChatGPT can peek at your Chrome tabs now",
+        "zh": "ChatGPT现在可以查看您的Chrome标签页"
+      },
+      "summary": {
+        "en": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the ex…",
+        "zh": "OpenAI的ChatGPT Atlas浏览器已不复存在，但现在ChatGPT的Google Chrome扩展正在进行一些升级，允许它使用您已经打开的浏览器选项卡。和前任……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "source": "The Verge AI",
+      "published": "2026-10-16T06:35:55+08:00",
+      "title": {
+        "en": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+        "zh": "世嘉在灾难性发布后从销售中撤出《全面战争：幕府将军2》重制版"
+      },
+      "summary": {
+        "en": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to…",
+        "zh": "在一次灾难性的发布之后，世嘉正在从店面中删除全面战争：幕府将军2 -完整版，用户抱怨错误和升级等问题似乎……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T04:04:53+08:00",
+      "title": {
+        "en": "Meta launches an open-weight AI model that runs on Macs",
+        "zh": "Meta推出在Mac上运行的开放式权重AI模型"
+      },
+      "summary": {
+        "en": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+        "zh": "Meta和苹果已经联手推出了这家社交媒体巨头的最新型号Muse Spark Open ，它将在苹果芯片上本地运行。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
+      "source": "MarkTechPost",
+      "published": "2026-10-16T03:53:50+08:00",
+      "title": {
+        "en": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+        "zh": "NVIDIA发布Nemotron 3.5 Super VL ， 120B开放式多式联运代理模型"
+      },
+      "summary": {
+        "en": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 B…",
+        "zh": "NVIDIA发布了Nemotron 3.5 Super VL ，这是一个开放的120B参数多模态MoE模型，具有12B活动参数、1M令牌上下文和在1个DGX Spark上运行的NVFP4权重，以及2个B…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI",
+      "published": "2026-10-16T03:00:00+08:00",
+      "title": {
+        "en": "Bringing GPT-Rosalind to academic research labs",
+        "zh": "将GPT-Rosalind带入学术研究实验室"
+      },
+      "summary": {
+        "en": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+        "zh": "推出Rosalind学术计划，为符合条件的学术实验室提供GPT-Rosalind赞助的访问权限以及推进生命科学研究的工具。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "published": "2026-10-16T00:08:03+08:00",
+      "title": {
+        "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "zh": "使用Google Antigravity加速寻找抗菌肽"
+      },
+      "summary": {
+        "en": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+        "zh": "使用Google Antigravity for Science加速寻找新型抗菌肽。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.14005",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-15T12:00:00+08:00",
+      "title": {
+        "en": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+        "zh": "人工性的第一次考试：超智能的LLM引用C检验"
+      },
+      "summary": {
+        "en": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems become…",
+        "zh": "arXiv: 2610.14005v1公告类型：新摘要：在人工智能发展步伐加快的情况下，任何使用人类或当前人工智能系统进行难度校准的基准都将成为……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-15T01:10:15+08:00",
+      "title": {
+        "en": "Researchers use AI to design proteins that cut up other proteins",
+        "zh": "研究人员使用人工智能来设计切割其他蛋白质的蛋白质"
+      },
+      "summary": {
+        "en": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+        "zh": "人工智能设计工具制造的蛋白质可以破坏数百年稳定的键。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-13T18:00:00+08:00",
+      "title": {
+        "en": "Open models have real benefits. Do they outweigh the risks?",
+        "zh": "开放式模型有实实在在的好处。它们是否大于风险？"
+      },
+      "summary": {
+        "en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the s…",
+        "zh": "《麻省理工科技评论》解释说：让我们的作家解开复杂、混乱的科学技术世界，帮助您了解接下来会发生什么。您可以阅读更多关于……"
+      }
+    }
+  ]
+}
