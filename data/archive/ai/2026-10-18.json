@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-18",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-18T07:44:51.241443+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-18T05:31:32+08:00",
+      "title": {
+        "en": "Meta removes language that raised scraping and AI training concerns",
+        "zh": "Meta删除了引起抓取和人工智能培训问题的语言"
+      },
+      "summary": {
+        "en": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "zh": "Meta发言人坚称，更新后的条款并未反映Meta爬网方式的变化。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
+      "source": "MarkTechPost",
+      "published": "2026-10-18T04:22:11+08:00",
+      "title": {
+        "en": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
+        "zh": "认识Kyutai REKI ： 2.4B VLA模型为机器人操作带来高效内存"
+      },
+      "summary": {
+        "en": "Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained on…",
+        "zh": "Kyutai与Inria和École des Ponts一起发布了REKI ，这是一种用于机器人操作的2.4B视觉-语言-动作模型（ VLA ）。REKI视觉-语言-行动模型在……上进行了预训练"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-18T04:21:19+08:00",
+      "title": {
+        "en": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "zh": "Anthropic表示，其员工队伍已经变得不那么初级了，并且在会议上花费了更多的时间"
+      },
+      "summary": {
+        "en": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+        "zh": "在过去的一年中， Anthropic的员工构成和工作类型发生了显着变化。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge AI",
+      "published": "2026-10-17T23:04:36+08:00",
+      "title": {
+        "en": "Meta removes language that may have allowed it to scrape news sites",
+        "zh": "Meta删除了可能允许其抓取新闻网站的语言"
+      },
+      "summary": {
+        "en": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the fol…",
+        "zh": "在强烈反对之后， Meta再次更新其条款，以删除暗示它可以从包括新闻网站在内的网站上抓取内容来训练其人工智能的语言。具体来说， FOL……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge AI",
+      "published": "2026-10-17T21:00:00+08:00",
+      "title": {
+        "en": "Websites are closing their doors to AI agents",
+        "zh": "网站正在向人工智能代理敞开大门"
+      },
+      "summary": {
+        "en": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…",
+        "zh": "自主智能体是人工智能中最热门的东西。OpenAI、Meta、Google、Instinct和其他人承诺，他们的代理可以代表您在互联网上搜索，从预订……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
+      "source": "MarkTechPost",
+      "published": "2026-10-17T16:53:58+08:00",
+      "title": {
+        "en": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
+        "zh": "DeepSeek刚刚发布V4.1-Flash-1017 ，在DeepSWE上获得77.0分，打开搜索API"
+      },
+      "summary": {
+        "en": "DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, fa…",
+        "zh": "DeepSeek刚刚发布了DeepSeek-V4.1-Flash-1017 ，这是其V4.1-Flash模型的新检查点。它在DeepSeek网站、应用和API上直播。DeepSeek声称分数更高， fa…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "published": "2026-10-17T03:00:00+08:00",
+      "title": {
+        "en": "How Itaú is building generative AI for its entire customer base",
+        "zh": "Itaú如何为整个客户群构建生成式人工智能"
+      },
+      "summary": {
+        "en": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sect…",
+        "zh": "借助对话界面ia.i和IARA治理平台， Itaú正在将其AI First战略应用于客户和员工--这是巴西监管最严格的部门之一……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-17T02:00:00+08:00",
+      "title": {
+        "en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "zh": "圆桌会议：与人工智能设计病毒的创造者对话"
+      },
+      "summary": {
+        "en": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative…",
+        "zh": "收听下面的会话或观看人工智能可以设计新的生命形式吗？ 2025年，斯坦福大学博士生塞缪尔·金（ Samuel King ）在使用生成式…"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "published": "2026-10-16T00:08:03+08:00",
+      "title": {
+        "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "zh": "使用Google Antigravity加速寻找抗菌肽"
+      },
+      "summary": {
+        "en": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+        "zh": "使用Google Antigravity for Science加速寻找新型抗菌肽。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-15T01:10:15+08:00",
+      "title": {
+        "en": "Researchers use AI to design proteins that cut up other proteins",
+        "zh": "研究人员使用人工智能来设计切割其他蛋白质的蛋白质"
+      },
+      "summary": {
+        "en": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+        "zh": "人工智能设计工具制造的蛋白质可以破坏数百年稳定的键。"
+      }
+    }
+  ]
+}
