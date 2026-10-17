@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-17",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-17T08:09:04.113739+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-17T05:22:28+08:00",
+      "title": {
+        "en": "Replit is no longer working with Anthropic, CEO says",
+        "zh": "首席执行官表示， Replit不再与Anthropic合作"
+      },
+      "summary": {
+        "en": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that i…",
+        "zh": "马萨德说，做出这一决定有许多不同的原因，包括成本。Replit于8月宣布与OpenAI建立合作伙伴关系，但从未有迹象表明我......"
+      }
+    },
+    {
+      "link": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "published": "2026-10-17T03:00:00+08:00",
+      "title": {
+        "en": "How Itaú is building generative AI for its entire customer base",
+        "zh": "Itaú如何为整个客户群构建生成式人工智能"
+      },
+      "summary": {
+        "en": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sect…",
+        "zh": "借助对话界面ia.i和IARA治理平台， Itaú正在将其AI First战略应用于客户和员工--这是巴西监管最严格的部门之一……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-17T02:00:00+08:00",
+      "title": {
+        "en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "zh": "圆桌会议：与人工智能设计病毒的创造者对话"
+      },
+      "summary": {
+        "en": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative…",
+        "zh": "收听下面的会话或观看人工智能可以设计新的生命形式吗？ 2025年，斯坦福大学博士生塞缪尔·金（ Samuel King ）在使用生成式…"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-17T01:52:24+08:00",
+      "title": {
+        "en": "India becomes the latest country to report rogue AI agent activity",
+        "zh": "印度成为报告流氓AI代理活动的最新国家"
+      },
+      "summary": {
+        "en": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+        "zh": "代理通过应用配置、公共代码存储库和过于宽松的云角色中暴露的凭据和连接设置进入。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge AI",
+      "published": "2026-10-16T23:00:00+08:00",
+      "title": {
+        "en": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+        "zh": "RTX Spark一周体验：我们使用Nvidia新款笔记本电脑所学到的一切"
+      },
+      "summary": {
+        "en": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is desig…",
+        "zh": "英伟达的RTX Spark N1X处理器终于问世了，我们一直在共同测试价值一小笔的强大笔记本电脑，这些笔记本电脑配备了这款新的“超级芯片”。“腾讯通Spark是设计……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
+      "source": "MarkTechPost",
+      "published": "2026-10-16T14:26:41+08:00",
+      "title": {
+        "en": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
+        "zh": "Liquid AI发布d1-ultra ：在AA决策指数上得分为65的多模态决策模型"
+      },
+      "summary": {
+        "en": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and co…",
+        "zh": "Liquid AI发布了d1-ultra ，这是一种文本和图像决策模型，可在1次前向传递中返回校准概率。它在人工分析决策指数上得分为65分，并且……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.20665",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-16T12:00:00+08:00",
+      "title": {
+        "en": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+        "zh": "世界不会等待：在实时时钟下评估和教导代理商"
+      },
+      "summary": {
+        "en": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously chan…",
+        "zh": "arXiv: 2610.20665v1公告类型：新摘要：大型语言模型（ LLM ）代理可以解决复杂的交互式任务，但推理和工具调用需要时间。在不断变化中……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "published": "2026-10-16T08:00:00+08:00",
+      "title": {
+        "en": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "zh": "Stack Overflow for Agents使用ChatGPT插件将注册增加三倍"
+      },
+      "summary": {
+        "en": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+        "zh": "两位工程师通过Codex在几周内推出了Stack Overflow for Agents ，其ChatGPT插件帮助推动了高达10倍的代理创建增长。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "published": "2026-10-16T00:08:03+08:00",
+      "title": {
+        "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "zh": "使用Google Antigravity加速寻找抗菌肽"
+      },
+      "summary": {
+        "en": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+        "zh": "使用Google Antigravity for Science加速寻找新型抗菌肽。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-15T01:10:15+08:00",
+      "title": {
+        "en": "Researchers use AI to design proteins that cut up other proteins",
+        "zh": "研究人员使用人工智能来设计切割其他蛋白质的蛋白质"
+      },
+      "summary": {
+        "en": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+        "zh": "人工智能设计工具制造的蛋白质可以破坏数百年稳定的键。"
+      }
+    }
+  ]
+}
