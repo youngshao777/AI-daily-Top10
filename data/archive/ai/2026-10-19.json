@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-19",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-19T07:54:48.894489+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T04:37:40+08:00",
+      "title": {
+        "en": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "zh": "Anthropic表示，它将把5%的股份投入“公益基金”"
+      },
+      "summary": {
+        "en": "Anthropic said that it will commit 5% of its shares to the fund.",
+        "zh": "Anthropic表示，它将向该基金承诺其5%的股份。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge AI",
+      "published": "2026-10-19T02:28:10+08:00",
+      "title": {
+        "en": "A woman was arrested in Philly for blocking a delivery robot",
+        "zh": "一名女子因拦截派送机器人而在费城被捕"
+      },
+      "summary": {
+        "en": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's AB…",
+        "zh": "Carolyn Marvin因阻挡优步派送机器人的路径并拒绝让路而被捕，并被指控行为不检。Marvin告诉费城的AB……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+      "source": "MarkTechPost",
+      "published": "2026-10-19T02:20:28+08:00",
+      "title": {
+        "en": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+        "zh": "TinyFish让搜索免费： AI代理阅读网页的真实成本"
+      },
+      "summary": {
+        "en": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passe…",
+        "zh": "读取Web的AI代理需要支付2种成本。首先是检索费用：搜索或获取API对每个请求收取的费用。二是模型处理：内容传递……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T00:30:00+08:00",
+      "title": {
+        "en": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "zh": "迪士尼同意雇用Character.AI的大部分员工"
+      },
+      "summary": {
+        "en": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company co…",
+        "zh": "该文件还表示，在迪士尼获得工作机会的“绝大多数” Character.AI员工都接受了他们。然而，这是一个跟踪马的出价，所以另一家公司合作……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+      "source": "MarkTechPost",
+      "published": "2026-10-18T16:15:04+08:00",
+      "title": {
+        "en": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+        "zh": "Google开源线束2 ，递归代理线束框架"
+      },
+      "summary": {
+        "en": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with n…",
+        "zh": "Google Research发布了Harness2 ，这是一个Apache-2.0框架，可以在测试时重写代理的线束。一个细化步骤将WorkBuddy-Bench上的GLM-5提升了11.5分，其中n…"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge AI",
+      "published": "2026-10-17T23:04:36+08:00",
+      "title": {
+        "en": "Meta removes language that may have allowed it to scrape news sites",
+        "zh": "Meta删除了可能允许其抓取新闻网站的语言"
+      },
+      "summary": {
+        "en": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the fol…",
+        "zh": "在强烈反对之后， Meta再次更新其条款，以删除暗示它可以从包括新闻网站在内的网站上抓取内容来训练其人工智能的语言。具体来说， FOL……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "published": "2026-10-17T03:00:00+08:00",
+      "title": {
+        "en": "How Itaú is building generative AI for its entire customer base",
+        "zh": "Itaú如何为整个客户群构建生成式人工智能"
+      },
+      "summary": {
+        "en": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sect…",
+        "zh": "借助对话界面ia.i和IARA治理平台， Itaú正在将其AI First战略应用于客户和员工--这是巴西监管最严格的部门之一……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-17T02:00:00+08:00",
+      "title": {
+        "en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "zh": "圆桌会议：与人工智能设计病毒的创造者对话"
+      },
+      "summary": {
+        "en": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative…",
+        "zh": "收听下面的会话或观看人工智能可以设计新的生命形式吗？ 2025年，斯坦福大学博士生塞缪尔·金（ Samuel King ）在使用生成式…"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "published": "2026-10-16T00:08:03+08:00",
+      "title": {
+        "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "zh": "使用Google Antigravity加速寻找抗菌肽"
+      },
+      "summary": {
+        "en": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+        "zh": "使用Google Antigravity for Science加速寻找新型抗菌肽。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-15T01:10:15+08:00",
+      "title": {
+        "en": "Researchers use AI to design proteins that cut up other proteins",
+        "zh": "研究人员使用人工智能来设计切割其他蛋白质的蛋白质"
+      },
+      "summary": {
+        "en": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+        "zh": "人工智能设计工具制造的蛋白质可以破坏数百年稳定的键。"
+      }
+    }
+  ]
+}
