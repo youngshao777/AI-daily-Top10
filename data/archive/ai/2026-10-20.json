@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-20",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-20T08:54:13.143331+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-20T07:39:38+08:00",
+      "title": {
+        "en": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+        "zh": "据报道， Nscale和Anthropic正在就另外450亿美元的计算机交易进行谈判"
+      },
+      "summary": {
+        "en": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+        "zh": "8月， Nscale和Anthropic宣布了一项450亿美元的计算机交易。据报道，两家公司正在讨论另一笔同样规模的交易。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-20T06:49:27+08:00",
+      "title": {
+        "en": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+        "zh": "Hugging Face的政策主管表示，嵌入式人工智能评估人员不是一个简单的解决方案"
+      },
+      "summary": {
+        "en": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is bett…",
+        "zh": "人工智能实验室已经将他们的声誉押在模型基准上--据称是中立和准确的评估系统，旨在衡量一个人工智能产品是否投注……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-20T02:22:47+08:00",
+      "title": {
+        "en": "Making the internet better for AI agents might make it worse for everyone else",
+        "zh": "让人工智能代理的互联网变得更好，可能会让其他人变得更糟"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet…",
+        "zh": "这个故事最初出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。直到最近，你还可以划分互联网……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-20T01:45:55+08:00",
+      "title": {
+        "en": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "zh": "“我们看错了” ：颠覆人工智能世界的爆炸性主张"
+      },
+      "summary": {
+        "en": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-w…",
+        "zh": "“我想我有关于神经网络本质的好消息。“人工智能初创公司Goodfire的研究员尼克·卡马拉塔（ Nick Cammarata ）用这些简单的乐观话语启动了26,000瓦......"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-20T00:59:22+08:00",
+      "title": {
+        "en": "AI game clones are making indie developers afraid to show their work",
+        "zh": "人工智能游戏克隆让独立开发者害怕展示他们的作品"
+      },
+      "summary": {
+        "en": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+        "zh": "延迟的Steam Next Fest演示标志着独立开发者面临的问题日益严重。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "source": "The Verge AI",
+      "published": "2026-10-19T22:30:00+08:00",
+      "title": {
+        "en": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+        "zh": "JB Pritzker认为人工智能可以帮助我们活到100岁—或者像核武器一样威胁我们"
+      },
+      "summary": {
+        "en": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running the…",
+        "zh": "今天，我正在与伊利诺伊州州长JB Pritzker交谈，他对人工智能、技术和隐私有很多想法。如果你一直在听这个节目，你知道我的一个跑步者……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+      "source": "MarkTechPost",
+      "published": "2026-10-19T20:37:58+08:00",
+      "title": {
+        "en": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
+        "zh": "MiniMax刚刚推出M3.1闪存： 4280亿MOE代理型号， $ 0.15/M输入"
+      },
+      "summary": {
+        "en": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due Oct…",
+        "zh": "MiniMax发布了M3.1 Flash ，这是一个428B参数的MoE模型，具有约23B的有源参数和1M令牌上下文。API定价为每100万个代币0.15美元/0.60美元，权重将于10月到期…"
+      }
+    },
+    {
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI",
+      "published": "2026-10-19T20:00:00+08:00",
+      "title": {
+        "en": "Advancing coding in low‑resource programming languages",
+        "zh": "推进低资源编程语言编码"
+      },
+      "summary": {
+        "en": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+        "zh": "了解OpenAI如何在低资源编程语言中改进ChatGPT ，并对软件工程、SQLite和COBOL迁移进行新的评估。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.22373",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-19T12:00:00+08:00",
+      "title": {
+        "en": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+        "zh": "结构化权限注入：通过类型化的MCP覆盖对LLM代理进行持续的人为控制"
+      },
+      "summary": {
+        "en": "arXiv:2610.22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remain…",
+        "zh": "arXiv: 2610.22373v1公告类型：新摘要：基于LLM的代理在分布式和多代理系统中越来越多地用作自主编排器，但仍存在控制缺口……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "published": "2026-10-16T00:08:03+08:00",
+      "title": {
+        "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "zh": "使用Google Antigravity加速寻找抗菌肽"
+      },
+      "summary": {
+        "en": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+        "zh": "使用Google Antigravity for Science加速寻找新型抗菌肽。"
+      }
+    }
+  ]
+}
