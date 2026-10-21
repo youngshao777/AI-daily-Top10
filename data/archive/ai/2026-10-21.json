@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-21",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-21T08:22:42.540151+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "source": "The Verge AI",
+      "published": "2026-10-21T07:04:19+08:00",
+      "title": {
+        "en": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+        "zh": "法官驳回Sam Altman姐姐的性虐待诉讼"
+      },
+      "summary": {
+        "en": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her througho…",
+        "zh": "周二，美国地方法院法官扎卡里·布鲁斯通（ Zachary Bluestone ）驳回了安·奥尔特曼（ Ann Altman ）去年提起的诉讼，该诉讼指控她的兄弟、OpenAI首席执行官萨姆·奥尔特曼（ Sam Altman ）对她进行了性"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-21T07:01:23+08:00",
+      "title": {
+        "en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "zh": "Anthropic提出人工智能安全法案，如果超过50人可能被杀，可能会阻止模型"
+      },
+      "summary": {
+        "en": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+        "zh": "拟议的政策似乎提供了针对人工智能疯狂运行的保护措施，但实际上禁止联邦机构在未经法官许可的情况下阻止模型的发布。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-21T06:24:02+08:00",
+      "title": {
+        "en": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+        "zh": "Hugging Face首席执行官警告Netflix的OpenAI黑客纪录片不准确"
+      },
+      "summary": {
+        "en": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't…",
+        "zh": "在您分享Netflix纪录片“AI Gone Rogue”之前，请注意。Hugging Face的联合创始人克莱姆·德朗格（ Clem Delangue ）是这部电影中的主角，他说它进入了“全毁灭模式” ，而不是……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "source": "The Verge AI",
+      "published": "2026-10-21T06:11:34+08:00",
+      "title": {
+        "en": "Google’s more personalized Gemini AI is heading to your car",
+        "zh": "谷歌更个性化的双子座人工智能正走向您的汽车"
+      },
+      "summary": {
+        "en": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Goog…",
+        "zh": "谷歌正在将个人智能引入您的车中的Gemini AI。借助此次更新， Android Auto中的Gemini和内置Google的汽车可以在整个Goog中挖掘您的信息……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/",
+      "source": "MarkTechPost",
+      "published": "2026-10-20T23:22:03+08:00",
+      "title": {
+        "en": "Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs",
+        "zh": "Google开源TorchTPU ，云TPU的原生PyTorch后端"
+      },
+      "summary": {
+        "en": "Google and Meta open-sourced TorchTPU, a native PyTorch backend for Cloud TPUs. It runs eager by default, compiles through torch.compile and XLA, and replaces PyTorch/XLA for new…",
+        "zh": "Google和Meta开源TorchTPU ，这是云TPU的原生PyTorch后端。它默认运行eager ，通过torch.compile和XLA编译，并替换PyTorch/XLA以获得新的……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-20T23:20:25+08:00",
+      "title": {
+        "en": "The new economics of enterprise AI",
+        "zh": "企业人工智能的新经济学"
+      },
+      "summary": {
+        "en": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But on…",
+        "zh": "想象一下，您的公司刚刚发现了电力。起初，只有少数机器在其上运行，没有人担心效率—消耗低，价值显而易见。但是……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+      "source": "MarkTechPost",
+      "published": "2026-10-20T22:31:59+08:00",
+      "title": {
+        "en": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
+        "zh": "DeepSeek开源DeepInfer ， DeepSeek-V4.1-Flash背后的推理框架"
+      },
+      "summary": {
+        "en": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and…",
+        "zh": "DeepSeek开源了DeepInfer ，这是Apache 2.0推理框架，在生产中为DeepSeek-V4.1-Flash提供服务。它针对NVIDIA SM100 GPU和华为Ascend 950 NPU ，并且..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "source": "OpenAI",
+      "published": "2026-10-20T18:00:00+08:00",
+      "title": {
+        "en": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+        "zh": "加盟商使用ChatGPT Work调节现金的时间缩短了94%"
+      },
+      "summary": {
+        "en": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+        "zh": "独立的Schlotzsky's和Cinnabon加盟商将菜单重新定价时间缩短了95% ，并建立了一个可以释放10万美元现金流的工作流程。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-20T00:59:22+08:00",
+      "title": {
+        "en": "AI game clones are making indie developers afraid to show their work",
+        "zh": "人工智能游戏克隆让独立开发者害怕展示他们的作品"
+      },
+      "summary": {
+        "en": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+        "zh": "延迟的Steam Next Fest演示标志着独立开发者面临的问题日益严重。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "published": "2026-10-16T00:08:03+08:00",
+      "title": {
+        "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "zh": "使用Google Antigravity加速寻找抗菌肽"
+      },
+      "summary": {
+        "en": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+        "zh": "使用Google Antigravity for Science加速寻找新型抗菌肽。"
+      }
+    }
+  ]
+}
