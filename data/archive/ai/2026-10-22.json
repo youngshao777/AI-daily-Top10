@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-22",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-22T08:25:44.342817+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T06:51:22+08:00",
+      "title": {
+        "en": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "zh": "Blackstone的Jas Khaira表示，对人工智能建设债务的担忧被夸大了"
+      },
+      "summary": {
+        "en": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+        "zh": "Blackstone的人工智能分析了为什么这家私募股权巨头不会对市场紧张感到恐慌。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
+      "source": "MarkTechPost",
+      "published": "2026-10-22T06:39:41+08:00",
+      "title": {
+        "en": "Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params",
+        "zh": "递归发布Flint ，一种适用于具有2.5B活动参数的Agent的开放式40B MoE本地编码模型"
+      },
+      "summary": {
+        "en": "Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M…",
+        "zh": "Recursive发布了Flint ，这是一个Apache 2.0本地编码模型，总共有40B个活动参数和2.5B个活动参数。它在SWE-bench Verified上报告了74.2 ％ ，在M上报告了每秒125个以上的代币……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "source": "The Verge AI",
+      "published": "2026-10-22T06:33:44+08:00",
+      "title": {
+        "en": "Data centers could erase decades of air quality gains",
+        "zh": "数据中心可以抹去数十年的空气质量提升"
+      },
+      "summary": {
+        "en": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind…",
+        "zh": "新数据中心的涌入可能会使空气污染恢复到自2000年代以来德克萨斯州的空气污染水平，而德克萨斯州的空气污染已经成为物理基础设施的起点。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
+      "source": "MarkTechPost",
+      "published": "2026-10-22T06:15:39+08:00",
+      "title": {
+        "en": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
+        "zh": "Vercel开源耐用性-适用于防撞编码代理"
+      },
+      "summary": {
+        "en": "Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and rede…",
+        "zh": "Vercel发布了durable-harness ，这是一个开源软件包，可记录每个模型和工具调用，因此Pi、OpenCode、Claude Code和Codex会话在崩溃、超时和赎回后恢复……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T05:16:20+08:00",
+      "title": {
+        "en": "TechCrunch Founder Summit 2026: Everything you need to know",
+        "zh": "TechCrunch创始人峰会2026 ：您需要了解的一切"
+      },
+      "summary": {
+        "en": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insi…",
+        "zh": "TechCrunch创始人峰会于11月4日在波士顿举行，为期一整天，所有阶段的创始人都会与顶级风险投资家和经验丰富的企业家建立联系，以获得战术洞察力……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI",
+      "published": "2026-10-22T05:00:00+08:00",
+      "title": {
+        "en": "Broad access through consistent standards",
+        "zh": "通过一致的标准实现广泛的访问"
+      },
+      "summary": {
+        "en": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+        "zh": "OpenAI如何与分销合作伙伴合作，以维护一致的保障措施，支持负责任的访问，并在我们的使用政策中明确期望。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-22T03:44:40+08:00",
+      "title": {
+        "en": "The new human-crafted Apple Music brand matters in an AI world",
+        "zh": "人工打造的新Apple Music品牌在人工智能世界中举足轻重"
+      },
+      "summary": {
+        "en": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+        "zh": "观点：在人工智能的世界里，展示人类的手在做东西是有帮助的。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.26887",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-21T12:00:00+08:00",
+      "title": {
+        "en": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+        "zh": "Navalia ：通过可验证的任务综合和长期后培训推进Cowork代理"
+      },
+      "summary": {
+        "en": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, to…",
+        "zh": "arXiv: 2610.26887v1公告类型：新摘要：大型语言模型（ LLM ）代理正在从会话助理发展成为能够自主规划的Cowork代理，到……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-20T23:20:25+08:00",
+      "title": {
+        "en": "The new economics of enterprise AI",
+        "zh": "企业人工智能的新经济学"
+      },
+      "summary": {
+        "en": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But on…",
+        "zh": "想象一下，您的公司刚刚发现了电力。起初，只有少数机器在其上运行，没有人担心效率—消耗低，价值显而易见。但是……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "published": "2026-10-16T00:08:03+08:00",
+      "title": {
+        "en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "zh": "使用Google Antigravity加速寻找抗菌肽"
+      },
+      "summary": {
+        "en": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+        "zh": "使用Google Antigravity for Science加速寻找新型抗菌肽。"
+      }
+    }
+  ]
+}
