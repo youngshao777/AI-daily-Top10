@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-23",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-23T08:23:43.053490+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-23T06:08:24+08:00",
+      "title": {
+        "en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "zh": "OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息"
+      },
+      "summary": {
+        "en": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+        "zh": "如果OpenAI在这轮融资中获得超过1万亿美元的估值，它将打破有史以来估值最高的私人公司的纪录。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge AI",
+      "published": "2026-10-23T05:51:25+08:00",
+      "title": {
+        "en": "Canva’s first AI image model plans designs before generating them",
+        "zh": "Canva的首个AI图像模型在生成设计之前对其进行规划"
+      },
+      "summary": {
+        "en": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craf…",
+        "zh": "通过推出与OpenAI、微软和谷歌直接竞争的图像生成模型， Canva正在更深入地研究人工智能。这个名为Canva Craf的模型……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-23T05:17:29+08:00",
+      "title": {
+        "en": "Designing an AI serving harness built to last",
+        "zh": "设计一款经久耐用的AI服务线束"
+      },
+      "summary": {
+        "en": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several year…",
+        "zh": "企业人工智能的下一个竞争优势与其说与您选择哪种模式有关，不如说与您围绕它构建的内容有关。这是一个重要的转变。在过去的几年里……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "source": "The Verge AI",
+      "published": "2026-10-23T04:32:05+08:00",
+      "title": {
+        "en": "Meta’s AI could still scrape news sites, legal experts say",
+        "zh": "法律专家表示， Meta的人工智能仍然可以抓取新闻网站"
+      },
+      "summary": {
+        "en": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren…",
+        "zh": "Meta已经调整了其业务条款，删除了表明它可以在新闻网站（如The Verge ）上自由训练其人工智能模型的语言-但法律专家表示，这些变化是......"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-23T03:07:09+08:00",
+      "title": {
+        "en": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "zh": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式"
+      },
+      "summary": {
+        "en": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+        "zh": "新功能允许客服代表登录客户的个人账号，同时保护用于保护这些账号的私人凭据。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/decisions-api",
+      "source": "OpenAI",
+      "published": "2026-10-23T03:00:00+08:00",
+      "title": {
+        "en": "Build more responsive apps with the Decisions API",
+        "zh": "使用Decisions API构建响应速度更快的应用程序"
+      },
+      "summary": {
+        "en": "Fast, focused, low-cost decisions for any application.",
+        "zh": "适用于任何应用程序的快速、专注、低成本决策。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
+      "source": "MarkTechPost",
+      "published": "2026-10-23T01:33:25+08:00",
+      "title": {
+        "en": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
+        "zh": "Liquid AI推出适用于Sub-50 ms LFM的实时推理引擎RIPL"
+      },
+      "summary": {
+        "en": "Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The po…",
+        "zh": "Liquid AI发布了RIPL ，这是其LFM模型的实时推理引擎。在一个B200上， RIPL上的LFM2.5-1.2B显示p95潜伏期比vLLM上的Qwen3.5-0.8B低14.4至28.4倍。PO…"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind",
+      "published": "2026-10-22T22:30:24+08:00",
+      "title": {
+        "en": "Beyond tree cover: mapping the world’s forest types",
+        "zh": "超越树木覆盖：绘制世界森林类型地图"
+      },
+      "summary": {
+        "en": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+        "zh": "一张全球地图，将地球上每10米的土地划分为不同的森林类型。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.26887",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-22T12:00:00+08:00",
+      "title": {
+        "en": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+        "zh": "Navalia ：通过可验证的任务综合和长期后培训推进Cowork代理"
+      },
+      "summary": {
+        "en": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, to…",
+        "zh": "arXiv: 2610.26887v1公告类型：新摘要：大型语言模型（ LLM ）代理正在从会话助理发展成为能够自主规划的Cowork代理，到……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-22T03:44:40+08:00",
+      "title": {
+        "en": "The new human-crafted Apple Music brand matters in an AI world",
+        "zh": "人工打造的新Apple Music品牌在人工智能世界中举足轻重"
+      },
+      "summary": {
+        "en": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+        "zh": "观点：在人工智能的世界里，展示人类的手在做东西是有帮助的。"
+      }
+    }
+  ]
+}
