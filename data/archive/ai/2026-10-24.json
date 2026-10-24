@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-24",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-24T08:15:20.609783+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-24T07:05:49+08:00",
+      "title": {
+        "en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "zh": "OpenAI表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”"
+      },
+      "summary": {
+        "en": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "zh": "OpenAI将在其一名工程师表示该解决方案不起作用的几周后，从互联网上切断前沿模型。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+      "source": "MarkTechPost",
+      "published": "2026-10-24T06:52:40+08:00",
+      "title": {
+        "en": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+        "zh": "Moonshot AI发布Kimi K3.1 Pro ：总计2.8T/104B有源参数（ MoE ）模型，具有1M上下文"
+      },
+      "summary": {
+        "en": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open…",
+        "zh": "Moonshot AI发布了Kimi K3.1 Pro ，这是一个2.8T参数、104B激活的MoE模型，具有100万令牌的上下文。它在Terminal-Bench 4.0上的得分为65.7% ，每百万代币的成本为2美元/10美元，并且开放……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-24T05:59:19+08:00",
+      "title": {
+        "en": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "zh": "圣诞节最热门的玩具？英伟达首席执行官与可爱的Microduck机器人玩耍，售出2万台"
+      },
+      "summary": {
+        "en": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+        "zh": "机器人跺着小脚，发出微小的R2-D2声音，坐了下来，摔死了“小睡一会儿” ，然后在语音命令下翻腾起来。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge AI",
+      "published": "2026-10-24T05:11:07+08:00",
+      "title": {
+        "en": "OpenAI now trains its frontier AI models with no internet access",
+        "zh": "OpenAI现在在没有互联网接入的情况下训练其前沿人工智能模型"
+      },
+      "summary": {
+        "en": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline…",
+        "zh": "在一系列流氓黑客事件发生后， OpenAI现在正在训练其最先进的人工智能模型，而无需访问互联网。在周五的一篇博客文章中， OpenAI表示它建立了一个离线..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "published": "2026-10-24T01:00:00+08:00",
+      "title": {
+        "en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "zh": "快速扩展在线存储，为超过10亿ChatGPT用户提供服务（第二部分）"
+      },
+      "summary": {
+        "en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+        "zh": "了解OpenAI如何通过可靠的多租户、全局缓存和Azure Cosmos DB扩展Habitat ，为ChatGPT提供更快12倍的读取速度。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+      "source": "MarkTechPost",
+      "published": "2026-10-23T16:58:47+08:00",
+      "title": {
+        "en": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+        "zh": "TinyFish打破了面向生产AI Agent的Agent搜索架构"
+      },
+      "summary": {
+        "en": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explai…",
+        "zh": "TinyFish发表了两篇关于代理搜索的工程研究文章。其中一个定义了具有证据合约和有限重试的7阶段生产架构。另一个解释……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.28686",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-23T12:00:00+08:00",
+      "title": {
+        "en": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+        "zh": "小模型要求更好：检索增强生成的微调查询澄清"
+      },
+      "summary": {
+        "en": "arXiv:2610.28686v1 Announce Type: new Abstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider mul…",
+        "zh": "arXiv: 2610.28686v1 Announce Type: new Abstract:查询澄清对于面临模糊用户查询的检索增强生成(RAG)系统至关重要。我们认为MUL…"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-23T05:17:29+08:00",
+      "title": {
+        "en": "Designing an AI serving harness built to last",
+        "zh": "设计一款经久耐用的AI服务线束"
+      },
+      "summary": {
+        "en": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several year…",
+        "zh": "企业人工智能的下一个竞争优势与其说与您选择哪种模式有关，不如说与您围绕它构建的内容有关。这是一个重要的转变。在过去的几年里……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind",
+      "published": "2026-10-22T22:30:24+08:00",
+      "title": {
+        "en": "Beyond tree cover: mapping the world’s forest types",
+        "zh": "超越树木覆盖：绘制世界森林类型地图"
+      },
+      "summary": {
+        "en": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+        "zh": "一张全球地图，将地球上每10米的土地划分为不同的森林类型。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-22T03:44:40+08:00",
+      "title": {
+        "en": "The new human-crafted Apple Music brand matters in an AI world",
+        "zh": "人工打造的新Apple Music品牌在人工智能世界中举足轻重"
+      },
+      "summary": {
+        "en": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+        "zh": "观点：在人工智能的世界里，展示人类的手在做东西是有帮助的。"
+      }
+    }
+  ]
+}
