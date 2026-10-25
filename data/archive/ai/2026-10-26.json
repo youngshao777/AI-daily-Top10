@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-26",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-26T07:48:43.101290+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-26T05:31:16+08:00",
+      "title": {
+        "en": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "zh": "Grok发布其人工智能生成的“奥德赛”的前七分钟"
+      },
+      "summary": {
+        "en": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+        "zh": "只要您不追求艺术性、灵感或人类兴趣，镜头看起来还可以。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+      "source": "MarkTechPost",
+      "published": "2026-10-26T05:15:21+08:00",
+      "title": {
+        "en": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+        "zh": "Nanbeige发布33B开放代理编码模型Nanbeige4.3-33B"
+      },
+      "summary": {
+        "en": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The po…",
+        "zh": "Nanbeige LLM Lab发布了Nanbeige4.3-33B ，这是一款具有512K上下文的33B密集Apache 2.0模型。它在Terminal-Bench 2.1上报告了80.9 ，并将教授即将到来的Nanbeige4.3-3B。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-26T00:57:32+08:00",
+      "title": {
+        "en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "zh": "Apollo经济学家表示，人工智能为大多数公司带来“零财务回报”"
+      },
+      "summary": {
+        "en": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+        "zh": "“尽管围绕人工智能进行了大量投资和广泛炒作，但该技术为科技以外的美国企业带来了零财务回报。”"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+      "source": "MarkTechPost",
+      "published": "2026-10-26T00:53:40+08:00",
+      "title": {
+        "en": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+        "zh": "拥抱面部释放Carbon-X ，这是一种14B开放DNA语言模型，首次将DNA和自然语言结合在一起"
+      },
+      "summary": {
+        "en": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under…",
+        "zh": "Hugging Face发布了基于Qwen3-14B构建的开放式14.8B DNA语言模型Carbon-X。它在聊天中读取原始DNA ，用英语回答，在5个DNA基准中平均为66.7% ……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge AI",
+      "published": "2026-10-25T21:25:32+08:00",
+      "title": {
+        "en": "r/opensource just banned AI, non-English speakers, and more",
+        "zh": "r/opensource刚刚禁止了人工智能、非英语人士等"
+      },
+      "summary": {
+        "en": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses A…",
+        "zh": "R/opensource的mod发布了新的提交规则，其中包括禁止使用人工智能的项目。周六晚上发布的帖子开头说： “如果您的项目使用……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge AI",
+      "published": "2026-10-25T20:00:00+08:00",
+      "title": {
+        "en": "Google’s AI search changes upended online publishing",
+        "zh": "谷歌的人工智能搜索变革颠覆了在线发布"
+      },
+      "summary": {
+        "en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in o…",
+        "zh": "The Stepback是一份每周时事通讯，详细介绍了科技界的一个重要故事。有关人工智能对网络影响的更多信息，请关注Emma Roth。后退将在……内到达"
+      }
+    },
+    {
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "published": "2026-10-24T01:00:00+08:00",
+      "title": {
+        "en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "zh": "快速扩展在线存储，为超过10亿ChatGPT用户提供服务（第二部分）"
+      },
+      "summary": {
+        "en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+        "zh": "了解OpenAI如何通过可靠的多租户、全局缓存和Azure Cosmos DB扩展Habitat ，为ChatGPT提供更快12倍的读取速度。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-23T05:17:29+08:00",
+      "title": {
+        "en": "Designing an AI serving harness built to last",
+        "zh": "设计一款经久耐用的AI服务线束"
+      },
+      "summary": {
+        "en": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several year…",
+        "zh": "企业人工智能的下一个竞争优势与其说与您选择哪种模式有关，不如说与您围绕它构建的内容有关。这是一个重要的转变。在过去的几年里……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind",
+      "published": "2026-10-22T22:30:24+08:00",
+      "title": {
+        "en": "Beyond tree cover: mapping the world’s forest types",
+        "zh": "超越树木覆盖：绘制世界森林类型地图"
+      },
+      "summary": {
+        "en": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+        "zh": "一张全球地图，将地球上每10米的土地划分为不同的森林类型。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-22T03:44:40+08:00",
+      "title": {
+        "en": "The new human-crafted Apple Music brand matters in an AI world",
+        "zh": "人工打造的新Apple Music品牌在人工智能世界中举足轻重"
+      },
+      "summary": {
+        "en": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+        "zh": "观点：在人工智能的世界里，展示人类的手在做东西是有帮助的。"
+      }
+    }
+  ]
+}
