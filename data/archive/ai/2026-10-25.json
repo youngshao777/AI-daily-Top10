@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-25",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-25T07:59:34.231983+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge AI",
+      "published": "2026-10-25T05:29:12+08:00",
+      "title": {
+        "en": "Blue Planet III is keeping the rough edges in the age of AI",
+        "zh": "蓝色星球III在人工智能时代保持着粗糙的边缘"
+      },
+      "summary": {
+        "en": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, cr…",
+        "zh": "英国广播公司的蓝色星球III希望通过拍摄不那么完美的照片来证明其真实性。自然系列以前的化身是由他们华丽的， cr……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-25T03:00:00+08:00",
+      "title": {
+        "en": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "zh": "人工智能墓地：未成功完成的项目和初创公司的运行列表"
+      },
+      "summary": {
+        "en": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "zh": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge AI",
+      "published": "2026-10-25T02:32:21+08:00",
+      "title": {
+        "en": "Pennsylvania will require labels on AI-generated ads",
+        "zh": "宾夕法尼亚州将要求在人工智能生成的广告上添加标签"
+      },
+      "summary": {
+        "en": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires…",
+        "zh": "周四，宾夕法尼亚州州长乔希·夏皮罗（ Josh Shapiro ）签署了《人工智能欺骗性广告法》（ Artificial Intelligence Deceptive Advertising Act ） ，要求披露人工智能生成的广告。法律要求……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-25T00:00:00+08:00",
+      "title": {
+        "en": "Block’s new voice model sounds eerily human",
+        "zh": "Block的新声音模型听起来很人性化"
+      },
+      "summary": {
+        "en": "Block said that the voice model can run locally on a MacBook M4 Max",
+        "zh": "布洛克说，语音模型可以在MacBook M4 Max上本地运行"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+      "source": "MarkTechPost",
+      "published": "2026-10-24T19:12:27+08:00",
+      "title": {
+        "en": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+        "zh": "了解Anthropic的沙盒运行时：适用于AI Agent的操作系统级沙盒，无容器"
+      },
+      "summary": {
+        "en": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt o…",
+        "zh": "Anthropic sandbox-runtime (srt)是Claude Code背后的开源操作系统级沙盒。它通过安全带限制代理、MCP服务器和CLI工具的文件和网络访问……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+      "source": "MarkTechPost",
+      "published": "2026-10-24T18:29:31+08:00",
+      "title": {
+        "en": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+        "zh": "带有Letta的有状态代理工程Copilots ：核心内存、共享状态、语义检索、自定义工具、流式处理和便携式代理工作流程"
+      },
+      "summary": {
+        "en": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival…",
+        "zh": "了解如何通过与Letta构建有状态的工程副驾驶，将代理内存扩展到基本提示之外。本综合指南涵盖可检测核心内存、存档……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "published": "2026-10-24T01:00:00+08:00",
+      "title": {
+        "en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "zh": "快速扩展在线存储，为超过10亿ChatGPT用户提供服务（第二部分）"
+      },
+      "summary": {
+        "en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+        "zh": "了解OpenAI如何通过可靠的多租户、全局缓存和Azure Cosmos DB扩展Habitat ，为ChatGPT提供更快12倍的读取速度。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-23T05:17:29+08:00",
+      "title": {
+        "en": "Designing an AI serving harness built to last",
+        "zh": "设计一款经久耐用的AI服务线束"
+      },
+      "summary": {
+        "en": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several year…",
+        "zh": "企业人工智能的下一个竞争优势与其说与您选择哪种模式有关，不如说与您围绕它构建的内容有关。这是一个重要的转变。在过去的几年里……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind",
+      "published": "2026-10-22T22:30:24+08:00",
+      "title": {
+        "en": "Beyond tree cover: mapping the world’s forest types",
+        "zh": "超越树木覆盖：绘制世界森林类型地图"
+      },
+      "summary": {
+        "en": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+        "zh": "一张全球地图，将地球上每10米的土地划分为不同的森林类型。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-22T03:44:40+08:00",
+      "title": {
+        "en": "The new human-crafted Apple Music brand matters in an AI world",
+        "zh": "人工打造的新Apple Music品牌在人工智能世界中举足轻重"
+      },
+      "summary": {
+        "en": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+        "zh": "观点：在人工智能的世界里，展示人类的手在做东西是有帮助的。"
+      }
+    }
+  ]
+}
