@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-27",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-27T09:08:04.548591+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge AI",
+      "published": "2026-10-27T07:34:58+08:00",
+      "title": {
+        "en": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "zh": "OpenAI宣布三大科学发现和与学术界合作的新方式"
+      },
+      "summary": {
+        "en": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\"…",
+        "zh": "在大量发布数百份手稿（据称这些手稿包含了长期存在的数学问题的解决方案）不到一个月后， OpenAI又带着另外三个“专业”回来了……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI",
+      "published": "2026-10-27T06:00:00+08:00",
+      "title": {
+        "en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "zh": "Greptile使用GPT-6 Astra进行代码审查之外的错误检测"
+      },
+      "summary": {
+        "en": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+        "zh": "Greptile如何使用GPT-6 Astra测试用户工作流程， Daybreak如何加强安全性， Codex如何减少返工。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "source": "The Verge AI",
+      "published": "2026-10-27T05:45:31+08:00",
+      "title": {
+        "en": "Anthropic is burning gas to feed the AI boom",
+        "zh": "人类正在燃烧气体来喂养人工智能热潮"
+      },
+      "summary": {
+        "en": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locati…",
+        "zh": "在准备上市时， Anthropic的S-1申请使生成式人工智能的甲烷依赖性显而易见。“电力供应和数据中心位置的竞争……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-27T01:45:43+08:00",
+      "title": {
+        "en": "Will the real Anthropic please stand up",
+        "zh": "真正的人类请站起来"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anth…",
+        "zh": "这个故事最初出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。经过数周的疯狂猜测， Anth……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-27T00:49:42+08:00",
+      "title": {
+        "en": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "zh": "Anthropic的IPO申请揭示了其吸引企业客户的策略"
+      },
+      "summary": {
+        "en": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s m…",
+        "zh": "Anthropic的S-1显示，其$ 100,000以上的客户中有一半以上现在同时使用Claude平台和第一方应用程序，这本交叉销售的剧本让人想起亚马逊。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
+      "source": "MarkTechPost",
+      "published": "2026-10-27T00:46:09+08:00",
+      "title": {
+        "en": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
+        "zh": "Nace AI发布用于搜索AI代理的Drex ： BrowseComp-Plus上有92.05 ％的搜索呼叫量为12.6"
+      },
+      "summary": {
+        "en": "Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer…",
+        "zh": "Nace AI发布了Drex for Search ，将其Drex决策模型用于记录AI代理的搜索。NACE在BrowseComp-Plus上报告了92.05 ％的搜索呼叫，搜索呼叫率为12.6 ％ ，而..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI",
+      "published": "2026-10-26T22:30:00+08:00",
+      "title": {
+        "en": "Working with academic communities to build scientific understanding",
+        "zh": "与学术界合作，建立科学理解"
+      },
+      "summary": {
+        "en": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+        "zh": "OpenAI分享了Kakeya猜想、指数时间假设和量子色动力学的模型结果，以及研究人员如何验证和利用这些结果。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.31701",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-26T12:00:00+08:00",
+      "title": {
+        "en": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+        "zh": "权衡感知区域设计：企业客户到销售人员分配的多目标决策系统"
+      },
+      "summary": {
+        "en": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation de…",
+        "zh": "arXiv: 2610.31701v1公告类型：新摘要：企业客户旅程不仅受到产品体验和营销的影响，还受到经常性资源分配的影响。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind",
+      "published": "2026-10-22T22:30:24+08:00",
+      "title": {
+        "en": "Beyond tree cover: mapping the world’s forest types",
+        "zh": "超越树木覆盖：绘制世界森林类型地图"
+      },
+      "summary": {
+        "en": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+        "zh": "一张全球地图，将地球上每10米的土地划分为不同的森林类型。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-22T03:44:40+08:00",
+      "title": {
+        "en": "The new human-crafted Apple Music brand matters in an AI world",
+        "zh": "人工打造的新Apple Music品牌在人工智能世界中举足轻重"
+      },
+      "summary": {
+        "en": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+        "zh": "观点：在人工智能的世界里，展示人类的手在做东西是有帮助的。"
+      }
+    }
+  ]
+}
