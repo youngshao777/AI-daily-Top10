@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-28",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-28T08:57:55.430972+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T07:34:27+08:00",
+      "title": {
+        "en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "zh": "父母起诉OpenAI ，声称GPT-4o指导他们的女儿戒断癫痫药物"
+      },
+      "summary": {
+        "en": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+        "zh": "一家人正在起诉OpenAI ，称ChatGPT指导他们的女儿在2月份去世前悄悄减少她的癫痫发作药物，并向她的医生隐瞒。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T06:55:41+08:00",
+      "title": {
+        "en": "The data center boom has an upside: innovation for the US grid",
+        "zh": "数据中心热潮有一个好处：美国电网的创新"
+      },
+      "summary": {
+        "en": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+        "zh": "业内人士表示，随着人工智能热潮对现有电网的压力，电网现代化的各种新机遇也随之出现。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+      "source": "MarkTechPost",
+      "published": "2026-10-28T05:54:37+08:00",
+      "title": {
+        "en": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
+        "zh": "认识LEANN ：将6000万块RAG索引从201 GB缩小到6 GB的开源矢量索引"
+      },
+      "summary": {
+        "en": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of…",
+        "zh": "加州大学伯克利分校的LEANN矢量索引存储修剪后的图，并在查询时重新计算嵌入。它以90%的召回率匹配HNSW准确率，使用4 GB而不是188 GB ，代价是……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+      "source": "MarkTechPost",
+      "published": "2026-10-28T05:08:02+08:00",
+      "title": {
+        "en": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
+        "zh": "Liquid AI发布LFM3 ： 6款开放式重量2B级多式联运车型"
+      },
+      "summary": {
+        "en": "Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1…",
+        "zh": "Liquid AI发布了LFM3 ， 6种用于文本、视觉、音频、全方位和决策的开放式权重2B级模型。LFM3-1.7B使用三重混合主干， 256K上下文窗口，适合大约1…"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge AI",
+      "published": "2026-10-28T04:48:58+08:00",
+      "title": {
+        "en": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+        "zh": "研究人员厌倦了OpenAI的突破"
+      },
+      "summary": {
+        "en": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its f…",
+        "zh": "周一， OpenAI宣布了数学、计算机科学和物理学领域令人印象深刻的突破，以及该公司所说的不断发展的沟通方式。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-28T02:49:08+08:00",
+      "title": {
+        "en": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+        "zh": "Vibe基因？自然（ ISH ）语言涉及蛋白质、基因组设计软件"
+      },
+      "summary": {
+        "en": "You can apparently now tell AI tools what sort of protein you want them to make.",
+        "zh": "显然，现在你可以告诉人工智能工具你想要它们制造什么样的蛋白质。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind",
+      "published": "2026-10-28T00:01:38+08:00",
+      "title": {
+        "en": "Genie 4: A new generation of world simulation",
+        "zh": "精灵4 ：新一代世界模拟"
+      },
+      "summary": {
+        "en": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+        "zh": "精灵4 ：我们的新世界模型在实时模拟中解锁了前所未有的真实感。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/retell-ai",
+      "source": "OpenAI",
+      "published": "2026-10-27T23:00:00+08:00",
+      "title": {
+        "en": "Retell uses OpenAI models to help power 100M monthly calls",
+        "zh": "Retell使用OpenAI模型来帮助推动每月1亿次通话"
+      },
+      "summary": {
+        "en": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+        "zh": "GPT-6 Astra在Retell的语音代理基准中名列前茅，而Codex帮助其达到了每名员工160万美元的年收入运行率。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-27T19:19:18+08:00",
+      "title": {
+        "en": "Industrial Intelligence: The next growth opportunity for manufacturing",
+        "zh": "工业智能：制造业的下一个增长机会"
+      },
+      "summary": {
+        "en": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to…",
+        "zh": "每个制造商都有自己的工业智能。有些是有记录的，有些则是经验丰富的工人所掌握的知识。考虑一位经验丰富的操作员准备……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.33096",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-27T12:00:00+08:00",
+      "title": {
+        "en": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+        "zh": "惯性约束聚变中激光脉冲形状设计的逆向建模"
+      },
+      "summary": {
+        "en": "arXiv:2610.33096v1 Announce Type: new Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implicatio…",
+        "zh": "arXiv: 2610.33096v1公告类型：新摘要：实现实用聚变能仍然是最紧迫的未解决的科学挑战之一，具有巨大的含义……"
+      }
+    }
+  ]
+}
