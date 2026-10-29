@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-29",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-29T09:32:55.444425+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge AI",
+      "published": "2026-10-29T07:05:39+08:00",
+      "title": {
+        "en": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+        "zh": "亚当·莫塞里（ Adam Mosseri ）表示，围绕人工智能的消极情绪“会变得更糟”"
+      },
+      "summary": {
+        "en": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really do…",
+        "zh": "当被问及人工智能和大学生在毕业典礼上嘘科技CEO的趋势时， Instagram负责人Adam Mosseri在接受采访时承认，很多人确实……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-29T05:58:32+08:00",
+      "title": {
+        "en": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+        "zh": "微软刚刚分享了Azure的实际收入： $ 332亿"
+      },
+      "summary": {
+        "en": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market…",
+        "zh": "微软从未以美元披露Azure的季度收入。但第一次，我们可以看到它离击败市场上最大的竞争对手有多近……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-29T05:48:37+08:00",
+      "title": {
+        "en": "Google expands AI Search ads globally as core ad growth slows",
+        "zh": "随着核心广告增长放缓，谷歌在全球范围内扩展AI搜索广告"
+      },
+      "summary": {
+        "en": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+        "zh": "该公告与母公司Alphabet的第三季度收益报告同时发布，该报告的收入同比增长25% ，达到1276亿美元（ $ ）。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "source": "The Verge AI",
+      "published": "2026-10-29T05:34:04+08:00",
+      "title": {
+        "en": "Akai is embracing vibe-coded mods with an open-source MPC",
+        "zh": "Akai正在使用开源MPC拥抱氛围编码的模组"
+      },
+      "summary": {
+        "en": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the…",
+        "zh": "MPC示例密钥尚未正式公布，但Akai已经通过vibe编码展示了改装社区正在烹饪的东西。Akai决定拥抱……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-29T04:32:02+08:00",
+      "title": {
+        "en": "Creating AI value with enterprise context",
+        "zh": "利用企业环境创造人工智能价值"
+      },
+      "summary": {
+        "en": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow…",
+        "zh": "在整个企业中，任何数量的人工智能平台、系统和工具都可以同时工作--例如，人工智能驱动的客户平台、会话助手和工作流程……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+      "source": "MarkTechPost",
+      "published": "2026-10-29T01:48:38+08:00",
+      "title": {
+        "en": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+        "zh": "谷歌DeepMind推出其顶级网络防御和编码模型Gemini 4 Carbon"
+      },
+      "summary": {
+        "en": "Google DeepMind introduced Gemini 4 Carbon, a frontier model that scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro. Access starts with vetted cyb…",
+        "zh": "谷歌DeepMind推出了Gemini 4 Carbon ，这是一种前沿模型，在人工智能分析智能指数上得分为59分，在SEC-bench Pro上得分为88.2%。访问权限始于经过审核的网络……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-29T01:46:32+08:00",
+      "title": {
+        "en": "Google AI gets cagey when asked who won the 2020 elections",
+        "zh": "当被问及谁赢得2020年大选时，谷歌人工智能变得谨慎"
+      },
+      "summary": {
+        "en": "But the AI responses get more forthright when asked outside the US.",
+        "zh": "但当在美国境外被问及时，人工智能的回应变得更加直截了当。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind",
+      "published": "2026-10-29T01:00:58+08:00",
+      "title": {
+        "en": "Gemini 4 Carbon: Our next frontier model",
+        "zh": "Gemini 4 Carbon ：我们的下一个前沿车型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI",
+      "published": "2026-10-28T21:15:00+08:00",
+      "title": {
+        "en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "zh": "OpenAI和ServiceNow扩展跨企业工作流程的合作伙伴关系"
+      },
+      "summary": {
+        "en": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "zh": "OpenAI和ServiceNow扩大了合作伙伴关系，将OpenAI模型和代理引入ServiceNow和ServiceNow工作流程，并将其引入ChatGPT和Codex。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.35942",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-28T12:00:00+08:00",
+      "title": {
+        "en": "Counting the Bandages: On measuring the time that AI saves",
+        "zh": "统计绷带：测量人工智能节省的时间"
+      },
+      "summary": {
+        "en": "arXiv:2610.35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock rec…",
+        "zh": "arXiv: 2610.35942v1公告类型：新摘要：我认为人工智能帮助节省时间意味着什么。我对比了秒表视图，无论时钟记录什么，都可以节省时间……"
+      }
+    }
+  ]
+}
