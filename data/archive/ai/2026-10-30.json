@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-30",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-30T09:32:40.147652+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T09:20:48+08:00",
+      "title": {
+        "en": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "zh": "你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免"
+      },
+      "summary": {
+        "en": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "zh": "肯塔基大学管理员大卫·杜尔曼（ David Durman ）最近获得了在工作场所使用人工智能的宗教豁免。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T07:42:22+08:00",
+      "title": {
+        "en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "zh": "Jassy说， AWS将是一项$ 1T的业务。但首先，它将花费巨大。"
+      },
+      "summary": {
+        "en": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO s…",
+        "zh": "亚马逊希望成为人工智能云计算之王，并成为首个营收达1万$的业务。但要做到这一点，它将不得不继续其资本支出狂潮，其首席执行官..."
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
+      "source": "MarkTechPost",
+      "published": "2026-10-30T05:20:29+08:00",
+      "title": {
+        "en": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+        "zh": "Baseten以每100万个代币0.01 $的价格发布joey-1 ，这是一个2B决策模型"
+      },
+      "summary": {
+        "en": "Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input…",
+        "zh": "Baseten发布了joey-1 ，这是一种2B开放权重决策模型，返回校准概率而不是文本。它以20毫秒P50延迟运行，每百万次输入成本为0.01 $ ……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "source": "The Verge AI",
+      "published": "2026-10-30T02:45:31+08:00",
+      "title": {
+        "en": "You can generate and edit Google Docs files directly in Gemini chats now",
+        "zh": "您现在可以直接在Gemini聊天中生成和编辑Google文档文件"
+      },
+      "summary": {
+        "en": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capa…",
+        "zh": "现在，您可以直接在Google Gemini中生成、预览和编辑PDF、Google文档、Google表格、幻灯片、Markdown文件、TXT文件和代码。新的文件编辑Capa…"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
+      "source": "MarkTechPost",
+      "published": "2026-10-30T02:28:57+08:00",
+      "title": {
+        "en": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
+        "zh": "Prime Intellect发布Prime Mega MoE ：可训练的融合MoE内核， 3.11 x更快的前进通行证"
+      },
+      "summary": {
+        "en": "Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in pr…",
+        "zh": "Prime Intellect发布了Prime Mega MoE ，这是DeepSeek融合的Mega MoE内核的反向传递。它使内核可以进行培训，并将Qwen3 MoE培训步骤的速度提高了34 ％ ……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "published": "2026-10-30T01:00:00+08:00",
+      "title": {
+        "en": "An updated Model Spec for more capable and beneficial AI",
+        "zh": "更新的模型规格，以实现更强大、更有益的人工智能"
+      },
+      "summary": {
+        "en": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+        "zh": "OpenAI更新的模型规范概述了五个核心价值观，以引导更有能力的人工智能走向合理的判断、人为代理和对人类意图的忠诚。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "source": "The Verge AI",
+      "published": "2026-10-30T00:00:00+08:00",
+      "title": {
+        "en": "Microsoft’s AI future has fewer jobs",
+        "zh": "微软的人工智能未来工作岗位减少"
+      },
+      "summary": {
+        "en": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundam…",
+        "zh": "对于任何密切关注微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）过去几年所说的话的人来说，本周似乎是人工智能即将筹集资金的最明显迹象……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-29T18:11:12+08:00",
+      "title": {
+        "en": "We urgently need to monitor AI agents’ actions in real time",
+        "zh": "我们迫切需要实时监控AI代理的行为"
+      },
+      "summary": {
+        "en": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they beli…",
+        "zh": "今年夏天，数百名OpenAI特工试图在网络安全测试中作弊。他们突破了测试环境，成功入侵了Hugging Face ，他们相信这个网站……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-29T01:46:32+08:00",
+      "title": {
+        "en": "Google AI gets cagey when asked who won the 2020 elections",
+        "zh": "当被问及谁赢得2020年大选时，谷歌人工智能变得谨慎"
+      },
+      "summary": {
+        "en": "But the AI responses get more forthright when asked outside the US.",
+        "zh": "但当在美国境外被问及时，人工智能的回应变得更加直截了当。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind",
+      "published": "2026-10-29T01:00:58+08:00",
+      "title": {
+        "en": "Gemini 4 Carbon: Our next frontier model",
+        "zh": "Gemini 4 Carbon ：我们的下一个前沿车型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
