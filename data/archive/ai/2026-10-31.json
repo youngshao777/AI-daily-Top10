@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-31",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-10-31T09:25:07.093965+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-31T09:20:05+08:00",
+      "title": {
+        "en": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "zh": "英伟达将为Nscale位于西弗吉尼亚州的人工智能数据中心配音"
+      },
+      "summary": {
+        "en": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "zh": "当投资者对人工智能支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-31T06:56:13+08:00",
+      "title": {
+        "en": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "zh": "专注于隐私的人工智能助手Ollie正在关闭"
+      },
+      "summary": {
+        "en": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+        "zh": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手Ollie的创始人表示，它将在一周内关闭。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge AI",
+      "published": "2026-10-31T06:32:53+08:00",
+      "title": {
+        "en": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "zh": "苹果智能终于借助iOS 27.3登陆中国"
+      },
+      "summary": {
+        "en": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will…",
+        "zh": "据MacRumors报道，苹果将在中国推出iOS 27.3版的Apple Intelligence。Apple Intelligence功能将……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge AI",
+      "published": "2026-10-31T04:48:43+08:00",
+      "title": {
+        "en": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+        "zh": "山姆·奥尔特曼（ Sam Altman ）说， RAM在数据中心比在办公桌上更好"
+      },
+      "summary": {
+        "en": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data cent…",
+        "zh": "当被问及供应链短缺，例如持续的RAM短缺时， OpenAI首席执行官Sam Altman在接受采访时表示，在个人PC中拥有RAM而不是数据中心是“可怕的” ……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-31T04:40:13+08:00",
+      "title": {
+        "en": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+        "zh": "达特茅斯的教务长警告我们人工智能作弊，但他自己的人工智能使用使他失去了工作"
+      },
+      "summary": {
+        "en": "People who love AI don't always love telling others they used it.",
+        "zh": "喜欢人工智能的人并不总是喜欢告诉别人他们使用了它。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-31T03:30:52+08:00",
+      "title": {
+        "en": "Basically no one is using AI agents for their DoorDash orders",
+        "zh": "基本上没有人使用人工智能代理进行DoorDash订单"
+      },
+      "summary": {
+        "en": "But it's still early days for the relatively new e-commerce use case.",
+        "zh": "但对于相对较新的电子商务用例来说，现在还处于早期阶段。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
+      "source": "MarkTechPost",
+      "published": "2026-10-31T01:53:37+08:00",
+      "title": {
+        "en": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
+        "zh": "认识TokenEconomizer ：微软的插件可将编码代理成本降低高达30.9%"
+      },
+      "summary": {
+        "en": "Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 18.4% to 30.9% on SWE-Bench, w…",
+        "zh": "微软研究院和加州大学伯克利分校发布了TokenEconomizer ，这是一个开源插件，可以从过去的会话中学习，在SWE-Bench上将编码代理令牌成本降低18.4%至30.9%。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "published": "2026-10-30T17:30:00+08:00",
+      "title": {
+        "en": "Making it easier for websites to express AI training preferences",
+        "zh": "让网站更容易表达人工智能培训偏好"
+      },
+      "summary": {
+        "en": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+        "zh": "OpenAI将尊重共享的robots.txt信号，以帮助网站运营商向参与的提供商传达其人工智能培训偏好。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-29T18:11:12+08:00",
+      "title": {
+        "en": "We urgently need to monitor AI agents’ actions in real time",
+        "zh": "我们迫切需要实时监控AI代理的行为"
+      },
+      "summary": {
+        "en": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they beli…",
+        "zh": "今年夏天，数百名OpenAI特工试图在网络安全测试中作弊。他们突破了测试环境，成功入侵了Hugging Face ，他们相信这个网站……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind",
+      "published": "2026-10-29T01:00:58+08:00",
+      "title": {
+        "en": "Gemini 4 Carbon: Our next frontier model",
+        "zh": "Gemini 4 Carbon ：我们的下一个前沿车型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
