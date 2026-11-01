@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-01",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-01T08:40:56.947445+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-01T05:41:00+08:00",
+      "title": {
+        "en": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "zh": "苹果首席执行官表示，该公司“不想为人工智能出货”"
+      },
+      "summary": {
+        "en": "Apple's new CEO defended the company's current position in the AI landscape.",
+        "zh": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-01T05:36:07+08:00",
+      "title": {
+        "en": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "zh": "还剩4天： TechCrunch创始人峰会如何帮助您建立更有用的联系以扩大规模"
+      },
+      "summary": {
+        "en": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the…",
+        "zh": "11月4日，在波士顿的SoWa发电站，准备好一整天，充满有意义的网络机会、可行的见解和连接，可以改变......"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge AI",
+      "published": "2026-11-01T00:05:00+08:00",
+      "title": {
+        "en": "I built an AI Tamagotchi before Meta could",
+        "zh": "在Meta之前，我构建了一个人工智能Tamagotchi"
+      },
+      "summary": {
+        "en": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI…",
+        "zh": "马克·扎克伯格（ Mark Zuckerberg ）的Meta让人工智能看起来很可爱，给它一张柔软的小脸-这个假日季节，他想向你出售一个缪斯魅力，这样你就可以携带你快乐的人工智能……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+      "source": "MarkTechPost",
+      "published": "2026-10-31T18:38:14+08:00",
+      "title": {
+        "en": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+        "zh": "了解Factory Droid 1.0 ：基于脚本模式构建的独立于模型的编码代理线束"
+      },
+      "summary": {
+        "en": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% w…",
+        "zh": "工厂发布了Droid 1.0 ，这是一种独立于模型的编码代理线束，可使编程工具调用默认值。在工厂自己的Terminal-Bench 4运行中， Droid的得分为65.2 ％......"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.37720",
+      "source": "arXiv cs.AI",
+      "published": "2026-10-31T12:00:00+08:00",
+      "title": {
+        "en": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+        "zh": "LRMoE ：针对内存受限节点的高效MoE培训的需求侧负载重新校准"
+      },
+      "summary": {
+        "en": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and com…",
+        "zh": "arXiv: 2610.37720v1公告类型：新摘要：稀疏混合专家（ MoE ）模型为Web应用程序提供可扩展的容量，但不均匀的路由会产生计算和成本…"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge AI",
+      "published": "2026-10-31T06:32:53+08:00",
+      "title": {
+        "en": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "zh": "苹果智能终于借助iOS 27.3登陆中国"
+      },
+      "summary": {
+        "en": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will…",
+        "zh": "据MacRumors报道，苹果将在中国推出iOS 27.3版的Apple Intelligence。Apple Intelligence功能将……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-31T04:40:13+08:00",
+      "title": {
+        "en": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+        "zh": "达特茅斯的教务长警告我们人工智能作弊，但他自己的人工智能使用使他失去了工作"
+      },
+      "summary": {
+        "en": "People who love AI don't always love telling others they used it.",
+        "zh": "喜欢人工智能的人并不总是喜欢告诉别人他们使用了它。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "published": "2026-10-30T17:30:00+08:00",
+      "title": {
+        "en": "Making it easier for websites to express AI training preferences",
+        "zh": "让网站更容易表达人工智能培训偏好"
+      },
+      "summary": {
+        "en": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+        "zh": "OpenAI将尊重共享的robots.txt信号，以帮助网站运营商向参与的提供商传达其人工智能培训偏好。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-29T18:11:12+08:00",
+      "title": {
+        "en": "We urgently need to monitor AI agents’ actions in real time",
+        "zh": "我们迫切需要实时监控AI代理的行为"
+      },
+      "summary": {
+        "en": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they beli…",
+        "zh": "今年夏天，数百名OpenAI特工试图在网络安全测试中作弊。他们突破了测试环境，成功入侵了Hugging Face ，他们相信这个网站……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind",
+      "published": "2026-10-29T01:00:58+08:00",
+      "title": {
+        "en": "Gemini 4 Carbon: Our next frontier model",
+        "zh": "Gemini 4 Carbon ：我们的下一个前沿车型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
