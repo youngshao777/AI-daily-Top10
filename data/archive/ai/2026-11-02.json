@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-02",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-02T09:15:58.387296+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-02T05:55:23+08:00",
+      "title": {
+        "en": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "zh": "OpenAI可能会将其数据中心重新命名为“AI计算园区”"
+      },
+      "summary": {
+        "en": "Data centers are deeply unpopular. But what if we called them something else?",
+        "zh": "数据中心非常不受欢迎。但是，如果我们称之为其他东西呢？"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-02T04:57:58+08:00",
+      "title": {
+        "en": "AI can make tech CEOs’ lives easier. What about everyone else?",
+        "zh": "人工智能可以让科技CEO的生活更轻松。其他人呢？"
+      },
+      "summary": {
+        "en": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+        "zh": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+      "source": "MarkTechPost",
+      "published": "2026-11-01T16:10:07+08:00",
+      "title": {
+        "en": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+        "zh": "Nace AI开源Drex Max v1 ：在Apple Silicon上本地运行的27B决策模型"
+      },
+      "summary": {
+        "en": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Ru…",
+        "zh": "Nace AI开源Drex Max v1 ，这是一个在Apple Silicon上运行的27B多模式决策模型，得分为67.52。文章Nace AI开源Drex Max v1 ：一个27B决策模型"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+      "source": "MarkTechPost",
+      "published": "2026-11-01T15:47:17+08:00",
+      "title": {
+        "en": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+        "zh": "DeepSeek开源dsh-superagent ， Router-Worker编码代理"
+      },
+      "summary": {
+        "en": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task co…",
+        "zh": "DeepSeek发布了dsh-superagent ，这是麻省理工学院许可的研究原型，可将GitHub和Feishu请求转换为并行工作者会话。在DeepSeek自己的模拟中， p95任务CO…"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge AI",
+      "published": "2026-11-01T00:05:00+08:00",
+      "title": {
+        "en": "I built an AI Tamagotchi before Meta could",
+        "zh": "在Meta之前，我构建了一个人工智能Tamagotchi"
+      },
+      "summary": {
+        "en": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI…",
+        "zh": "马克·扎克伯格（ Mark Zuckerberg ）的Meta让人工智能看起来很可爱，给它一张柔软的小脸-这个假日季节，他想向你出售一个缪斯魅力，这样你就可以携带你快乐的人工智能……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge AI",
+      "published": "2026-10-31T06:32:53+08:00",
+      "title": {
+        "en": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "zh": "苹果智能终于借助iOS 27.3登陆中国"
+      },
+      "summary": {
+        "en": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will…",
+        "zh": "据MacRumors报道，苹果将在中国推出iOS 27.3版的Apple Intelligence。Apple Intelligence功能将……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-31T04:40:13+08:00",
+      "title": {
+        "en": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+        "zh": "达特茅斯的教务长警告我们人工智能作弊，但他自己的人工智能使用使他失去了工作"
+      },
+      "summary": {
+        "en": "People who love AI don't always love telling others they used it.",
+        "zh": "喜欢人工智能的人并不总是喜欢告诉别人他们使用了它。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "published": "2026-10-30T17:30:00+08:00",
+      "title": {
+        "en": "Making it easier for websites to express AI training preferences",
+        "zh": "让网站更容易表达人工智能培训偏好"
+      },
+      "summary": {
+        "en": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+        "zh": "OpenAI将尊重共享的robots.txt信号，以帮助网站运营商向参与的提供商传达其人工智能培训偏好。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-29T18:11:12+08:00",
+      "title": {
+        "en": "We urgently need to monitor AI agents’ actions in real time",
+        "zh": "我们迫切需要实时监控AI代理的行为"
+      },
+      "summary": {
+        "en": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they beli…",
+        "zh": "今年夏天，数百名OpenAI特工试图在网络安全测试中作弊。他们突破了测试环境，成功入侵了Hugging Face ，他们相信这个网站……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind",
+      "published": "2026-10-29T01:00:58+08:00",
+      "title": {
+        "en": "Gemini 4 Carbon: Our next frontier model",
+        "zh": "Gemini 4 Carbon ：我们的下一个前沿车型"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
