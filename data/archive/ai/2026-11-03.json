@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-03",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-03T11:17:51.250354+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T09:49:52+08:00",
+      "title": {
+        "en": "Apple may try to increase revenue by doing…something with third-party AI apps",
+        "zh": "苹果可能会尝试通过第三方人工智能应用来增加收入"
+      },
+      "summary": {
+        "en": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "zh": "苹果在周一晚上的财报电话会议上暗示，它可以通过第三方“机会”刺激收入。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/",
+      "source": "MarkTechPost",
+      "published": "2026-11-03T09:09:49+08:00",
+      "title": {
+        "en": "Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention",
+        "zh": "Zyphra AI推出Zyphra Hierarchical Attention （ ZHA ） ：通往真正的次二次注意力之路"
+      },
+      "summary": {
+        "en": "Zyphra Hierarchical Attention (ZHA) is a tree-indexed sparse attention method that retrofits frozen LLMs with 4B tokens of distillation, matching dense attention on reasoning and…",
+        "zh": "Zyphra Hierarchical Attention （ ZHA ）是一种树索引稀疏注意方法，它将冷冻LLM与4B蒸馏令牌进行改造，以匹配对推理和……的密集关注。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/02/letter-letterpress-1-growth-engineering-coding-agent/",
+      "source": "MarkTechPost",
+      "published": "2026-11-03T08:43:03+08:00",
+      "title": {
+        "en": "The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering",
+        "zh": "信函公司发布凸版-1 ：为成长工程打造的编码代理"
+      },
+      "summary": {
+        "en": "Letter has released the beta of Letterpress-1, a coding agent, harness and IDE for growth engineering. It reads a git-based site and its market, then opens pull requests for SEO,…",
+        "zh": "Letter已经发布了Letterpress-1的测试版，这是一种用于生长工程的编码代理、线束和IDE。它读取基于git的网站及其市场，然后打开搜索引擎优化的拉取请求， ……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T08:35:52+08:00",
+      "title": {
+        "en": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "zh": "Y Combinator的Garry Tan使用人工智能代理太多，他每年在代币上花费高达20万美元$"
+      },
+      "summary": {
+        "en": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a n…",
+        "zh": "Y Combinator的Garry Tan开玩笑地承认他患有“网络精神病” ，有时几乎不睡觉，因为他对与人工智能特工合作感到非常兴奋。On a n…"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge AI",
+      "published": "2026-11-03T02:56:02+08:00",
+      "title": {
+        "en": "Anthropic clamps down on Claude’s AI video game clones",
+        "zh": "Anthropic压制Claude的人工智能视频游戏克隆"
+      },
+      "summary": {
+        "en": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currentl…",
+        "zh": "据Tom's Hardware报道， Anthropic已更新Claude Code的系统提示，以防止人工智能工具被用于重新创建现有视频游戏。复古游戏是当前的……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "source": "The Verge AI",
+      "published": "2026-11-03T02:01:30+08:00",
+      "title": {
+        "en": "OpenAI pitches data center power plants as a way to protect nearby areas",
+        "zh": "OpenAI将数据中心发电厂作为保护附近地区的一种方式"
+      },
+      "summary": {
+        "en": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free u…",
+        "zh": "在周一的公告中， OpenAI表示将在佐治亚州埃芬汉县即将到来的一个数据中心试点其“电网保护器计划” ，该公司承诺在那里解放..."
+      }
+    },
+    {
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "published": "2026-11-03T02:00:00+08:00",
+      "title": {
+        "en": "Rewarding defenders with bigger bug bounties",
+        "zh": "用更大的虫子赏金奖励防御者"
+      },
+      "summary": {
+        "en": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+        "zh": "OpenAI正在提高安全漏洞赏金奖励，并为独立安全研究人员推出报告质量、忠诚度和优先活动奖金。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-03T01:00:00+08:00",
+      "title": {
+        "en": "Raising the quality of insights in agentic analytics",
+        "zh": "提高代理分析的洞察质量"
+      },
+      "summary": {
+        "en": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do…",
+        "zh": "在短短几年内，生成式人工智能改变了企业分析的面貌，特别是让整个组织的用户都可以访问分析。Agentic AI承诺要做……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "source": "Ars Technica AI",
+      "published": "2026-10-31T04:40:13+08:00",
+      "title": {
+        "en": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+        "zh": "达特茅斯的教务长警告我们人工智能作弊，但他自己的人工智能使用使他失去了工作"
+      },
+      "summary": {
+        "en": "People who love AI don't always love telling others they used it.",
+        "zh": "喜欢人工智能的人并不总是喜欢告诉别人他们使用了它。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "source": "Google DeepMind",
+      "published": "2026-10-30T22:18:30+08:00",
+      "title": {
+        "en": "Speeding up planning decisions with AI",
+        "zh": "利用人工智能加快规划决策"
+      },
+      "summary": {
+        "en": "Google DeepMind and UK government work together to reduce planning assessment times",
+        "zh": "谷歌DeepMind与英国政府合作减少规划评估时间"
+      }
+    }
+  ]
+}
