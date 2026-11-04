@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-04",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-04T09:53:13.765140+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "source": "The Verge AI",
+      "published": "2026-11-04T08:42:10+08:00",
+      "title": {
+        "en": "The biggest modding site in PC gaming is taking a stance on AI",
+        "zh": "PC游戏中最大的改装网站正在对人工智能采取立场"
+      },
+      "summary": {
+        "en": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used…",
+        "zh": "PC游戏模组存储库Nexus Mods要求上传新模组时必须披露有关人工智能的信息，这意味着模组作者必须声明“是否使用了人工智能……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "source": "The Verge AI",
+      "published": "2026-11-04T07:37:45+08:00",
+      "title": {
+        "en": "Please stop asking me when the AI bubble will pop",
+        "zh": "请不要再问我AI泡沫什么时候会弹出"
+      },
+      "summary": {
+        "en": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I…",
+        "zh": "包括这个员工在内的人们一直在不同程度上兴奋或恐惧地问我，人工智能泡沫什么时候会破裂。我会告诉你我告诉他们的：如果我知道这一点，我……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-04T06:41:03+08:00",
+      "title": {
+        "en": "Anthropic is working on a system to prove AI models’ identity",
+        "zh": "Anthropic正在开发一个系统来证明人工智能模型的身份"
+      },
+      "summary": {
+        "en": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "zh": "这个名为FlashProve的系统可以让任何人检查AI响应是否真正来自它声称的模型。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-04T06:19:53+08:00",
+      "title": {
+        "en": "Data centers are turning to old jet engines as the wait for power grows",
+        "zh": "随着等待动力的增加，数据中心正在转向旧的喷气发动机"
+      },
+      "summary": {
+        "en": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-…",
+        "zh": "对接入电网和新涡轮机的长达数年的等待导致数据中心建设者转向一种不寻常、效率较低且不太环保的解决方案：曾经……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+      "source": "MarkTechPost",
+      "published": "2026-11-04T06:08:22+08:00",
+      "title": {
+        "en": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
+        "zh": "Anthropic发布FlashProve ：回复来自承诺权重的加密证明"
+      },
+      "summary": {
+        "en": "Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/…",
+        "zh": "Anthropic发布了FlashProve ，这是一个Apache 2.0 zkSNARK原型，它证明了回复来自一个提交模型，而没有透露权重。它以110个代币证明了Llama 4 Maverick/……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-04T02:30:27+08:00",
+      "title": {
+        "en": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+        "zh": "纽约时报要求Brave关闭其付费墙拦截器并终止与人工智能公司的交易"
+      },
+      "summary": {
+        "en": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+        "zh": "诉讼称Brave是被盗新闻内容的“供应商、经销商和分销商”。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "published": "2026-11-04T01:01:49+08:00",
+      "title": {
+        "en": "Agentic cheminformatics with Google Antigravity",
+        "zh": "Google Antigravity代理化学信息学"
+      },
+      "summary": {
+        "en": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+        "zh": "了解Google Antigravity和我们的Cheminformatics Skills如何加速药物发现工作流程、搜索化合物并提出新的刚性大循环。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI",
+      "published": "2026-11-03T20:00:00+08:00",
+      "title": {
+        "en": "Accelerating engineering for the physical world",
+        "zh": "加速物理世界的工程设计"
+      },
+      "summary": {
+        "en": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+        "zh": "了解ChatGPT和Codex如何帮助工程师在物理世界中加速CAD、PCB设计、仿真和其他工作流程。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-03T18:43:41+08:00",
+      "title": {
+        "en": "How “reverse game theory” could keep AI agents in check",
+        "zh": "“反向博弈论”如何控制AI智能体"
+      },
+      "summary": {
+        "en": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable…",
+        "zh": "一种被称为“反向博弈论”的新方法旨在通过设计激励他们遵守规则的系统来控制强大的人工智能模型。随着人工智能模型变得更加强大……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2610.41172",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-03T13:00:00+08:00",
+      "title": {
+        "en": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
+        "zh": "上下文作为基础设施：在带有线束的代理系统中检索的知识汇编"
+      },
+      "summary": {
+        "en": "arXiv:2610.41172v1 Announce Type: cross Abstract: Retrieval-augmented generation is becoming agentic. A search harness writes queries, reads results, reformulates, and decides whe…",
+        "zh": "arXiv: 2610.41172v1公告类型： CROSS摘要：检索-增强生成正在成为代理。搜索线束可写入查询、读取结果、重新制定，并决定是否……"
+      }
+    }
+  ]
+}
