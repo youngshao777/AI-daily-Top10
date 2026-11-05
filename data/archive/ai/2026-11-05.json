@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-05",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-05T09:59:06.147133+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-05T09:26:22+08:00",
+      "title": {
+        "en": "Apple is reportedly cutting budgets for its internal AI usage",
+        "zh": "据报道，苹果正在削减其内部人工智能使用的预算"
+      },
+      "summary": {
+        "en": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+        "zh": "据说该公司正在大幅削减其工程团队在人工智能方面的支出。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-05T09:02:14+08:00",
+      "title": {
+        "en": "After the midterms, a bigger clash over data centers could be coming",
+        "zh": "中期选举之后，数据中心可能会发生更大的冲突"
+      },
+      "summary": {
+        "en": "Data center opposition crossed party lines in Tuesday’s midterms.",
+        "zh": "数据中心反对派在周二的中期选举中越过了党派界限。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-05T06:47:51+08:00",
+      "title": {
+        "en": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+        "zh": "任天堂最大的ROM芯片供应商正在退出业务"
+      },
+      "summary": {
+        "en": "And what that could mean for physical Switch game costs.",
+        "zh": "这对Switch游戏的物理成本意味着什么。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "source": "The Verge AI",
+      "published": "2026-11-05T06:42:15+08:00",
+      "title": {
+        "en": "Qualcomm is betting big on data centers as smartphone sales sink",
+        "zh": "随着智能手机销量下滑，高通正大举押注数据中心"
+      },
+      "summary": {
+        "en": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the compa…",
+        "zh": "与2025年相比，智能手机销量下降了约20% ，高通正在寻求数据中心来帮助提升利润。在2026年第四季度财报电话会议上，公司…"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/",
+      "source": "MarkTechPost",
+      "published": "2026-11-05T06:25:05+08:00",
+      "title": {
+        "en": "webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500",
+        "zh": "webAI发布MATH-500上的8.8B推理模型评分98.2的TwIL-8B"
+      },
+      "summary": {
+        "en": "webAI released TwIL-8B, an 8.8B reasoning model post-trained from IBM Granite 4.2 8B. It posts 98.2 on MATH-500 and 81.6 on LiveCodeBench, but trails similar-size models on knowle…",
+        "zh": "webAI发布了TwIL-8B ，这是IBM Granite 4.2 8B后训练的8.8B推理模型。它在MATH-500上发布了98.2 ，在LiveCodeBench上发布了81.6 ，但在知识上落后于相似大小的模型……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "source": "The Verge AI",
+      "published": "2026-11-05T05:45:00+08:00",
+      "title": {
+        "en": "17 better ways Elon Musk could have wasted $446 million",
+        "zh": "埃隆·马斯克（ Elon Musk ）浪费4.46亿美元的17种更好的方式"
+      },
+      "summary": {
+        "en": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social m…",
+        "zh": "在社交媒体上花费太多时间的一个基本问题是，你正在通过阅读一群寻求关注的疯子的帖子来烹饪你的大脑。如果您的社交媒体……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-05T02:50:55+08:00",
+      "title": {
+        "en": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "zh": "德克萨斯州是人工智能数据中心建设的新中心。那可能是失败了。"
+      },
+      "summary": {
+        "en": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that…",
+        "zh": "德克萨斯州是美国增长最快的数据中心市场，也是大型科技公司最大的人工智能建设的起点。但横扫孤星州的蓝色浪潮可能会危及……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI",
+      "published": "2026-11-04T22:30:00+08:00",
+      "title": {
+        "en": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "zh": "OpenAI收购Pierre Computer Company, Inc."
+      },
+      "summary": {
+        "en": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+        "zh": "OpenAI将收购Pierre Computer Company ，扩展Codex用于构建、理解和审查代码的工具。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-04T02:30:27+08:00",
+      "title": {
+        "en": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+        "zh": "纽约时报要求Brave关闭其付费墙拦截器并终止与人工智能公司的交易"
+      },
+      "summary": {
+        "en": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+        "zh": "诉讼称Brave是被盗新闻内容的“供应商、经销商和分销商”。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "published": "2026-11-04T01:01:49+08:00",
+      "title": {
+        "en": "Agentic cheminformatics with Google Antigravity",
+        "zh": "Google Antigravity代理化学信息学"
+      },
+      "summary": {
+        "en": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+        "zh": "了解Google Antigravity和我们的Cheminformatics Skills如何加速药物发现工作流程、搜索化合物并提出新的刚性大循环。"
+      }
+    }
+  ]
+}
