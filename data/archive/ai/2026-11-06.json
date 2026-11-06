@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-06",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-06T09:59:02.631670+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "source": "The Verge AI",
+      "published": "2026-11-06T08:37:56+08:00",
+      "title": {
+        "en": "OpenAI is stepping back from NDAs for data center projects",
+        "zh": "OpenAI正在退出数据中心项目的保密协议"
+      },
+      "summary": {
+        "en": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is workin…",
+        "zh": "在本周的中期选举中，选民强烈反对数据中心扩张， OpenAI今天宣布了对其工作所在社区的新承诺……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "The Verge AI",
+      "published": "2026-11-06T08:06:12+08:00",
+      "title": {
+        "en": "Airbnb is working on an AI travel agent",
+        "zh": "爱彼迎正在与人工智能旅行社合作"
+      },
+      "summary": {
+        "en": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released toda…",
+        "zh": "该公司在今天发布的2026年第三季度收益股东信中表示，爱彼迎计划在2027年上半年推出一个人工智能代理，帮助用户规划和预订旅行……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+      "source": "MarkTechPost",
+      "published": "2026-11-06T06:58:21+08:00",
+      "title": {
+        "en": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+        "zh": "谷歌发布Gemini Omni 1.2 Flash ： 15秒人工智能视频，每秒$ 0.07"
+      },
+      "summary": {
+        "en": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second…",
+        "zh": "谷歌发布了Gemini Omni 1.2 Flash ，这是一种视频生成和编辑模型，具有原生15秒剪辑，多轮会话编辑功能，价格降至每秒$ 0.07......"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-06T06:40:55+08:00",
+      "title": {
+        "en": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "zh": "爱彼迎表示将于2027年上半年推出人工智能旅行社"
+      },
+      "summary": {
+        "en": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+        "zh": "爱彼迎表示，即将推出的人工智能专员将帮助旅行者在整个住宿期间规划行程、比较选项、管理预订并获得帮助。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+      "source": "MarkTechPost",
+      "published": "2026-11-06T05:33:00+08:00",
+      "title": {
+        "en": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
+        "zh": "百度发布ERNIE 5.5 Flash Base ：具有14B活动参数的280B MoE基础型号"
+      },
+      "summary": {
+        "en": "Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training. The post…",
+        "zh": "百度发布了ERNIE 5.5 Flash Base ，这是一个具有14B活动参数的280B稀疏MoE基础模型，经过33.5T代币的训练，并在任何训练中期或训练后发布。该帖子......"
+      }
+    },
+    {
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI",
+      "published": "2026-11-06T04:00:00+08:00",
+      "title": {
+        "en": "Cult.fit builds operational muscle with Codex",
+        "zh": "Cult.fit使用Codex打造手术肌肉"
+      },
+      "summary": {
+        "en": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+        "zh": "Cult.fit正在使用Codex来帮助跨职能部门的团队构建工具、更快地移动并改变完成工作的方式。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "published": "2026-11-06T01:05:16+08:00",
+      "title": {
+        "en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "zh": "Gemini Omni 1.2闪光灯：快速且经济实惠，剪辑更长"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.05390",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-05T13:00:00+08:00",
+      "title": {
+        "en": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+        "zh": "谁可以推翻代理？法学硕士评审机构中的证据门限权威"
+      },
+      "summary": {
+        "en": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair err…",
+        "zh": "arXiv: 2611.05390v1公告类型：新摘要：多代理语言模型系统通常会添加审阅者，以改善上游代理的决策。然而，审阅者既可以修复错误……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-05T06:47:51+08:00",
+      "title": {
+        "en": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+        "zh": "任天堂最大的ROM芯片供应商正在退出业务"
+      },
+      "summary": {
+        "en": "And what that could mean for physical Switch game costs.",
+        "zh": "这对Switch游戏的物理成本意味着什么。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-05T02:50:55+08:00",
+      "title": {
+        "en": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "zh": "德克萨斯州是人工智能数据中心建设的新中心。那可能是失败了。"
+      },
+      "summary": {
+        "en": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that…",
+        "zh": "德克萨斯州是美国增长最快的数据中心市场，也是大型科技公司最大的人工智能建设的起点。但横扫孤星州的蓝色浪潮可能会危及……"
+      }
+    }
+  ]
+}
