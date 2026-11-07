@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-07",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-07T09:36:13.077209+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge AI",
+      "published": "2026-11-07T07:46:18+08:00",
+      "title": {
+        "en": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "zh": "随着竞争对手Anthropic接近IPO ， OpenAI的估值为1.25万$"
+      },
+      "summary": {
+        "en": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable c…",
+        "zh": "据彭博社报道， OpenAI目前在新一轮融资中的估值为1.25万亿美元，该轮融资又筹集了110亿美元。这将使其成为世界上最有价值的公司之一……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "source": "The Verge AI",
+      "published": "2026-11-07T07:00:44+08:00",
+      "title": {
+        "en": "China reportedly recruited AI exec to spy on Jensen Huang",
+        "zh": "据报道，中国招募人工智能高管监视Jensen Huang"
+      },
+      "summary": {
+        "en": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enli…",
+        "zh": "据《纽约时报》报道，中国情报机构聘请了Megaspeed高管黄爱丽丝（ Alice Huang ）监视英伟达（ Nvidia ）首席执行官黄延森（ Jensen Huang ）。国家安全部（ MSS ） ENLI..."
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-07T06:53:46+08:00",
+      "title": {
+        "en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "zh": "据报道， OpenAI以1.25万亿美元的估值额外筹集了110亿美元"
+      },
+      "summary": {
+        "en": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "zh": "据报道，作为一轮融资的一部分， OpenAI又筹集了110亿美元，这轮融资尚未结束，但预计将在未来几周内完成。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-07T02:44:38+08:00",
+      "title": {
+        "en": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "zh": "数百个公开暴露在网络中的Artex AI黑客工具"
+      },
+      "summary": {
+        "en": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+        "zh": "安全研究人员发现，数百台托管渗透测试工具Artex的服务器暴露在互联网上，允许任何人访问黑客工具。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+      "source": "MarkTechPost",
+      "published": "2026-11-07T01:28:04+08:00",
+      "title": {
+        "en": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+        "zh": "Zyphra ZYFA ：适用于AMD MI355X的FP8 FlashAttention ，速度快达1.76倍"
+      },
+      "summary": {
+        "en": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER…",
+        "zh": "Zyphra发布了AMD Instinct MI355X的ZYFA、开源FP8和BF16预填充注意力内核。在实际模型激活时，其FP8内核的运行速度比AMD的AITER快1.16-1.76倍……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-07T00:19:12+08:00",
+      "title": {
+        "en": "Could potential AI clones of GTA VI force a quicker official port?",
+        "zh": "GTA VI的潜在AI克隆是否会迫使更快的官方端口？"
+      },
+      "summary": {
+        "en": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+        "zh": "一位前Rockstar技术总监认为开发商正面临新的时间压力。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-06T18:00:00+08:00",
+      "title": {
+        "en": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "zh": "我看着一个人形机器人打扫我的公寓。这感觉就像是未来的味道。"
+      },
+      "summary": {
+        "en": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But wh…",
+        "zh": "我不是那种通常为房屋清洁工付费的人。我太节俭了，我有点喜欢播客，喜欢带着魔法橡皮擦在我的浴缸里去城里。但是……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI",
+      "published": "2026-11-06T16:00:00+08:00",
+      "title": {
+        "en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "zh": "与Hacktron合作，发现OpenAI系统中的漏洞"
+      },
+      "summary": {
+        "en": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+        "zh": "OpenAI正在与Hacktron合作，以发现漏洞，测试与第三方服务的连接，并加强与前沿AI的防御。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.06962",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-06T13:00:00+08:00",
+      "title": {
+        "en": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+        "zh": "人工智能时代逆问题的形式化：可能性、陷阱和邀请"
+      },
+      "summary": {
+        "en": "arXiv:2611.06962v1 Announce Type: new Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs ch…",
+        "zh": "arXiv: 2611.06962v1 Announce Type: new Abstract: Proof assistants如Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs ch…"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "published": "2026-11-06T01:05:16+08:00",
+      "title": {
+        "en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "zh": "Gemini Omni 1.2闪光灯：快速且经济实惠，剪辑更长"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
