@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-09",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-09T09:25:33.484610+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge AI",
+      "published": "2026-11-09T06:54:50+08:00",
+      "title": {
+        "en": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "zh": "以下是Jensen Huang给Nvidia的备忘录全文"
+      },
+      "summary": {
+        "en": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In additi…",
+        "zh": "周日，英伟达宣布将对首席执行官Jensen Huang与中国政府人工智能高管和代理人Alice Huang的关系展开调查。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-09T05:00:11+08:00",
+      "title": {
+        "en": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "zh": "英伟达将调查首席执行官黄延森与可能的中国间谍的关系"
+      },
+      "summary": {
+        "en": "In a memo to the company, Huang admitted that he had an affair.",
+        "zh": "在给公司的一份备忘录中，黄承认自己有外遇。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge AI",
+      "published": "2026-11-09T04:22:39+08:00",
+      "title": {
+        "en": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+        "zh": "英伟达正在调查黄延森与一名中国间谍的关系"
+      },
+      "summary": {
+        "en": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's M…",
+        "zh": "英伟达（ Nvidia ）宣布，它正在对首席执行官黄延森（ Jensen Huang ）及其与Megaspeed高管黄爱丽丝（ Alice Huang ）的关系展开调查，据报道，黄爱丽丝被中国商务部招募。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+      "source": "MarkTechPost",
+      "published": "2026-11-08T18:46:18+08:00",
+      "title": {
+        "en": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+        "zh": "Google AI发布用于Spec-First编码的Elephant-Goldfish模型插件"
+      },
+      "summary": {
+        "en": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Releases Elephant-Goldfish Mode…",
+        "zh": "Google的Elephant-Goldfish Model插件使编码代理起草规格，然后在任何代码之前运行5个零上下文审查阶段。Google AI发布了Elephant-Goldfish模式……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+      "source": "MarkTechPost",
+      "published": "2026-11-08T18:27:27+08:00",
+      "title": {
+        "en": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+        "zh": "每个教育部模型使用哪种路由？ DeepSeek、Qwen、Mixtral、Llama 4、gpt-oss比较"
+      },
+      "summary": {
+        "en": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods…",
+        "zh": "配置验证的10个开放式教育部模型如何路由代币的比较：总参数和活动参数、专家计数、top-k、共享专家、门控功能和负载平衡方法……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-08T06:07:22+08:00",
+      "title": {
+        "en": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "zh": "期中考试结束后，埃隆·马斯克（ Elon Musk ）和数据中心的情况看起来很糟糕"
+      },
+      "summary": {
+        "en": "On Equity, we unpacked what the midterms mean for the tech industry.",
+        "zh": "在股票方面，我们揭示了期中考试对科技行业的意义。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-07T00:19:12+08:00",
+      "title": {
+        "en": "Could potential AI clones of GTA VI force a quicker official port?",
+        "zh": "GTA VI的潜在AI克隆是否会迫使更快的官方端口？"
+      },
+      "summary": {
+        "en": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+        "zh": "一位前Rockstar技术总监认为开发商正面临新的时间压力。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-06T18:00:00+08:00",
+      "title": {
+        "en": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "zh": "我看着一个人形机器人打扫我的公寓。这感觉就像是未来的味道。"
+      },
+      "summary": {
+        "en": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But wh…",
+        "zh": "我不是那种通常为房屋清洁工付费的人。我太节俭了，我有点喜欢播客，喜欢带着魔法橡皮擦在我的浴缸里去城里。但是……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI",
+      "published": "2026-11-06T16:00:00+08:00",
+      "title": {
+        "en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "zh": "与Hacktron合作，发现OpenAI系统中的漏洞"
+      },
+      "summary": {
+        "en": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+        "zh": "OpenAI正在与Hacktron合作，以发现漏洞，测试与第三方服务的连接，并加强与前沿AI的防御。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "published": "2026-11-06T01:05:16+08:00",
+      "title": {
+        "en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "zh": "Gemini Omni 1.2闪光灯：快速且经济实惠，剪辑更长"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
