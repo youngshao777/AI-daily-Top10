@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-10",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-10T11:57:13.283563+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-10T09:27:12+08:00",
+      "title": {
+        "en": "Anthropic reportedly plans to move forward with IPO plans",
+        "zh": "据报道， Anthropic计划推进IPO计划"
+      },
+      "summary": {
+        "en": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+        "zh": "据《华尔街日报》报道，这家AI公司预计将在本周设定估值范围。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge AI",
+      "published": "2026-11-10T08:28:49+08:00",
+      "title": {
+        "en": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+        "zh": "大卫·埃里森说，人工智能可能是“现代历史上最大的创意解锁”"
+      },
+      "summary": {
+        "en": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a quest…",
+        "zh": "在派拉蒙Skydance的最新财报电话会议上，首席执行官大卫·埃里森（ David Ellison ）表示， “很难想象”人工智能对电影业的影响不会比CGI更大。作为对任务的回应……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge AI",
+      "published": "2026-11-10T07:51:58+08:00",
+      "title": {
+        "en": "What could China get from Jensen Huang?",
+        "zh": "中国可以从Jensen Huang那里得到什么？"
+      },
+      "summary": {
+        "en": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has…",
+        "zh": "在当今的人工智能格局中，很难夸大英伟达的力量。该公司的芯片是美国先进人工智能技术的基础，需求……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-10T07:28:37+08:00",
+      "title": {
+        "en": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+        "zh": "据报道， Jensen Huang聘请了一家公关公司，该公司一年前曾处理过备受瞩目的性丑闻"
+      },
+      "summary": {
+        "en": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+        "zh": "据《连线》报道，这家公关公司是在2025年10月《纽约时报》报道Alice Huang与Jensen Huang的业务往来后不久招募的。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-10T03:35:33+08:00",
+      "title": {
+        "en": "The backlash about data centers might really just be about electricity",
+        "zh": "关于数据中心的强烈反对可能真的只是关于电力"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US…",
+        "zh": "这个故事最初出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。随着选民前往美国各地的民意调查……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "published": "2026-11-10T03:00:00+08:00",
+      "title": {
+        "en": "ChatGPT Enterprise now available in AWS Marketplace",
+        "zh": "ChatGPT Enterprise现已在AWS Marketplace中提供"
+      },
+      "summary": {
+        "en": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+        "zh": "ChatGPT Enterprise现已通过AWS Marketplace提供，帮助组织通过现有的AWS采购和计费关系简化采购。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/09/google-tpu-8i-max-tpu-8tx/",
+      "source": "MarkTechPost",
+      "published": "2026-11-10T01:09:54+08:00",
+      "title": {
+        "en": "Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU",
+        "zh": "谷歌推出TPU 8i Max和TPU 8tx ：双芯片TPU和机密TPU"
+      },
+      "summary": {
+        "en": "Google added TPU 8i Max and TPU 8tx to its eighth-generation TPU lineup. TPU 8i Max packs 2 TPU 8i chips per package for long-context agents. TPU 8tx adds hardware confidential in…",
+        "zh": "谷歌将TPU 8i Max和TPU 8tx添加到其第八代TPU阵容中。TPU 8i Max每个包装包装2个TPU 8i芯片，用于长上下文代理。TPU 8tx增加了硬件机密性……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-10T01:05:43+08:00",
+      "title": {
+        "en": "Nancy Pelosi’s replacement is ready to regulate AI",
+        "zh": "南希·佩洛西（ Nancy Pelosi ）的继任者已经准备好监管"
+      },
+      "summary": {
+        "en": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the…",
+        "zh": "作为加利福尼亚州参议员，斯科特·维纳（ Scott Wiener ）撰写了旨在遏制先进人工智能风险的立法。现在，在赢得前国会议长的激烈竞选后……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-09T23:39:21+08:00",
+      "title": {
+        "en": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+        "zh": "SpaceX现在基本上是一家“基础设施公司” ，高级官员说"
+      },
+      "summary": {
+        "en": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+        "zh": "“Grok对同一个视频的分析完美率高达99.9%。”"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "published": "2026-11-06T01:05:16+08:00",
+      "title": {
+        "en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "zh": "Gemini Omni 1.2闪光灯：快速且经济实惠，剪辑更长"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
