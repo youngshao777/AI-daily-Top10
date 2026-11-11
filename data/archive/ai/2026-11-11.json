@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-11",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-11T09:42:38.764224+08:00",
+  "items": [
+    {
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "published": "2026-11-12T08:00:00+08:00",
+      "title": {
+        "en": "Gilbert + Tobin rethinks the business of law with AI",
+        "zh": "Gilbert + Tobin借助人工智能重新思考法律业务"
+      },
+      "summary": {
+        "en": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+        "zh": "与Gilbert + Tobin合伙人兼首席执行官Sam Nickless的对话。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+      "source": "MarkTechPost",
+      "published": "2026-11-11T07:20:19+08:00",
+      "title": {
+        "en": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+        "zh": "META FAIR发布e-means ：在10倍更少的纪元中击败k-means的算法"
+      },
+      "summary": {
+        "en": "Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra hyper…",
+        "zh": "Meta FAIR的e-means是在FAISS 1.16.0中提供的小批量k-means替代品。它在1.4到2.6个时段内达到了劳埃德的25个时段损失， GPU加速10-45倍，没有额外的超级……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-11T05:12:59+08:00",
+      "title": {
+        "en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "zh": "Grok Build编码代理泄露了一些机密信息，其中一些属于SpaceXSI"
+      },
+      "summary": {
+        "en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "zh": "研究人员发现， 35,000个Grok Build应用程序向所有寻找它们的人开放。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-11T05:08:52+08:00",
+      "title": {
+        "en": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "zh": "OpenAI收购由Sonder创始人创建的旅游创业公司Odessia"
+      },
+      "summary": {
+        "en": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "zh": "OpenAI尚未说明其对未来旅行的计划。但Sonder创始人弗朗西斯·戴维森（ Francis Davidson ）是旅游业的知名人物。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "source": "The Verge AI",
+      "published": "2026-11-11T03:04:05+08:00",
+      "title": {
+        "en": "The US is winning the AI race. Jensen Huang could have blown it",
+        "zh": "美国正在赢得人工智能竞赛。Jensen Huang可能搞砸了"
+      },
+      "summary": {
+        "en": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand techn…",
+        "zh": "随着间谍目标的出现， Jensen Huang可能是地球上最不令人惊讶的人之一。英伟达首席执行官运营着世界上最有价值的公司之一，控制着需求的技术……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind",
+      "published": "2026-11-11T00:03:47+08:00",
+      "title": {
+        "en": "Gemini 4 Carbon is now available",
+        "zh": "Gemini 4 Carbon现已上市"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/",
+      "source": "MarkTechPost",
+      "published": "2026-11-10T23:42:55+08:00",
+      "title": {
+        "en": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters",
+        "zh": "Zyphra发布ZONOS3-Mini ：具有100M有源参数的开源TTS"
+      },
+      "summary": {
+        "en": "Zyphra released ZONOS3-Mini, an Apache 2.0 text-to-speech model with 800M total and 100M active parameters. It clones voices, steers delivery word by word and runs in real time in…",
+        "zh": "Zyphra发布了ZONOS3-Mini ，这是一个Apache 2.0文本转语音模型，总共有800米和100米的有源参数。它克隆声音，逐字引导传递，并在……内实时运行"
+      }
+    },
+    {
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI",
+      "published": "2026-11-10T20:00:00+08:00",
+      "title": {
+        "en": "Helping caregivers use AI in everyday life",
+        "zh": "帮助护理人员在日常生活中使用人工智能"
+      },
+      "summary": {
+        "en": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+        "zh": "OpenAI学院正在为美国五个城市的护理人员提供免费的实用ChatGPT研讨会，帮助他们在日常生活中培养实用的人工智能技能。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-10T03:35:33+08:00",
+      "title": {
+        "en": "The backlash about data centers might really just be about electricity",
+        "zh": "关于数据中心的强烈反对可能真的只是关于电力"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US…",
+        "zh": "这个故事最初出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。随着选民前往美国各地的民意调查……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-09T23:39:21+08:00",
+      "title": {
+        "en": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+        "zh": "SpaceX现在基本上是一家“基础设施公司” ，高级官员说"
+      },
+      "summary": {
+        "en": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+        "zh": "“Grok对同一个视频的分析完美率高达99.9%。”"
+      }
+    }
+  ]
+}
