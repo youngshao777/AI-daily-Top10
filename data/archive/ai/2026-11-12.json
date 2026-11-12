@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-12",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-12T10:41:07.154119+08:00",
+  "items": [
+    {
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "published": "2026-11-12T08:00:00+08:00",
+      "title": {
+        "en": "Gilbert + Tobin rethinks the business of law with AI",
+        "zh": "Gilbert + Tobin借助人工智能重新思考法律业务"
+      },
+      "summary": {
+        "en": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+        "zh": "与Gilbert + Tobin合伙人兼首席执行官Sam Nickless的对话。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T07:50:00+08:00",
+      "title": {
+        "en": "The unfolding Jensen Huang scandal: a timeline",
+        "zh": "正在发酵的黄仁勋丑闻：时间线"
+      },
+      "summary": {
+        "en": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "zh": "随着美国和中国竞相发展最先进的人工智能基础设施，此事可能对国家安全产生影响。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T07:28:45+08:00",
+      "title": {
+        "en": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "zh": "据报道，英伟达董事会正准备罢免首席执行官黄仁勋，该公司股价应声下跌"
+      },
+      "summary": {
+        "en": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "zh": "最早在周三晚上，英伟达董事会就可能决定罢免其已任职33年的创始人兼首席执行官。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "source": "The Verge AI",
+      "published": "2026-11-12T06:44:36+08:00",
+      "title": {
+        "en": "Nvidia is reportedly preparing to fire Jensen Huang",
+        "zh": "据报道，英伟达正准备解雇黄仁勋"
+      },
+      "summary": {
+        "en": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a sep…",
+        "zh": "在《纽约时报》报道了有关Jensen Huang的第二起涉嫌婚外情事件后，Nvidia董事会正准备解雇这位首席执行官，而就在几天前，他承认了……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
+      "source": "MarkTechPost",
+      "published": "2026-11-12T05:21:42+08:00",
+      "title": {
+        "en": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+        "zh": "Google推出Gemini Decisions API，Gemini Decision 1的定价为0.10美元/百万个代币"
+      },
+      "summary": {
+        "en": "Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images,…",
+        "zh": "Google 推出了由 Gemini Decision 1 提供支持的 Gemini Decisions API。它针对文本、图像等内容，最多可为 1,000 个“是/否”、选择题和评分细则问题返回校准后的概率……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "Google DeepMind",
+      "published": "2026-11-11T23:00:15+08:00",
+      "title": {
+        "en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+        "zh": "AlphaGenome 2：破译细胞如何读取DNA，以更好地了解疾病"
+      },
+      "summary": {
+        "en": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+        "zh": "预测DNA序列及其变异如何影响特定的人类细胞类型和疾病。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI",
+      "published": "2026-11-11T16:00:00+08:00",
+      "title": {
+        "en": "ChatGPT Plus for veterans and servicemembers",
+        "zh": "面向退伍军人和现役军人的 ChatGPT Plus"
+      },
+      "summary": {
+        "en": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+        "zh": "超过20,000名退伍军人和即将退役的现役军人已领取了一年的免费ChatGPT Plus。了解他们如何使用 ChatGPT Plus 为平民职业做好准备。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.12933",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-11T13:00:00+08:00",
+      "title": {
+        "en": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+        "zh": "用于自主X射线实验的可审计人机团队"
+      },
+      "summary": {
+        "en": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic…",
+        "zh": "arXiv:2611.12933v1 公告类型：新摘要：闭环自主实验可以加速科学发现，但实施工作限制了可及性。Agentic…"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-11T05:12:59+08:00",
+      "title": {
+        "en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "zh": "Grok Build 编码代理泄露大量机密信息，其中一些属于 SpaceXSI"
+      },
+      "summary": {
+        "en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "zh": "研究人员发现，有35,000个Grok Build应用程序对任何寻找它们的人完全开放。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-10T03:35:33+08:00",
+      "title": {
+        "en": "The backlash about data centers might really just be about electricity",
+        "zh": "对数据中心的抵制可能真的只是针对用电问题"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US…",
+        "zh": "这篇文章最初刊登在我们的每周人工智能通讯《The Algorithm》上。如需第一时间在您的收件箱中收到此类报道，请在此处订阅。当美国各地的选民前往投票站时……"
+      }
+    }
+  ]
+}
