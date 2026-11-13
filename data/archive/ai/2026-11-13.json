@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-13",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-13T10:22:47.100954+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+      "source": "MarkTechPost",
+      "published": "2026-11-13T06:43:26+08:00",
+      "title": {
+        "en": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+        "zh": "Liquid AI发布7400万参数流媒体音频编解码器LiquidCodec"
+      },
+      "summary": {
+        "en": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x fast…",
+        "zh": "Liquid AI 发布了 LiquidCodec，这是一款约 7400 万参数的流式音频编解码器，为 LFM3-Audio-2B 和 LFM3-Omni-2B 提供支持。它以 12.5 Hz 的频率运行，具有 12 个码本，编码速度大约快 361 倍……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T06:42:51+08:00",
+      "title": {
+        "en": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+        "zh": "民主党人启动对英伟达的调查，就黄仁勋与特朗普的“勾当”撰写措辞严厉的信函"
+      },
+      "summary": {
+        "en": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+        "zh": "这是自所谓间谍事件的消息传出以来，迄今为止对英伟达在中国销售情况及其与特朗普的往来进行的第二次国会调查。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T06:22:28+08:00",
+      "title": {
+        "en": "Muse can now place calls to US businesses — if you pay",
+        "zh": "Muse现在可以拨打美国企业的电话了——如果您愿意付费的话"
+      },
+      "summary": {
+        "en": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+        "zh": "Muse 的人工智能现在可以向美国企业拨打外拨电话，但这不是免费的。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge AI",
+      "published": "2026-11-13T05:55:32+08:00",
+      "title": {
+        "en": "Google’s new Gemini model is better at understanding complicated questions",
+        "zh": "谷歌的新Gemini模型更擅长理解复杂的问题"
+      },
+      "summary": {
+        "en": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly speci…",
+        "zh": "谷歌表示，其全新Gemini 4 Hydrogen模型能够对复杂问题提供更有帮助的答案，包括“包含多个部分的问题、难以理解的拼写错误或高度……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+      "source": "MarkTechPost",
+      "published": "2026-11-13T05:45:36+08:00",
+      "title": {
+        "en": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+        "zh": "CopilotKit 发布 OpenBot 1.0：一款采用 MIT 许可证、可自托管且内置治理功能的人工智能同事"
+      },
+      "summary": {
+        "en": "CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a…",
+        "zh": "CopilotKit 发布了 OpenBot 1.0，这是一个采用 MIT 许可证、可自托管的 AI 同事工作空间。公司自带代理、模型和基础设施，而每个机器人的操作都会通过……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-13T04:16:24+08:00",
+      "title": {
+        "en": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "zh": "尽管业内公开质疑其可行性，但英伟达私下确认它可以追踪芯片以打击走私。"
+      },
+      "summary": {
+        "en": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security…",
+        "zh": "英伟达的代表告诉伊利诺伊州众议员比尔·福斯特（Bill Foster），从技术上来说，实施《芯片安全法案》中要求的反走私措施是可行的……"
+      }
+    },
+    {
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI",
+      "published": "2026-11-13T04:00:00+08:00",
+      "title": {
+        "en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "zh": "Amplitude如何借助OpenAI在1–2天内推出产品改进"
+      },
+      "summary": {
+        "en": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "zh": "Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，它可以识别需要构建的内容，帮助团队通过编码代理发布变更，并衡量其影响。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "The Verge AI",
+      "published": "2026-11-13T03:42:40+08:00",
+      "title": {
+        "en": "No, AI agents did not discover a previously unknown Maya site",
+        "zh": "不，AI 代理并未发现此前未知的玛雅遗址"
+      },
+      "summary": {
+        "en": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem…",
+        "zh": "本周早些时候，谷歌研究员Pietro Miotti声称，在人工智能代理团队的协助下，他发现了墨西哥一处可能尚未被标绘在地图上的玛雅遗址。只有一个问题……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "published": "2026-11-13T02:00:50+08:00",
+      "title": {
+        "en": "Introducing Gemini 4 Hydrogen",
+        "zh": "隆重推出Gemini 4 Hydrogen"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-11T05:12:59+08:00",
+      "title": {
+        "en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "zh": "Grok Build 编码代理泄露大量机密信息，其中一些属于 SpaceXSI"
+      },
+      "summary": {
+        "en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "zh": "研究人员发现，有35,000个Grok Build应用程序对任何寻找它们的人完全开放。"
+      }
+    }
+  ]
+}
