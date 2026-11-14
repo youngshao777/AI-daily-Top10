@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-14",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-14T09:58:07.119447+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge AI",
+      "published": "2026-11-14T07:49:11+08:00",
+      "title": {
+        "en": "Amazon has a plan to index the world’s online shopping data",
+        "zh": "亚马逊计划为全球在线购物数据编制索引"
+      },
+      "summary": {
+        "en": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own sit…",
+        "zh": "亚马逊计划建立一个数据库，储存互联网上任何地方销售的每件商品的信息，即使是亚马逊不销售的商品，并将这些信息通过自己的网站提供……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-14T06:43:00+08:00",
+      "title": {
+        "en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "zh": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面造成了巨大缺口"
+      },
+      "summary": {
+        "en": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+        "zh": "在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元。没有他掌舵，创始人与风险投资机构正为更少的投资和更低的估值做好准备。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge AI",
+      "published": "2026-11-14T04:45:10+08:00",
+      "title": {
+        "en": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+        "zh": "ChatGPT钱包让OpenAI的Dots代理为您代为购物"
+      },
+      "summary": {
+        "en": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscriber…",
+        "zh": "在今年早些时候推出Dots AI代理平台之后，OpenAI将为这些代理推出一款钱包。ChatGPT钱包将于今日起面向ChatGPT Pro订阅用户推出……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-14T03:37:57+08:00",
+      "title": {
+        "en": "AI agent startup LangChain hits $3B valuation",
+        "zh": "AI代理初创公司LangChain估值达30亿美元"
+      },
+      "summary": {
+        "en": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+        "zh": "LangChain 现在声称其模型和平台无关的代理管理工具 LangSmith 拥有 7,000 名客户。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
+      "source": "MarkTechPost",
+      "published": "2026-11-14T01:23:51+08:00",
+      "title": {
+        "en": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
+        "zh": "2026 年最佳 AI 视频生成模型：Elo、每秒价格、开放权重"
+      },
+      "summary": {
+        "en": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This rank…",
+        "zh": "AI 视频排行榜与 12 个月前相比大不相同。原生音频现在已成为基本要求。短片时长为15–30秒。一个开放权重模型位列前三。这个排名……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+      "source": "MarkTechPost",
+      "published": "2026-11-14T00:10:02+08:00",
+      "title": {
+        "en": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+        "zh": "Perplexity 发布 Decider v1.3：开放权重决策模型新增 Locate 功能"
+      },
+      "summary": {
+        "en": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accu…",
+        "zh": "Perplexity Decider v1.3 和 Flash v1.3 是开放权重决策模型，返回的是概率，而不是文本。版本 1.3 新增了用于跨度提取的 Locate，并报告了 91.6% 的平均准确……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "published": "2026-11-13T23:00:00+08:00",
+      "title": {
+        "en": "Introducing ChatGPT Wallet",
+        "zh": "隆重推出ChatGPT钱包"
+      },
+      "summary": {
+        "en": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "zh": "隆重推出 ChatGPT 钱包，这是 ChatGPT Work、Codex 和 dots 中的客服代表在获得用户批准并使用现有银行卡保护措施完成购买的安全方式。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-13T04:16:24+08:00",
+      "title": {
+        "en": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "zh": "尽管业内公开质疑其可行性，但英伟达私下确认它可以追踪芯片以打击走私。"
+      },
+      "summary": {
+        "en": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security…",
+        "zh": "英伟达的代表告诉伊利诺伊州众议员比尔·福斯特（Bill Foster），从技术上来说，实施《芯片安全法案》中要求的反走私措施是可行的……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "published": "2026-11-13T02:00:50+08:00",
+      "title": {
+        "en": "Introducing Gemini 4 Hydrogen",
+        "zh": "隆重推出Gemini 4 Hydrogen"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-11T05:12:59+08:00",
+      "title": {
+        "en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "zh": "Grok Build 编码代理泄露大量机密信息，其中一些属于 SpaceXSI"
+      },
+      "summary": {
+        "en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "zh": "研究人员发现，有35,000个Grok Build应用程序对任何寻找它们的人完全开放。"
+      }
+    }
+  ]
+}
