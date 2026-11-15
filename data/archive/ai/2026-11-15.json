@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-15",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-15T09:29:59.140721+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-15T08:08:07+08:00",
+      "title": {
+        "en": "Where was Nvidia’s security team?",
+        "zh": "Nvidia 的安全团队在哪里？"
+      },
+      "summary": {
+        "en": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of fu…",
+        "zh": "Nvidia 的安全主管于 8 月悄然离职，而现在，首席执行官黄仁勋也因其人际关系而辞职，其中包括与一家涉嫌……的公司的某位高管的关系。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-15T05:41:22+08:00",
+      "title": {
+        "en": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "zh": "埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职位"
+      },
+      "summary": {
+        "en": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+        "zh": "截至周六下午，该请愿书已获得超过11.5万个签名。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+      "source": "MarkTechPost",
+      "published": "2026-11-15T00:45:48+08:00",
+      "title": {
+        "en": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+        "zh": "Cmpnd 发布 dspy-wsp：权重-空间编程走进 DSPy"
+      },
+      "summary": {
+        "en": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, wit…",
+        "zh": "Cmpnd发布了dspy-wsp，这是一款用于权重空间编程的DSPy优化器原型。一种前沿LLM读取小型模型的权重，在沙盒中编辑这些权重，并测试每次更改，……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge AI",
+      "published": "2026-11-14T23:00:00+08:00",
+      "title": {
+        "en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+        "zh": "解雇萨姆·阿尔特曼的OpenAI董事会成员表示，我们仍然不能信任人工智能公司的首席执行官"
+      },
+      "summary": {
+        "en": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on…",
+        "zh": "今天，我将与乔治敦大学安全与新兴技术中心执行主任Helen Toner进行对话。本期节目是我们系列节目的第二期，主题是……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+      "source": "MarkTechPost",
+      "published": "2026-11-14T18:21:21+08:00",
+      "title": {
+        "en": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+        "zh": "斯坦福大学研究团队开源Memorilla，一种用于冻结大语言模型的潜在记忆模块"
+      },
+      "summary": {
+        "en": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactK…",
+        "zh": "斯坦福大学的研究人员发布了Memorilla，这是一个开源记忆系统，可将文档集合压缩为16个记忆标记，用于冻结的Qwen3-8B。它在FactK上的得分达到了84.33%……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.14544",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-14T13:00:00+08:00",
+      "title": {
+        "en": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+        "zh": "Zugwise：用于手写棋谱记分表数字化的域感知棋局重构"
+      },
+      "summary": {
+        "en": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check…",
+        "zh": "arXiv:2611.14544v1 公告类型：新摘要：将手写棋谱记分表数字化已被作为手写识别问题进行研究：读取每个方格中的棋步并检查……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "published": "2026-11-13T23:00:00+08:00",
+      "title": {
+        "en": "Introducing ChatGPT Wallet",
+        "zh": "隆重推出ChatGPT钱包"
+      },
+      "summary": {
+        "en": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "zh": "隆重推出 ChatGPT 钱包，这是 ChatGPT Work、Codex 和 dots 中的客服代表在征得用户同意并使用现有银行卡保护措施完成购买的安全方式。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-13T04:16:24+08:00",
+      "title": {
+        "en": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "zh": "尽管业内公开质疑其可行性，但英伟达私下确认其能够追踪芯片以打击走私行为。"
+      },
+      "summary": {
+        "en": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security…",
+        "zh": "英伟达的代表告诉伊利诺伊州众议员比尔·福斯特（Bill Foster），从技术上来说，实施《芯片安全法案》中要求的反走私措施是可行的……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "published": "2026-11-13T02:00:50+08:00",
+      "title": {
+        "en": "Introducing Gemini 4 Hydrogen",
+        "zh": "隆重推出Gemini 4 Hydrogen"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-11T05:12:59+08:00",
+      "title": {
+        "en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "zh": "Grok Build 编码代理泄露大量机密信息，其中一些属于 SpaceXSI"
+      },
+      "summary": {
+        "en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "zh": "研究人员发现，有3.5万个Grok Build应用程序对任何寻找它们的人完全开放。"
+      }
+    }
+  ]
+}
