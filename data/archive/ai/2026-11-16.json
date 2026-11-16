@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-16",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-16T09:34:39.555019+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge AI",
+      "published": "2026-11-16T09:26:56+08:00",
+      "title": {
+        "en": "Apple’s new study looks to improve the effectiveness of AI health tools",
+        "zh": "苹果公司的新研究旨在提高人工智能健康工具的有效性"
+      },
+      "summary": {
+        "en": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The co…",
+        "zh": "苹果公司今天宣布了一项新研究，旨在更好地了解人们如何与对话式人工智能健康工具互动，以及这些工具的回复实际上有多大用处。该研究……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T07:30:00+08:00",
+      "title": {
+        "en": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "zh": "印度芯片初创公司Bharat Semi获得2400万美元种子轮融资，瞄准全球人工智能传感器市场"
+      },
+      "summary": {
+        "en": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+        "zh": "Bharat Semi表示，其支持人工智能的传感器技术已获得多家公司的设计认可，其中包括通用原子能公司。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI",
+      "published": "2026-11-16T06:00:01+08:00",
+      "title": {
+        "en": "A step toward defining the Standard Model on a lattice",
+        "zh": "朝着在格点上定义标准模型迈出的一步"
+      },
+      "summary": {
+        "en": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "zh": "探索标准模型的候选非微扰格点定义，以及GPT-6 Astra如何帮助将这一想法转化为详细的证明。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI",
+      "published": "2026-11-16T06:00:00+08:00",
+      "title": {
+        "en": "Our new blog for science",
+        "zh": "我们的新科学博客"
+      },
+      "summary": {
+        "en": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+        "zh": "OpenAI科学博客分享了使用人工智能推进科学发现的研究人员的新发现、实用方法和第一手经验。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T05:56:35+08:00",
+      "title": {
+        "en": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "zh": "对黄仁勋来说是坏消息，对人工智能行业来说也是坏消息吗？"
+      },
+      "summary": {
+        "en": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+        "zh": "“Jensen就是Nvidia，对吧？而这片经济的很大一部分都寄希望于Nvidia。”"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge AI",
+      "published": "2026-11-16T04:43:49+08:00",
+      "title": {
+        "en": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+        "zh": "Jensen Huang 可能正在策划回归，以及更多有关英伟达的最新戏剧性事件"
+      },
+      "summary": {
+        "en": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have alread…",
+        "zh": "围绕英伟达联合创始人兼前首席执行官黄仁勋的戏剧性事件正在迅速发展。我们的Stepback通讯最新一期应该能让您了解最新情况，但已经……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "source": "MarkTechPost",
+      "published": "2026-11-15T18:06:21+08:00",
+      "title": {
+        "en": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+        "zh": "Bland推出Tofu-1，一款用于通话的全双工语音到语音模型"
+      },
+      "summary": {
+        "en": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pri…",
+        "zh": "Bland发布了Tofu-1，这是一款用于嘈杂、高风险电话通话的全双工语音到语音模型。该模型目前处于企业研究预览阶段，尚未发布基准、规模或价格……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-13T04:16:24+08:00",
+      "title": {
+        "en": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "zh": "尽管业内公开质疑其可行性，但英伟达私下确认其能够追踪芯片以打击走私行为。"
+      },
+      "summary": {
+        "en": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security…",
+        "zh": "Nvidia 的代表告诉伊利诺伊州众议员比尔·福斯特（Bill Foster），从技术上来说，实施《芯片安全法案》中要求的反走私措施是可行的……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "published": "2026-11-13T02:00:50+08:00",
+      "title": {
+        "en": "Introducing Gemini 4 Hydrogen",
+        "zh": "隆重推出Gemini 4 Hydrogen"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-11T05:12:59+08:00",
+      "title": {
+        "en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "zh": "Grok Build 编码代理泄露大量机密信息，其中一些属于 SpaceXSI"
+      },
+      "summary": {
+        "en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "zh": "研究人员发现，有35,000个Grok Build应用程序对任何寻找它们的人完全开放。"
+      }
+    }
+  ]
+}
