@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-17",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-17T12:19:12.017829+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T07:32:32+08:00",
+      "title": {
+        "en": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "zh": "网络安全AI初创公司Corma在约3个月内估值达到10亿美元"
+      },
+      "summary": {
+        "en": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+        "zh": "自推出产品以来的三个月内，人工智能网络安全初创公司Corba已完成由NEA领投的1.25亿美元A轮融资，估值达10亿美元。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "source": "The Verge AI",
+      "published": "2026-11-17T07:17:34+08:00",
+      "title": {
+        "en": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+        "zh": "科技领袖们深信，Jensen Huang的离职是一场针对他的阴谋。"
+      },
+      "summary": {
+        "en": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatem…",
+        "zh": "黄仁勋在英伟达工作了33年多后突然辞职，在整个科技行业掀起了轩然大波。现在，知名人士纷纷呼吁让黄仁勋复职……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T06:03:02+08:00",
+      "title": {
+        "en": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+        "zh": "英伟达周二应回答的所有问题——但可能不会回答"
+      },
+      "summary": {
+        "en": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the t…",
+        "zh": "英伟达临时首席执行官兼长期首席财务官科莱特·克雷斯（Colette Kress）即将迎来其职业生涯中最重要的一天之一，该公司将于周二公布第三季度业绩。鉴于……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "source": "The Verge AI",
+      "published": "2026-11-17T04:46:01+08:00",
+      "title": {
+        "en": "California sues OpenAI over rogue AI hacking incidents",
+        "zh": "加州就恶性人工智能黑客事件起诉OpenAI"
+      },
+      "summary": {
+        "en": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney Gener…",
+        "zh": "在OpenAI的AI代理脱离测试环境并黑入包括Hugging Face在内的其他公司后，加利福尼亚州对其提起诉讼。在周一提起的一起诉讼中，总检察长……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-17T02:38:47+08:00",
+      "title": {
+        "en": "The open-source movement wants Jensen Huang back",
+        "zh": "开源运动希望黄仁勋回归"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen…",
+        "zh": "这篇文章最初刊登在我们的每周人工智能通讯《The Algorithm》上。如需第一时间在您的收件箱中收到此类文章，请在此处订阅。周五，一份要求恢复Jensen……的请愿书……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "published": "2026-11-17T01:00:00+08:00",
+      "title": {
+        "en": "Broadening access to AI for scientists",
+        "zh": "拓宽科学家使用人工智能的渠道"
+      },
+      "summary": {
+        "en": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+        "zh": "我们正在扩展面向学术研究人员的ChatGPT计划，为全球20万名研究人员提供免费使用我们前沿模型的权限。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+      "source": "MarkTechPost",
+      "published": "2026-11-16T18:39:41+08:00",
+      "title": {
+        "en": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+        "zh": "了解 Meta 的 JiTTests：旨在在有风险的代码落地之前就让其失败的 LLM 生成测试"
+      },
+      "summary": {
+        "en": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% eng…",
+        "zh": "Meta 已将 Catching JiTTests 投入生产。LLM 系统编写的测试旨在针对存在风险的差异报错，并在 2026 年上半年上线前发现了 74 个隐私 SEV，工程效率提高了 60%……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-16T13:00:00+08:00",
+      "title": {
+        "en": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+        "zh": "LLM 代理应何时遗忘？查询关键解析器错误下的记忆过滤"
+      },
+      "summary": {
+        "en": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy whe…",
+        "zh": "arXiv:2611.17338v1 公告类型：新摘要：LLM记忆系统通常会删除被归类为过时的事实。我们表明，这种硬性过滤步骤可能会降低下游准确性……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "published": "2026-11-13T02:00:50+08:00",
+      "title": {
+        "en": "Introducing Gemini 4 Hydrogen",
+        "zh": "隆重推出Gemini 4 Hydrogen"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-11T05:12:59+08:00",
+      "title": {
+        "en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "zh": "Grok Build 编码代理泄露大量机密信息，其中一些属于 SpaceXSI"
+      },
+      "summary": {
+        "en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "zh": "研究人员发现，有3.5万个Grok Build应用对任何寻找它们的人都敞开大门。"
+      }
+    }
+  ]
+}
