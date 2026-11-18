@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-18",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-18T11:18:49.902205+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-18T09:44:21+08:00",
+      "title": {
+        "en": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+        "zh": "英伟达的初创企业投资额飙升至650亿美元，但黄仁勋的退出使未来交易蒙上阴影"
+      },
+      "summary": {
+        "en": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfo…",
+        "zh": "在过去九个月里，英伟达的私募投资价值几乎翻了两番，这得益于黄仁勋激进的交易策略以及现有投资组合估值的不断攀升……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-18T08:27:29+08:00",
+      "title": {
+        "en": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+        "zh": "Copilot 是“全新的工作操作系统”，现在 Office 在其中运行"
+      },
+      "summary": {
+        "en": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+        "zh": "Word、Excel 和 PowerPoint 现在已集成到 Copilot 中；接下来将集成始终在线的代理。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-18T08:16:50+08:00",
+      "title": {
+        "en": "Nvidia promises that revenue will keep soaring — for now",
+        "zh": "英伟达承诺，目前营收将继续飙升"
+      },
+      "summary": {
+        "en": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to…",
+        "zh": "尽管在声名狼藉的创始人兼首席执行官黄仁勋离职后，Nvidia陷入了动荡，但该公司预计其创纪录的收入连胜势头不会……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "source": "The Verge AI",
+      "published": "2026-11-18T07:41:18+08:00",
+      "title": {
+        "en": "Satya Nadella says he’s AGI-pilled now",
+        "zh": "萨蒂亚·纳德拉表示，他现在已经“AGI上头”了"
+      },
+      "summary": {
+        "en": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change becau…",
+        "zh": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）表示，他相信AGI，至少在谈到人工智能可能会对经济结构带来惊人变化以及政治可能会因……而发生变化时，他相信AGI。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
+      "source": "MarkTechPost",
+      "published": "2026-11-18T06:52:04+08:00",
+      "title": {
+        "en": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+        "zh": "Perplexity Computer新增多智能体功能：最多可有16个AI智能体交叉核查工作"
+      },
+      "summary": {
+        "en": "Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each ot…",
+        "zh": "Perplexity 为计算机添加了多智能体功能，这是一个高于“超强”的努力级别，其中一个主智能体在 Claude、GPT 和 Gemini 模型上运行多达 16 个智能体，这些智能体共享发现结果并相互检查……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "source": "The Verge AI",
+      "published": "2026-11-18T05:40:59+08:00",
+      "title": {
+        "en": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+        "zh": "英伟达第三季度业绩达标，但未提及有关黄仁勋的整件事"
+      },
+      "summary": {
+        "en": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible…",
+        "zh": "英伟达临时首席执行官科莱特·克雷斯（Colette Kress）周二公布了该公司的第三季度财报，最初并未提及前首席执行官黄仁勋或其离职的详情，也未提及可能的……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "published": "2026-11-18T01:45:00+08:00",
+      "title": {
+        "en": "Introducing GPT-6.2 Astra and Sol",
+        "zh": "隆重推出 GPT-6.2 Astra 和 Sol"
+      },
+      "summary": {
+        "en": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+        "zh": "隆重推出GPT‑6.2 Astra和Sol，在ChatGPT Work、Codex和API中以更低的成本提供更出色的专业输出、编码、计算机使用和效率。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-17T22:39:46+08:00",
+      "title": {
+        "en": "Research Reports",
+        "zh": "调研报告"
+      },
+      "summary": {
+        "en": "To access a report, click on the corresponding image below.",
+        "zh": "要访问报告，请点击下方对应的图片。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "published": "2026-11-13T02:00:50+08:00",
+      "title": {
+        "en": "Introducing Gemini 4 Hydrogen",
+        "zh": "隆重推出Gemini 4 Hydrogen"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-11T05:12:59+08:00",
+      "title": {
+        "en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "zh": "Grok Build 编码代理泄露大量机密信息，其中一些属于 SpaceXSI"
+      },
+      "summary": {
+        "en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "zh": "研究人员发现，有35,000个Grok Build应用程序对任何寻找它们的人完全开放。"
+      }
+    }
+  ]
+}
