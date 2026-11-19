@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-19",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-19T10:55:38.946456+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T08:42:56+08:00",
+      "title": {
+        "en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "zh": "微软首席执行官萨蒂亚·纳德拉解释了他为何要求6万名员工离职"
+      },
+      "summary": {
+        "en": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce…",
+        "zh": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）解释了他为何在10月份向6万名员工提供买断方案，实际上是敦促他们自愿离职，而不是裁员……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T07:45:00+08:00",
+      "title": {
+        "en": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+        "zh": "在人们对人工智能网络攻击的担忧中，萨蒂亚·纳德拉表示，许多关键基础设施“无法修补”"
+      },
+      "summary": {
+        "en": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+        "zh": "微软首席执行官淡化了最近的Outlook服务中断事件，同时指出，人工智能既为保障大部分互联世界带来了机遇，也带来了新的挑战。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "source": "The Verge AI",
+      "published": "2026-11-19T07:18:35+08:00",
+      "title": {
+        "en": "The nation’s largest school districts consider ditching Google Search",
+        "zh": "美国最大的学区考虑放弃使用Google搜索"
+      },
+      "summary": {
+        "en": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according…",
+        "zh": "据报道，在谷歌表示将禁用选择退出其人工智能功能的学校的搜索功能后，纽约、洛杉矶和芝加哥的学校正在考虑使用谷歌的替代方案……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
+      "published": "2026-11-19T05:35:43+08:00",
+      "title": {
+        "en": "Introducing Gemini 4 Neon",
+        "zh": "隆重推出Gemini 4 Neon"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "source": "The Verge AI",
+      "published": "2026-11-19T03:40:36+08:00",
+      "title": {
+        "en": "Trump’s latest land grab is an AI hub in the Philippines",
+        "zh": "特朗普的最新土地掠夺是一处位于菲律宾的人工智能中心"
+      },
+      "summary": {
+        "en": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the…",
+        "zh": "据当地新闻媒体Rappler报道，周二，唐纳德·特朗普总统在抵达菲律宾时，至少有五位选美皇后前来迎接。当他踏上……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
+      "source": "MarkTechPost",
+      "published": "2026-11-19T00:07:50+08:00",
+      "title": {
+        "en": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
+        "zh": "全新 LoRA 适配器将 Qwen3.8 的编码成功率从 39% 提升至 65%"
+      },
+      "summary": {
+        "en": "Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent. It lifts SWE-bench Pro hard-51 pass@1 from 39…",
+        "zh": "Hugging Face 发布了 Qwen3.8-27B-pi-adapted，这是一款采用 Apache-2.0 许可证的 LoRA 适配器，通过强化学习针对 pi 编码代理进行了训练。它将SWE-bench Pro hard-51 pass@1从39……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-18T22:42:44+08:00",
+      "title": {
+        "en": "The AI Hype Index: AI is everywhere",
+        "zh": "人工智能热度指数：人工智能无处不在"
+      },
+      "summary": {
+        "en": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your ap…",
+        "zh": "人工智能就像一种讨厌的皮疹，似乎蔓延到各处。尽管AI Overviews会让公司损失数十亿美元的广告收入，但Google还是强行将它塞进您的视野。放下您的……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI",
+      "published": "2026-11-18T18:00:00+08:00",
+      "title": {
+        "en": "The Silent Consensus",
+        "zh": "默契共识"
+      },
+      "summary": {
+        "en": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+        "zh": "OpenAI战略未来主管Dean Ball探讨了能力更强的人工智能如何重塑社会，以及人们如何能够保持对其机构的掌控。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.21682",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-18T13:00:00+08:00",
+      "title": {
+        "en": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+        "zh": "NEBench R1：用于评估大型语言模型核领域能力的推理基准"
+      },
+      "summary": {
+        "en": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear en…",
+        "zh": "arXiv:2611.21682v1 公告类型：新摘要：大型语言模型（LLM）正日益被用于核能领域知识密集型和安全关键型应用……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-18T08:27:29+08:00",
+      "title": {
+        "en": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+        "zh": "Copilot 是“全新的工作操作系统”，现在 Office 在其中运行"
+      },
+      "summary": {
+        "en": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+        "zh": "Word、Excel 和 PowerPoint 现在已集成到 Copilot 中；接下来将集成始终在线的代理。"
+      }
+    }
+  ]
+}
