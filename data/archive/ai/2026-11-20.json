@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-20",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-20T10:49:45.058853+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T08:56:01+08:00",
+      "title": {
+        "en": "Apple may be developing its own AI agent that runs your Mac",
+        "zh": "苹果可能正在开发自己的AI代理来运行您的Mac"
+      },
+      "summary": {
+        "en": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "zh": "iPhone 制造商似乎正在打造能够与 Meta Muse、Instinct、Claude 和 OpenAI Dots 等产品竞争的智能体。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T08:43:50+08:00",
+      "title": {
+        "en": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "zh": "Anthropic的7位创始人通过创纪录的IPO套现近20亿美元"
+      },
+      "summary": {
+        "en": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+        "zh": "按照上调后的83美元/股的IPO价格，Anthropic的七位创始人每人赚取了2.8亿美元，而该公司则获得了近1050亿美元。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge AI",
+      "published": "2026-11-20T06:31:41+08:00",
+      "title": {
+        "en": "Apple is hiring engineers to build its own AI agent",
+        "zh": "苹果正在招聘工程师，以打造自己的AI代理"
+      },
+      "summary": {
+        "en": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's accordi…",
+        "zh": "据报道，苹果正在开发自己的AI代理，它可以为您执行一系列任务，包括浏览网页、跨应用程序工作、编写代码和调用服务。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge AI",
+      "published": "2026-11-20T05:59:35+08:00",
+      "title": {
+        "en": "A brief history of Nvidia’s recent stock fluctuations",
+        "zh": "英伟达近期股价波动的简史"
+      },
+      "summary": {
+        "en": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's s…",
+        "zh": "“我们有能力应对，”英伟达临时首席执行官科莱特·克雷斯（Colette Kress）周二晚在结束这家饱受困扰的芯片公司第三季度财报电话会议时表示。截至周四，该公司的……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
+      "source": "MarkTechPost",
+      "published": "2026-11-20T05:46:22+08:00",
+      "title": {
+        "en": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+        "zh": "Meta FAIR 自我改进记忆在持续学习基准测试中得分 56.0"
+      },
+      "summary": {
+        "en": "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for t…",
+        "zh": "Meta FAIR 的自我改进记忆功能使 Kimi-K2.6 能够自行编写 LOAD 和 OFFLOAD 记忆提示，然后将其提炼为权重。优化后的提示得分56.0，而t……的得分为44.6。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "published": "2026-11-19T16:00:00+08:00",
+      "title": {
+        "en": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "zh": "OpenAI 的性能工厂如何让 ChatGPT 保持快速"
+      },
+      "summary": {
+        "en": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+        "zh": "了解OpenAI是如何构建Performance Factory的，这是一个由Codex驱动的工作流系统，用于查找和解决性能问题，以帮助保持ChatGPT的快速运行。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.21682",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-19T13:00:00+08:00",
+      "title": {
+        "en": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+        "zh": "NEBench R1：用于评估大型语言模型核领域能力的推理基准"
+      },
+      "summary": {
+        "en": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear en…",
+        "zh": "arXiv:2611.21682v1 公告类型：新摘要：大型语言模型（LLM）正日益被用于核能领域知识密集型和安全关键型应用……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
+      "published": "2026-11-19T05:35:43+08:00",
+      "title": {
+        "en": "Introducing Gemini 4 Neon",
+        "zh": "隆重推出Gemini 4 Neon"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-18T22:42:44+08:00",
+      "title": {
+        "en": "The AI Hype Index: AI is everywhere",
+        "zh": "人工智能热度指数：人工智能无处不在"
+      },
+      "summary": {
+        "en": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your ap…",
+        "zh": "人工智能就像一种讨厌的皮疹，似乎无处不在。尽管AI Overviews会让公司损失数十亿美元的广告收入，但Google还是强行将它塞进您的视野。放下您的……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-18T08:27:29+08:00",
+      "title": {
+        "en": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+        "zh": "Copilot 是“全新的工作操作系统”，现在 Office 在其中运行"
+      },
+      "summary": {
+        "en": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+        "zh": "Word、Excel 和 PowerPoint 现在已集成到 Copilot 中；接下来将集成始终在线的代理。"
+      }
+    }
+  ]
+}
