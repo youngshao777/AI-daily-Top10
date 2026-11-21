@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-21",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-21T10:58:18.655763+08:00",
+  "items": [
+    {
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-21T04:59:08+08:00",
+      "title": {
+        "en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "zh": "研究人员在人工智能供应链中植入了 200 万只“金丝雀”。一场隐私灾难浮出水面。"
+      },
+      "summary": {
+        "en": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+        "zh": "使用包含唯一且可追踪的秘密的提示进行测试，结果证明数据无法保持私密。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-21T03:53:41+08:00",
+      "title": {
+        "en": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "zh": "丹尼尔·埃克支持人工智能研究人员的聚变能初创公司。以下是他们正在打造的项目。"
+      },
+      "summary": {
+        "en": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+        "zh": "Spotify创始人丹尼尔·埃克（Daniel Ek）正在支持Europa Fusion，这是一家由人工智能研究员创立的聚变能初创公司。以下是这家初创公司正在打造的产品。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-21T03:32:08+08:00",
+      "title": {
+        "en": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "zh": "人工智能声称解决了有167年历史的黎曼猜想，而人类也解决了这个问题"
+      },
+      "summary": {
+        "en": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+        "zh": "最新的AI驱动的结果让数学家们大为震撼——而且还有一种与之竞争的人类解决方案。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge AI",
+      "published": "2026-11-21T02:50:19+08:00",
+      "title": {
+        "en": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "zh": "特朗普威胁要对将人工智能数据中心迁至美国境外征收“巨额税款”"
+      },
+      "summary": {
+        "en": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrict…",
+        "zh": "唐纳德·特朗普总统承诺，对在美国境外建设数据中心的公司征收“巨额税款”，即使美国各地州和城市正在实施限制……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-21T02:15:15+08:00",
+      "title": {
+        "en": "The most misunderstood graph in AI just got a major update",
+        "zh": "人工智能领域最被误解的图表刚刚进行了重大更新"
+      },
+      "summary": {
+        "en": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren…",
+        "zh": "人工智能评估非营利组织METR的一份新报告发现，一些人工智能能力正持续沿着指数级轨迹提升——但报告也指出，一些模型……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+      "source": "MarkTechPost",
+      "published": "2026-11-21T01:42:29+08:00",
+      "title": {
+        "en": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+        "zh": "RadixArk发布DaisyRose-27B，一款仅通过强化学习训练的270亿参数智能体编码模型"
+      },
+      "summary": {
+        "en": "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1…",
+        "zh": "RadixArk 发布了 DaisyRose-27B，这是一款基于 Qwen3.8-27B 仅通过强化学习进行后训练的 Apache 2.0 智能体编码模型。它在Terminal Bench 4.1 pass@1上的得分翻了一番多……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "published": "2026-11-20T18:00:00+08:00",
+      "title": {
+        "en": "Combatting adversarial distillation",
+        "zh": "对抗对抗性蒸馏"
+      },
+      "summary": {
+        "en": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+        "zh": "OpenAI 对对抗性蒸馏的分层方法结合了模型训练、保障措施、检测和执行，以防范能力提取。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.23322",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-20T13:00:00+08:00",
+      "title": {
+        "en": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+        "zh": "能力不对称时，人与人工智能的互利关系并不稳定"
+      },
+      "summary": {
+        "en": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the rela…",
+        "zh": "arXiv:2611.23322v1 公告类型：新摘要：人类与先进人工智能共存的美好未来的一大希望在于持久的互利关系：人类和人工智能将需要彼此，因此……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
+      "published": "2026-11-19T05:35:43+08:00",
+      "title": {
+        "en": "Introducing Gemini 4 Neon",
+        "zh": "隆重推出Gemini 4 Neon"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    {
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-18T08:27:29+08:00",
+      "title": {
+        "en": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+        "zh": "Copilot 是“全新的工作操作系统”，现在 Office 在其中运行"
+      },
+      "summary": {
+        "en": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+        "zh": "Word、Excel 和 PowerPoint 现在已集成到 Copilot 中；接下来将集成始终在线的智能体。"
+      }
+    }
+  ]
+}
