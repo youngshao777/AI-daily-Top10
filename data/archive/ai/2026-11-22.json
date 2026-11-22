@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-22",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-22T09:53:59.231426+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-22T05:37:10+08:00",
+      "title": {
+        "en": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "zh": "Signal限制移动端截屏，以应对人工智能监控带来的“生存威胁”"
+      },
+      "summary": {
+        "en": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+        "zh": "Signal 正在限制用户在其 Android 和 iOS 应用中截屏的能力。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-22T05:07:42+08:00",
+      "title": {
+        "en": "A tale of two Nvidias",
+        "zh": "两个英伟达的故事"
+      },
+      "summary": {
+        "en": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+        "zh": "我们看到了有关英伟达的两种截然不同的景象：该公司最新的财报，以及科技高管们大声疾呼黄仁勋回归。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge AI",
+      "published": "2026-11-22T04:03:37+08:00",
+      "title": {
+        "en": "The UN fails to agree on rules regulating ‘killer robots’",
+        "zh": "联合国未能就“杀手机器人”的监管规则达成一致"
+      },
+      "summary": {
+        "en": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventu…",
+        "zh": "本周在日内瓦举行的联合国外交官会议的议程之一是制定关于使用自主武器（即所谓的“杀手机器人”）的规则。最终……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge AI",
+      "published": "2026-11-21T23:00:00+08:00",
+      "title": {
+        "en": "Can Anthropic afford to put safety first?",
+        "zh": "Anthropic 是否有能力将安全放在首位？"
+      },
+      "summary": {
+        "en": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behin…",
+        "zh": "今天，我将与The Verge的高级人工智能记者Hayden Field就Anthropic的IPO进行探讨，这是我们关于人工智能在现实生活中的系列节目的第三期，也是最后一期。背后的AI实验室……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "source": "MarkTechPost",
+      "published": "2026-11-21T20:13:50+08:00",
+      "title": {
+        "en": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+        "zh": "认识 Thinking Machines Inkling 2 Mini：在 32GB 的 Mac 上运行 260 亿参数的循环 MoE"
+      },
+      "summary": {
+        "en": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-ben…",
+        "zh": "Thinking Machines发布了Inkling 2 Mini，这是一款具有264亿个参数的环路MoE Transformer，拥有34亿个活动参数。它可以在 32GB 的 Mac 或一台 DGX Spark 上运行，在 SWE-ben 上的得分达 79.2%……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+      "source": "MarkTechPost",
+      "published": "2026-11-21T19:46:17+08:00",
+      "title": {
+        "en": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+        "zh": "OpenAI 发布适用于语音助手的 GPT-Live-1.1，将空闲成本降至 0.02 美元/分钟"
+      },
+      "summary": {
+        "en": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 pe…",
+        "zh": "OpenAI 已在 API 中发布 GPT-Live-1.1。全双工语音模型改进了多语言口音和转录，新的待机模式对闲置的 WebRTC 时间按每…… 0.02 美元收费。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-21T04:59:08+08:00",
+      "title": {
+        "en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "zh": "研究人员在人工智能供应链中植入了 200 万只“金丝雀”。一场隐私灾难浮出水面。"
+      },
+      "summary": {
+        "en": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+        "zh": "使用包含唯一且可追踪密钥的提示语进行测试，结果证明数据无法保持私密性。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-21T02:15:15+08:00",
+      "title": {
+        "en": "The most misunderstood graph in AI just got a major update",
+        "zh": "人工智能领域最常被误解的图表刚刚进行了重大更新"
+      },
+      "summary": {
+        "en": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren…",
+        "zh": "人工智能评估非营利组织METR的一份新报告发现，一些人工智能能力正沿着指数级轨迹持续提升，但报告也指出，这些模型……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "published": "2026-11-20T18:00:00+08:00",
+      "title": {
+        "en": "Combatting adversarial distillation",
+        "zh": "对抗对抗性蒸馏"
+      },
+      "summary": {
+        "en": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+        "zh": "OpenAI 对对抗性蒸馏的分层方法将模型训练、保障措施、检测和执行相结合，以防范能力提取。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
+      "published": "2026-11-19T05:35:43+08:00",
+      "title": {
+        "en": "Introducing Gemini 4 Neon",
+        "zh": "隆重推出Gemini 4 Neon"
+      },
+      "summary": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ]
+}
