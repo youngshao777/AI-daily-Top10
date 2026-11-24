@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-24",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-24T13:44:16.313153+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+      "source": "MarkTechPost",
+      "published": "2026-11-24T08:02:39+08:00",
+      "title": {
+        "en": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+        "zh": "Anthropic推出Claude Ship，用于GitHub拉取请求的审核和修复"
+      },
+      "summary": {
+        "en": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public b…",
+        "zh": "Anthropic的Claude Ship将代码评审、PR Steward和Claude Approvals捆绑在一起，用于评审、修复和批准GitHub拉取请求。Code Review已正式发布；另外2个代理处于公开测试阶段……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge AI",
+      "published": "2026-11-24T06:25:12+08:00",
+      "title": {
+        "en": "Trump engineered a risky comeback for Jensen Huang",
+        "zh": "特朗普为黄仁勋策划了一次冒险的回归"
+      },
+      "summary": {
+        "en": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to s…",
+        "zh": "在有报道称黄仁勋与一名疑似中国间谍有染后，Nvidia董事会接受了黄仁勋辞去首席执行官职务的决定。美国总统唐纳德·特朗普似乎也……"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge AI",
+      "published": "2026-11-24T06:10:32+08:00",
+      "title": {
+        "en": "Nvidia CEO Jensen Huang is back. What happens next?",
+        "zh": "英伟达首席执行官黄仁勋回来了。接下来会发生什么？"
+      },
+      "summary": {
+        "en": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an inves…",
+        "zh": "在身着皮夹克的Nvidia首席执行官、总裁兼联合创始人黄仁勋承认与Megaspeed高管Alice Huang有染后，他的公司最初宣布……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T06:05:50+08:00",
+      "title": {
+        "en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "zh": "Anthropic推出Claude Ship，让AI代理审查、修复和批准代码变更"
+      },
+      "summary": {
+        "en": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "zh": "随着人工智能生成的代码不断累积，Anthropic 的新开发者工具旨在通过让代理处理日常审批来消除另一个瓶颈。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T06:02:05+08:00",
+      "title": {
+        "en": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "zh": "Supertake 筹集 2000 万美元，让 AI 代理将您的市场预测转化为股票投资组合"
+      },
+      "summary": {
+        "en": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+        "zh": "您认为自己知道市场走向吗？一家名为Supertake的初创公司让您无需亲自挑选股票，即可将资金投入到您的想法中。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "published": "2026-11-24T05:20:00+08:00",
+      "title": {
+        "en": "OpenAI and Cisco introduce Shirudo",
+        "zh": "OpenAI 和思科推出 Shirudo"
+      },
+      "summary": {
+        "en": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+        "zh": "OpenAI 和思科推出 Shirudo，一款适用于 Linux 的开源运行时。它可以帮助团队在推出补丁的同时保护正在运行的系统。"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+      "source": "MarkTechPost",
+      "published": "2026-11-24T03:11:40+08:00",
+      "title": {
+        "en": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+        "zh": "Z AI 发布 GLM-5.4：一个 7500 亿参数的循环变压器，可运行 28 层两次"
+      },
+      "summary": {
+        "en": "Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after sa…",
+        "zh": "Z.ai发布了其首款Loop Transformer旗舰产品GLM-5.4。这款 7500 亿参数规模的模型将 28 个 GLM-5 层运行两次，以实现更深层次的推理，并计划在……之后提供 API 访问和开放权重。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-24T01:36:08+08:00",
+      "title": {
+        "en": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+        "zh": "一位传奇哲学家并不认同Anthropic的意识论点"
+      },
+      "summary": {
+        "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic…",
+        "zh": "这篇文章最初刊登在我们的每周人工智能通讯《The Algorithm》上。如需第一时间在收件箱中收到此类文章，请在此处订阅。在上周上市之前，Anthropic……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind",
+      "published": "2026-11-24T00:59:40+08:00",
+      "title": {
+        "en": "Finding faster quantum algorithms with agents and formal verification",
+        "zh": "利用代理和形式化验证寻找更快的量子算法"
+      },
+      "summary": {
+        "en": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+        "zh": "使用代理团队和形式化验证来改进用于聚变和化学的量子算法。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-21T04:59:08+08:00",
+      "title": {
+        "en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "zh": "研究人员在人工智能供应链中植入了 200 万只“金丝雀”。一场隐私灾难浮出水面。"
+      },
+      "summary": {
+        "en": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+        "zh": "使用包含唯一、可追踪秘密的提示进行测试，结果证明数据无法保持私密。"
+      }
+    }
+  ]
+}
