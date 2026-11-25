@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-25",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-25T12:46:03.135726+08:00",
+  "items": [
+    {
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-25T08:12:02+08:00",
+      "title": {
+        "en": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+        "zh": "耶鲁大学的索南菲尔德：英伟达对美国工业实力是一种“损害”，而不是捍卫者"
+      },
+      "summary": {
+        "en": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposi…",
+        "zh": "耶鲁大学的杰弗里·桑菲尔德（Jeffrey Sonnenfeld）警告称，周一市场欢呼雀跃的事件——即黄仁勋在白宫的支持下重返英伟达担任首席执行官和董事会成员——可能会被证明是一个巨大的错误，并揭示了……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+      "source": "MarkTechPost",
+      "published": "2026-11-25T07:06:17+08:00",
+      "title": {
+        "en": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
+        "zh": "认识Facebook的“您的算法”：Meta如何将通俗易懂的偏好转化为排名"
+      },
+      "summary": {
+        "en": "Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, l…",
+        "zh": "Meta的工程团队解释了Facebook的“您的算法”如何使用LLM验证、4个检索源、l……将通俗易懂的兴趣转化为Feed和Reels的排名信号。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-25T06:27:52+08:00",
+      "title": {
+        "en": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+        "zh": "黄仁勋仍然认为继任计划会造成不必要的层级关系"
+      },
+      "summary": {
+        "en": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+        "zh": "对于一家在过去两周一直在摸索没有创始人会发生什么情况的公司来说，这是一个非同寻常的立场。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-25T04:34:53+08:00",
+      "title": {
+        "en": "What's going on with the Riemann hypothesis?",
+        "zh": "黎曼猜想进展如何？"
+      },
+      "summary": {
+        "en": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+        "zh": "一项新的AI辅助证明似乎很严谨，但我们不确定它能告诉我们什么。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "source": "The Verge AI",
+      "published": "2026-11-25T04:02:03+08:00",
+      "title": {
+        "en": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+        "zh": "据报道，黄仁勋告诉英伟达员工，特朗普让他重返职场“并非事实”"
+      },
+      "summary": {
+        "en": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House…",
+        "zh": "Nvidia首席执行官黄仁勋在重返公司后的第一次全体员工大会上向员工道歉，同时试图与白宫的说法撇清关系……"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-24T23:15:16+08:00",
+      "title": {
+        "en": "Raising the stakes for enterprise networks with AI modernization",
+        "zh": "通过 AI 现代化提升企业网络的价值"
+      },
+      "summary": {
+        "en": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. N…",
+        "zh": "企业网络正承受着巨大压力。随着企业争相部署人工智能，这项技术正迅速成为网络需求的最大来源。N…"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
+      "source": "MarkTechPost",
+      "published": "2026-11-24T22:16:53+08:00",
+      "title": {
+        "en": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
+        "zh": "OpenAI和思科发布Shirudo：一款开源Linux运行时，使代理能够保护系统而无需停机"
+      },
+      "summary": {
+        "en": "OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed \"shields\" that block exploit paths on running systems while teams tes…",
+        "zh": "OpenAI 和思科发布了 Shirudo，这是一款面向 Linux 的预发布版、采用 BSD 许可的 eBPF 运行时。AI 代理编写签名“盾牌”，在团队测试时阻止运行中系统的漏洞利用路径……"
+      }
+    },
+    {
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "published": "2026-11-24T21:00:00+08:00",
+      "title": {
+        "en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "zh": "GPT-6模型展现出内在的蛋白质设计能力"
+      },
+      "summary": {
+        "en": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+        "zh": "GPT-6 模型使用推理和代码来设计蛋白质结构和序列。实验室测试发现了跨五个靶点的结合证据。"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-24T20:30:05+08:00",
+      "title": {
+        "en": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "zh": "亚马逊表示，黑客的AI代理在几乎没有人工干预的情况下发现了零日漏洞并进行了利用"
+      },
+      "summary": {
+        "en": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+        "zh": "事实证明，Cairn AI框架对防御者和攻击者来说都是一大福音。"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind",
+      "published": "2026-11-24T00:59:40+08:00",
+      "title": {
+        "en": "Finding faster quantum algorithms with agents and formal verification",
+        "zh": "借助代理和形式化验证找到更快的量子算法"
+      },
+      "summary": {
+        "en": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+        "zh": "使用代理团队和形式化验证来改进用于聚变和化学的量子算法。"
+      }
+    }
+  ]
+}
