@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-27",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-27T11:55:42.266255+08:00",
+  "items": [
+    {
+      "link": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+      "source": "MarkTechPost",
+      "published": "2026-11-27T11:43:35+08:00",
+      "title": {
+        "en": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+        "zh": "nexos.ai AI 采用平台将 200 多个模型整合到一个 AI 网关中，并内置预算限制和治理功能"
+      },
+      "summary": {
+        "en": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one…",
+        "zh": "nexos.ai AI 采用平台将 200 多个模型整合到一个 AI 网关中，并内置预算限制和治理功能。文章《nexos.ai AI 采用平台将 200 多个模型整合到一个……》"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+      "source": "MarkTechPost",
+      "published": "2026-11-27T11:31:30+08:00",
+      "title": {
+        "en": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+        "zh": "腾讯开源 DFly2：重用目标稀疏 KV 缓存的推测性解码"
+      },
+      "summary": {
+        "en": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV mem…",
+        "zh": "腾讯开源了 DFly2，这是一款用于稀疏注意力 LLM 的推测性解码草稿生成器。每个草稿层都会重复使用目标的 KV 缓存和前 k 个索引器选择，不会增加草稿 KV 内存……"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-27T04:03:54+08:00",
+      "title": {
+        "en": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "zh": "英伟达暂停向东南亚出货芯片"
+      },
+      "summary": {
+        "en": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "zh": "英伟达已告知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚发运服务器，因为美国正在加紧努力，阻止人工智能芯片进入中国。"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-27T00:00:00+08:00",
+      "title": {
+        "en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "zh": "《侠盗猎车手6》证明了效率为何不是一种美德"
+      },
+      "summary": {
+        "en": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "zh": "在Anthropic上市的同一天，一款精心打造的拟人化视频游戏成为了有史以来最成功的娱乐产品之一。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge AI",
+      "published": "2026-11-26T17:54:40+08:00",
+      "title": {
+        "en": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+        "zh": "42个州的总检察长正试图阻止Character.AI出售用户的聊天记录"
+      },
+      "summary": {
+        "en": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly ide…",
+        "zh": "42个州的总检察长组成联盟，正试图阻止Character.AI在进行第11章破产程序期间出售用户数据。在近乎……的洪流中……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.31284",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-26T13:00:00+08:00",
+      "title": {
+        "en": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+        "zh": "自主代理系统的不可约治理结构：公平分配、策略稳健性和多尺度组合"
+      },
+      "summary": {
+        "en": "arXiv:2611.31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equ…",
+        "zh": "arXiv:2611.31284v1 公告类型：新文 摘要：自主体治理通常被视为一个强制正确执行的问题。然而，在多智能体系统中，一个……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-26T01:12:57+08:00",
+      "title": {
+        "en": "Etsy clarifies AI terms after seller backlash",
+        "zh": "Etsy 在卖家强烈不满后澄清了 AI 条款"
+      },
+      "summary": {
+        "en": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+        "zh": "一位资深插画师将修改称为“虚饰”。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-25T18:00:00+08:00",
+      "title": {
+        "en": "AI is straining America’s open records systems",
+        "zh": "人工智能正在使美国的公开记录系统不堪重负"
+      },
+      "summary": {
+        "en": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor an…",
+        "zh": "在佛蒙特州人口仅为660人的潘顿镇，镇书记官凯尔·罗伊（Kyle Rowe）包揽了所有事务。他编制预算、向供应商付款、处理房产税争议，并担任镇上的分区主管……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "published": "2026-11-24T21:07:53+08:00",
+      "title": {
+        "en": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+        "zh": "从谱图到结构：使用质谱技术为 Google Antigravity 鉴定分子"
+      },
+      "summary": {
+        "en": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+        "zh": "Mass Spec Skills 借助 Google Antigravity，使科学家能够解读串联质谱。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "published": "2026-11-24T21:00:00+08:00",
+      "title": {
+        "en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "zh": "GPT-6模型展现出内在的蛋白质设计能力"
+      },
+      "summary": {
+        "en": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+        "zh": "GPT-6 模型使用推理和代码来设计蛋白质结构和序列。实验室测试发现了跨五个靶点的结合证据。"
+      }
+    }
+  ]
+}
