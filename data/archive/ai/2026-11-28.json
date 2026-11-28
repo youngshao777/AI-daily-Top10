@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-28",
+  "category": "ai",
+  "categoryName": {
+    "zh": "AI",
+    "en": "AI"
+  },
+  "generatedAt": "2026-11-28T11:43:05.994000+08:00",
+  "items": [
+    {
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge AI",
+      "published": "2026-11-27T22:00:00+08:00",
+      "title": {
+        "en": "Android’s DIY widgets are a bit of vibe-coding fun",
+        "zh": "Android的DIY小部件带来了一些氛围编码的乐趣"
+      },
+      "summary": {
+        "en": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for t…",
+        "zh": "除了处理我的日程安排外，我希望人工智能还能做一件事：告诉我是否即将错过公交车。我需要的是一个小工具。它需要告诉我……的实时到站时间。"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.33160",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-27T13:00:00+08:00",
+      "title": {
+        "en": "Context Scaling: A New Frontier of AI Scaling",
+        "zh": "上下文扩展：人工智能扩展的新前沿"
+      },
+      "summary": {
+        "en": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context…",
+        "zh": "arXiv:2611.33160v1 公告类型：新摘要：已部署的AI的许多故障并非源于推理能力薄弱，而是源于任务所依赖的状态与上下文之间存在不匹配……"
+      }
+    },
+    {
+      "link": "https://arxiv.org/abs/2611.33161",
+      "source": "arXiv cs.AI",
+      "published": "2026-11-27T13:00:00+08:00",
+      "title": {
+        "en": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+        "zh": "针对大语言模型（LLM）和视觉语言模型（VLM）候选模型选择的约束感知测试时评分"
+      },
+      "summary": {
+        "en": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned…",
+        "zh": "arXiv:2611.33161v1 公告类型：新文章摘要：当LLM或VLM生成多个候选答案时，选择最佳答案通常依赖于模型自身的置信度，这是一种通过……"
+      }
+    },
+    {
+      "link": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+      "source": "MarkTechPost",
+      "published": "2026-11-27T11:43:35+08:00",
+      "title": {
+        "en": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+        "zh": "nexos.ai AI采用平台将200多个模型整合到一个AI网关中，并内置预算限制和治理功能"
+      },
+      "summary": {
+        "en": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one…",
+        "zh": "nexos.ai AI 采用平台将 200 多个模型整合到一个 AI 网关中，并内置预算限制和治理功能。文章《nexos.ai AI 采用平台将 200 多个模型整合到一个……》"
+      }
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
+      "published": "2026-11-27T04:03:54+08:00",
+      "title": {
+        "en": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "zh": "英伟达暂停向东南亚出货芯片"
+      },
+      "summary": {
+        "en": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "zh": "英伟达已告知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚出货服务器，因为美国正在加紧努力，阻止人工智能芯片进入中国。"
+      }
+    },
+    {
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge AI",
+      "published": "2026-11-26T17:54:40+08:00",
+      "title": {
+        "en": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+        "zh": "42个州的总检察长正试图阻止Character.AI出售用户的聊天记录"
+      },
+      "summary": {
+        "en": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly ide…",
+        "zh": "42个州的总检察长组成联盟，正试图阻止Character.AI在进行第11章破产程序期间出售用户数据。在近乎……的洪流中……"
+      }
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+      "source": "Ars Technica AI",
+      "published": "2026-11-26T01:12:57+08:00",
+      "title": {
+        "en": "Etsy clarifies AI terms after seller backlash",
+        "zh": "Etsy 在卖家强烈不满后澄清了 AI 条款"
+      },
+      "summary": {
+        "en": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+        "zh": "一位资深插画师将修改斥之为“虚饰”。"
+      }
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Technology Review",
+      "published": "2026-11-25T18:00:00+08:00",
+      "title": {
+        "en": "AI is straining America’s open records systems",
+        "zh": "人工智能正在使美国的公开记录系统不堪重负"
+      },
+      "summary": {
+        "en": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor an…",
+        "zh": "在佛蒙特州人口仅为660人的潘顿镇，镇书记官凯尔·罗伊（Kyle Rowe）一人身兼数职。他编制预算、向供应商付款、处理房产税争议，并担任小镇的区划主管……"
+      }
+    },
+    {
+      "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "published": "2026-11-24T21:07:53+08:00",
+      "title": {
+        "en": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+        "zh": "从谱图到结构：使用质谱技术为 Google Antigravity 鉴定分子"
+      },
+      "summary": {
+        "en": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+        "zh": "Mass Spec Skills 赋能科学家使用 Google Antigravity 来解释串联质谱。"
+      }
+    },
+    {
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "published": "2026-11-24T21:00:00+08:00",
+      "title": {
+        "en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "zh": "GPT-6模型展示了内在的蛋白质设计能力"
+      },
+      "summary": {
+        "en": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+        "zh": "GPT-6模型使用推理和代码来设计蛋白质结构和序列。实验室测试发现了跨五个靶点的结合证据。"
+      }
+    }
+  ]
+}
